@@ -1,0 +1,2891 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="strAbsencePhoneNo" xml:space="preserve">
+    <value>Phone no in case of absence</value>
+  </data>
+  <data name="strAge" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="strAll" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="strAllFiles" xml:space="preserve">
+    <value>All Files</value>
+  </data>
+  <data name="strAllLogsDeleted" xml:space="preserve">
+    <value>All logs deleted till this date</value>
+  </data>
+  <data name="strAlreadyPaid" xml:space="preserve">
+    <value>Already paid for</value>
+  </data>
+  <data name="strAngola" xml:space="preserve">
+    <value>Angola</value>
+  </data>
+  <data name="strAppDatabaseNotConfigured" xml:space="preserve">
+    <value>This copy of the application has not been configured to connect to the  EduXpress School Management System database.</value>
+  </data>
+  <data name="strApplicationPreferences" xml:space="preserve">
+    <value>Application Preferences</value>
+  </data>
+  <data name="strApplicationRestarted" xml:space="preserve">
+    <value>The application will need to be restarted. Click Next to restart.</value>
+  </data>
+  <data name="strApplicationVersionOf" xml:space="preserve">
+    <value>The application version of</value>
+  </data>
+  <data name="strApril" xml:space="preserve">
+    <value>April</value>
+  </data>
+  <data name="strAs" xml:space="preserve">
+    <value>as</value>
+  </data>
+  <data name="strAugust" xml:space="preserve">
+    <value>August</value>
+  </data>
+  <data name="strAuto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="strAvailableFreeSize" xml:space="preserve">
+    <value>Available free size</value>
+  </data>
+  <data name="strBahai" xml:space="preserve">
+    <value>Bahá'í</value>
+  </data>
+  <data name="strBalance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="strBalanceLessZero" xml:space="preserve">
+    <value>The Balance cannot be less than zero</value>
+  </data>
+  <data name="strBalanceToPay" xml:space="preserve">
+    <value>Balance to pay</value>
+  </data>
+  <data name="strBankCard" xml:space="preserve">
+    <value>Bank Card</value>
+  </data>
+  <data name="strBankDeposit" xml:space="preserve">
+    <value>Bank Deposit</value>
+  </data>
+  <data name="strBeenDeleted" xml:space="preserve">
+    <value>has been Deleted</value>
+  </data>
+  <data name="strBlack" xml:space="preserve">
+    <value>Black</value>
+  </data>
+  <data name="strBlue" xml:space="preserve">
+    <value>Blue</value>
+  </data>
+  <data name="strBotswana" xml:space="preserve">
+    <value>Botswana</value>
+  </data>
+  <data name="strBurundi" xml:space="preserve">
+    <value>Burundi</value>
+  </data>
+  <data name="strCaramel" xml:space="preserve">
+    <value>Caramel</value>
+  </data>
+  <data name="strCash" xml:space="preserve">
+    <value>Cash</value>
+  </data>
+  <data name="strCashier" xml:space="preserve">
+    <value>Cashier</value>
+  </data>
+  <data name="strCatholic" xml:space="preserve">
+    <value>Roman Catholic</value>
+  </data>
+  <data name="strChangeDatabaseConfiguration" xml:space="preserve">
+    <value>Or do you want to change the database configuration at this time?</value>
+  </data>
+  <data name="strCharactersRemaining" xml:space="preserve">
+    <value> characters remaining</value>
+  </data>
+  <data name="strCheckEmail" xml:space="preserve">
+    <value>Please check your Email</value>
+  </data>
+  <data name="strCheckEnteredDetailsCorrectly" xml:space="preserve">
+    <value>Please check that you have entered the details correctly. For help, please contact your system's administrator</value>
+  </data>
+  <data name="strCheckingServerStatus" xml:space="preserve">
+    <value>Checking SQL server run status...</value>
+  </data>
+  <data name="strCheckPhone" xml:space="preserve">
+    <value>Please check your Cell Phone</value>
+  </data>
+  <data name="strClass" xml:space="preserve">
+    <value>Grade</value>
+  </data>
+  <data name="strClassExist" xml:space="preserve">
+    <value>This grade already exists!</value>
+  </data>
+  <data name="strClassFee" xml:space="preserve">
+    <value>Tuition fees</value>
+  </data>
+  <data name="strclassFeeInvoiceNo" xml:space="preserve">
+    <value>tuition fee, Invoice No</value>
+  </data>
+  <data name="strClassFeePayment" xml:space="preserve">
+    <value>Tuition fees payment</value>
+  </data>
+  <data name="strClassFeePaymentDetails" xml:space="preserve">
+    <value>Tuition fees payment details of</value>
+  </data>
+  <data name="strClassName" xml:space="preserve">
+    <value>Grade name</value>
+  </data>
+  <data name="strClipboardEmpty" xml:space="preserve">
+    <value>Clipboard Empty!</value>
+  </data>
+  <data name="strClocSpeed" xml:space="preserve">
+    <value>Clock Speed</value>
+  </data>
+  <data name="strClosed" xml:space="preserve">
+    <value>The application has been closed</value>
+  </data>
+  <data name="strCoffee" xml:space="preserve">
+    <value>Coffee</value>
+  </data>
+  <data name="strComputerName" xml:space="preserve">
+    <value>Computer name</value>
+  </data>
+  <data name="strConnected" xml:space="preserve">
+    <value>Successfully logged in</value>
+    <comment>log messsage connected</comment>
+  </data>
+  <data name="strContactSystemAdministrator" xml:space="preserve">
+    <value>Please contact your system administrator</value>
+  </data>
+  <data name="strCourseFeePaymentAdded" xml:space="preserve">
+    <value>New course fee payment entry has been added having payment id:</value>
+  </data>
+  <data name="strCourseFeePaymentUpdated" xml:space="preserve">
+    <value>Updated the course fee payment entry having payment id</value>
+  </data>
+  <data name="strCreatingDatabase" xml:space="preserve">
+    <value>Creating Database</value>
+  </data>
+  <data name="strCycle" xml:space="preserve">
+    <value>Education Band</value>
+  </data>
+  <data name="strDarkGray" xml:space="preserve">
+    <value>Dark Gray</value>
+  </data>
+  <data name="strDashboardSaved" xml:space="preserve">
+    <value>Dashboard saved successfully in database</value>
+  </data>
+  <data name="strDashboardUpdated" xml:space="preserve">
+    <value>Dashboard updated successfully in database</value>
+  </data>
+  <data name="strDatabaseConnectionFailed" xml:space="preserve">
+    <value>The connection to the database failed, possibly due to invalid configuration settings or the SQL Server engine is not running. First, check if your SQL Server instance is running</value>
+  </data>
+  <data name="strDatabaseConnectionSaved" xml:space="preserve">
+    <value>The database connection has been saved successfully...</value>
+  </data>
+  <data name="strDatabaseConnectionTest" xml:space="preserve">
+    <value>Database Connection Test</value>
+  </data>
+  <data name="strDatabaseCreatedSuccessfully" xml:space="preserve">
+    <value>Database created successfully</value>
+  </data>
+  <data name="strDatabaseDiskUsage" xml:space="preserve">
+    <value>Disk usage by database tables</value>
+  </data>
+  <data name="strDataWidth" xml:space="preserve">
+    <value>Data Width</value>
+  </data>
+  <data name="strDateTime" xml:space="preserve">
+    <value>Date and time</value>
+  </data>
+  <data name="strDecember" xml:space="preserve">
+    <value>December</value>
+  </data>
+  <data name="strDeleteConfirm" xml:space="preserve">
+    <value>Delete Confirmation</value>
+  </data>
+  <data name="strDeleteConfirmLogs" xml:space="preserve">
+    <value>Do you really want to delete all logs?</value>
+  </data>
+  <data name="strDeleteConfirmQuestion" xml:space="preserve">
+    <value>Do you really want to delete this record?</value>
+  </data>
+  <data name="strDeleting" xml:space="preserve">
+    <value>Deleting...</value>
+  </data>
+  <data name="strDescription" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="strDetailsOf" xml:space="preserve">
+    <value>The details of</value>
+  </data>
+  <data name="strDetailsUpdated" xml:space="preserve">
+    <value>your details have been updated successfully as</value>
+  </data>
+  <data name="strDiscount" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="strDiscountPerc" xml:space="preserve">
+    <value>Discount %</value>
+  </data>
+  <data name="strDocumentsSubmitted" xml:space="preserve">
+    <value>Documents submitted</value>
+  </data>
+  <data name="strDoesNotMatchLicensedVersion" xml:space="preserve">
+    <value>does not match the licensed version of</value>
+  </data>
+  <data name="strDoYouWantContinue" xml:space="preserve">
+    <value>Do you want to continue?</value>
+  </data>
+  <data name="strDRC" xml:space="preserve">
+    <value>Democratic Republic of Congo</value>
+  </data>
+  <data name="strEmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="strEmailNotSent" xml:space="preserve">
+    <value>Email not sent! Please check your email settings</value>
+  </data>
+  <data name="strEmailPasswordRecoverySent" xml:space="preserve">
+    <value>An email for password recovery has been sent to</value>
+  </data>
+  <data name="strEmailSending" xml:space="preserve">
+    <value>Sending Email...</value>
+  </data>
+  <data name="strEmailSent" xml:space="preserve">
+    <value>Email sent!</value>
+  </data>
+  <data name="strEmailSentTo" xml:space="preserve">
+    <value>An email has been sent to</value>
+  </data>
+  <data name="strEmailSetting" xml:space="preserve">
+    <value>Email Setting</value>
+  </data>
+  <data name="strEmergencyPhoneNo" xml:space="preserve">
+    <value>Emergency Phone No</value>
+  </data>
+  <data name="strEmployee" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="strEmployeeNumber" xml:space="preserve">
+    <value>Employee Number</value>
+  </data>
+  <data name="strEmployeeRegistration" xml:space="preserve">
+    <value>Employee Registration</value>
+  </data>
+  <data name="strEmployeeRegistrationNotification" xml:space="preserve">
+    <value>Employee registration notification</value>
+  </data>
+  <data name="strEmployeeUpdateNotification" xml:space="preserve">
+    <value>Employee details update notification</value>
+  </data>
+  <data name="strEnglish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="strEnrolmentDate" xml:space="preserve">
+    <value>Enrolment date</value>
+  </data>
+  <data name="strEnterCellphoneNo" xml:space="preserve">
+    <value>Please enter your cellphone number</value>
+  </data>
+  <data name="strEnterCellphoneNoMessage" xml:space="preserve">
+    <value>Please enter the cellphone number</value>
+  </data>
+  <data name="strEnterClassName" xml:space="preserve">
+    <value>Please enter the grade name</value>
+  </data>
+  <data name="strEnterConfirmNewPassword" xml:space="preserve">
+    <value>Please confirm the new password</value>
+  </data>
+  <data name="strEnterCurrentAcademicYear" xml:space="preserve">
+    <value>Please enter the current school year</value>
+  </data>
+  <data name="strEnterCurrentSchoolYear" xml:space="preserve">
+    <value>Please enter the current school year</value>
+  </data>
+  <data name="strEnterEmail" xml:space="preserve">
+    <value>Please enter your email address</value>
+  </data>
+  <data name="strEnterEmployeeCellNo" xml:space="preserve">
+    <value>Please enter the employee cell phone number</value>
+  </data>
+  <data name="strEnterEmployeeEmail" xml:space="preserve">
+    <value>Please enter the employee email address</value>
+  </data>
+  <data name="strEnterEmployeeName" xml:space="preserve">
+    <value>Please enter the employee name</value>
+  </data>
+  <data name="strEnterEmployeeNo" xml:space="preserve">
+    <value>Please enter the Employee Number</value>
+  </data>
+  <data name="strEnterEmployeeSurname" xml:space="preserve">
+    <value>Please enter the employee surname</value>
+  </data>
+  <data name="strEnterFee" xml:space="preserve">
+    <value>Please enter the fee</value>
+  </data>
+  <data name="strEnterName" xml:space="preserve">
+    <value>Please enter student names</value>
+  </data>
+  <data name="strEnterNameFee" xml:space="preserve">
+    <value>Please enter the name of the fee</value>
+  </data>
+  <data name="strEnterNewPassword" xml:space="preserve">
+    <value>Please enter a new password</value>
+  </data>
+  <data name="strEnterOldPassword" xml:space="preserve">
+    <value>Please enter the old password</value>
+  </data>
+  <data name="strEnterPhoneNoAbsence" xml:space="preserve">
+    <value>Please enter the alternative phone number to call in case of emergency, illness or absence when the main phone number is unreachable</value>
+  </data>
+  <data name="strEnterPhoneNoEmergency" xml:space="preserve">
+    <value>Please enter the phone number to call in case of emergency, illness or absence</value>
+  </data>
+  <data name="strEnterPortNo" xml:space="preserve">
+    <value>Please enter the Port number</value>
+  </data>
+  <data name="strEnterReceiptBarcode" xml:space="preserve">
+    <value>Please scan or enter the receipt Barcode</value>
+  </data>
+  <data name="strEnterRecipientEmail" xml:space="preserve">
+    <value>Please enter the recipient email address</value>
+  </data>
+  <data name="strEnterSchoolCellphoneNo" xml:space="preserve">
+    <value>Please enter the school cellphone number</value>
+  </data>
+  <data name="strEnterSchoolEmail" xml:space="preserve">
+    <value>Please enter the school email address</value>
+  </data>
+  <data name="strEnterSchoolName" xml:space="preserve">
+    <value>Please enter the school name</value>
+  </data>
+  <data name="strEnterSchoolStreet" xml:space="preserve">
+    <value>Please enter the school street name</value>
+  </data>
+  <data name="strEnterSchoolVAT" xml:space="preserve">
+    <value>Please enter the school VAT number. If the school is not registered for VAT, please select the option Not VAT Registered</value>
+  </data>
+  <data name="strEnterSchoolVATRate" xml:space="preserve">
+    <value>Please enter the VAT rate in %. If the school is not registered for VAT, please select the option Not VAT Registered</value>
+  </data>
+  <data name="strEnterSection" xml:space="preserve">
+    <value>Please enter field of study</value>
+  </data>
+  <data name="strEnterSectionAbbreviation" xml:space="preserve">
+    <value>Please enter field of study abbreviation</value>
+  </data>
+  <data name="strEnterSMSProvider" xml:space="preserve">
+    <value>Please enter the SMS provider name</value>
+  </data>
+  <data name="strEnterSMTP" xml:space="preserve">
+    <value>Please enter SMTP address</value>
+  </data>
+  <data name="strEnterSQLInstance" xml:space="preserve">
+    <value>If you have installed SQL server then enter the name of the SQL server instance manually</value>
+  </data>
+  <data name="strEnterSurname" xml:space="preserve">
+    <value>Please enter student surname</value>
+  </data>
+  <data name="strEnterTown" xml:space="preserve">
+    <value>Please enter the town</value>
+  </data>
+  <data name="strError" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="strErrorOccurred" xml:space="preserve">
+    <value>The following error occurred at location </value>
+  </data>
+  <data name="strErrorPassword" xml:space="preserve">
+    <value>Please enter password</value>
+  </data>
+  <data name="strErrorStartingSQLService" xml:space="preserve">
+    <value>Error in starting the SQL service</value>
+  </data>
+  <data name="strErrorUsername" xml:space="preserve">
+    <value>Please enter user name</value>
+    <comment>Login Form</comment>
+  </data>
+  <data name="strEvent" xml:space="preserve">
+    <value>Event</value>
+  </data>
+  <data name="strEventLogs" xml:space="preserve">
+    <value>Event Logs</value>
+  </data>
+  <data name="strExiting" xml:space="preserve">
+    <value>Exiting will close the entire application, are you sure you want to exit?</value>
+  </data>
+  <data name="strExportDocumentPDF" xml:space="preserve">
+    <value>Export Document to PDF</value>
+  </data>
+  <data name="strExported" xml:space="preserve">
+    <value>Exported successfully</value>
+  </data>
+  <data name="strExportErrorLibraryNotFound" xml:space="preserve">
+    <value>There is an error during exporting. The printing library is not found</value>
+  </data>
+  <data name="strExporting" xml:space="preserve">
+    <value>Exporting...</value>
+  </data>
+  <data name="strExpressVersion" xml:space="preserve">
+    <value>Express Version</value>
+  </data>
+  <data name="strExtClock" xml:space="preserve">
+    <value>Ext Clock</value>
+  </data>
+  <data name="strFailed" xml:space="preserve">
+    <value>Failed</value>
+  </data>
+  <data name="strFamily" xml:space="preserve">
+    <value>Family</value>
+  </data>
+  <data name="strFatherContactNo" xml:space="preserve">
+    <value>Father Contact No</value>
+  </data>
+  <data name="strFatherEmail" xml:space="preserve">
+    <value>Father Email</value>
+  </data>
+  <data name="strFatherName" xml:space="preserve">
+    <value>Father Names</value>
+  </data>
+  <data name="strFatherSurname" xml:space="preserve">
+    <value>Father Surname</value>
+  </data>
+  <data name="strFebruary" xml:space="preserve">
+    <value>February</value>
+  </data>
+  <data name="strFee" xml:space="preserve">
+    <value>Fee</value>
+  </data>
+  <data name="strFeedbackCustomer" xml:space="preserve">
+    <value>Feedback from customer: EduXpress v1.3.0</value>
+  </data>
+  <data name="strFeeDue" xml:space="preserve">
+    <value>Fees due</value>
+  </data>
+  <data name="strFeeName" xml:space="preserve">
+    <value>Fee name</value>
+  </data>
+  <data name="strFeeNameExists" xml:space="preserve">
+    <value>This fee name already exists</value>
+  </data>
+  <data name="strFemale" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="strFine" xml:space="preserve">
+    <value>Fine</value>
+  </data>
+  <data name="strforClass" xml:space="preserve">
+    <value>for grade</value>
+  </data>
+  <data name="strforTheMonth" xml:space="preserve">
+    <value>for the month of</value>
+  </data>
+  <data name="strFrench" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="strGender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="strGettingBalance" xml:space="preserve">
+    <value>Getting the balance...</value>
+  </data>
+  <data name="strGray" xml:space="preserve">
+    <value>Gray</value>
+  </data>
+  <data name="strGreen" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="strHardDrive" xml:space="preserve">
+    <value>Hard Drive</value>
+  </data>
+  <data name="strHardDriveSelected" xml:space="preserve">
+    <value>Hard drive selected</value>
+  </data>
+  <data name="strHasBeenAdded" xml:space="preserve">
+    <value>has been added</value>
+  </data>
+  <data name="strHasBeenDeleted" xml:space="preserve">
+    <value>has been deleted</value>
+  </data>
+  <data name="strHasBeenEnrolled" xml:space="preserve">
+    <value>has been enrolled</value>
+  </data>
+  <data name="strHasBeenSaved" xml:space="preserve">
+    <value>has been saved</value>
+  </data>
+  <data name="strHasBeenUpdated" xml:space="preserve">
+    <value>has been updated</value>
+  </data>
+  <data name="strHi" xml:space="preserve">
+    <value>Hi</value>
+  </data>
+  <data name="strHindu" xml:space="preserve">
+    <value>Hinduism</value>
+  </data>
+  <data name="strHomeAddress" xml:space="preserve">
+    <value>Home Address</value>
+  </data>
+  <data name="strHomeLanguage" xml:space="preserve">
+    <value>Home Language</value>
+  </data>
+  <data name="strImageAlreadySaved" xml:space="preserve">
+    <value>This image is already saved. Please delete first the original image from your image folder</value>
+  </data>
+  <data name="strImported" xml:space="preserve">
+    <value>Imported successfully</value>
+  </data>
+  <data name="strInputError" xml:space="preserve">
+    <value>Input Error</value>
+  </data>
+  <data name="strInternetWillBeLost" xml:space="preserve">
+    <value>Your Internet Connection will be lost for a while. Proceed?</value>
+  </data>
+  <data name="strInvalidDatabaseConnection" xml:space="preserve">
+    <value>Invalid database connection</value>
+  </data>
+  <data name="strInvalidEmailAddress" xml:space="preserve">
+    <value>Invalid email address</value>
+  </data>
+  <data name="strIPAddressEthernet" xml:space="preserve">
+    <value>IP Address Ethernet</value>
+  </data>
+  <data name="strIsDefault" xml:space="preserve">
+    <value>Is Default</value>
+  </data>
+  <data name="strIsEnabled" xml:space="preserve">
+    <value>Is Enabled</value>
+  </data>
+  <data name="strIslam" xml:space="preserve">
+    <value>Islam</value>
+  </data>
+  <data name="strJanuary" xml:space="preserve">
+    <value>January</value>
+  </data>
+  <data name="strJuly" xml:space="preserve">
+    <value>July</value>
+  </data>
+  <data name="strJune" xml:space="preserve">
+    <value>June</value>
+  </data>
+  <data name="strKeepInfoSave" xml:space="preserve">
+    <value>Please keep this information safe</value>
+  </data>
+  <data name="strKenya" xml:space="preserve">
+    <value>Kenya</value>
+  </data>
+  <data name="strKikongo" xml:space="preserve">
+    <value>Kikongo</value>
+  </data>
+  <data name="strKimbangu" xml:space="preserve">
+    <value>Kimbanguism</value>
+  </data>
+  <data name="strL2CacheSize" xml:space="preserve">
+    <value>L2 Cache Size</value>
+  </data>
+  <data name="strLastSchoolAttended" xml:space="preserve">
+    <value>Last School Attended</value>
+  </data>
+  <data name="strLastWeek" xml:space="preserve">
+    <value>Last Week</value>
+  </data>
+  <data name="strLaunchWizard" xml:space="preserve">
+    <value>Launch the wizard that will guide you to configure the connection to the database.</value>
+  </data>
+  <data name="strLesotho" xml:space="preserve">
+    <value>Lesotho</value>
+  </data>
+  <data name="strLicenseFileCorruptInvalid" xml:space="preserve">
+    <value>The license file was corrupt or contained invalid data</value>
+  </data>
+  <data name="strLicenseFileNotFound" xml:space="preserve">
+    <value>The license file could not be found</value>
+  </data>
+  <data name="strLicenseFileNotMatchDigitalSignature" xml:space="preserve">
+    <value>The license file's contents did not match its digital signature</value>
+  </data>
+  <data name="strLicenseFiles" xml:space="preserve">
+    <value>License Files</value>
+  </data>
+  <data name="strLicenseValid" xml:space="preserve">
+    <value>The license is valid</value>
+  </data>
+  <data name="strLicenseValidCannotBeUsedUntil" xml:space="preserve">
+    <value>Although the license file is valid, it cannot be used until</value>
+  </data>
+  <data name="strLicenseValidExpired" xml:space="preserve">
+    <value>Although the license file is valid, it expired on</value>
+  </data>
+  <data name="strLightBlue" xml:space="preserve">
+    <value>Light Blue</value>
+  </data>
+  <data name="strLingala" xml:space="preserve">
+    <value>Lingala</value>
+  </data>
+  <data name="strListFees" xml:space="preserve">
+    <value>List of fees</value>
+  </data>
+  <data name="strListStudents" xml:space="preserve">
+    <value>List of Students</value>
+  </data>
+  <data name="strLoadingPrinters" xml:space="preserve">
+    <value>Loading printers</value>
+  </data>
+  <data name="strLoggedIn" xml:space="preserve">
+    <value>logged in</value>
+  </data>
+  <data name="strLoggedOff" xml:space="preserve">
+    <value>Successfully logged Off</value>
+  </data>
+  <data name="strLoginErrorDenied" xml:space="preserve">
+    <value>Login Failed...Try again !</value>
+    <comment>Login Form</comment>
+  </data>
+  <data name="strLoginErrorWrongUserDetails" xml:space="preserve">
+    <value>Login Failed...The username does not correspond with the user type registered with this account. Contact your supervisor !</value>
+  </data>
+  <data name="strMACAddress" xml:space="preserve">
+    <value>MAC Address</value>
+  </data>
+  <data name="strMalawi" xml:space="preserve">
+    <value>Malawi</value>
+  </data>
+  <data name="strMale" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="strManufacturer" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="strMarch" xml:space="preserve">
+    <value>March</value>
+  </data>
+  <data name="strMaternelle" xml:space="preserve">
+    <value>kindergarten</value>
+  </data>
+  <data name="strMay" xml:space="preserve">
+    <value>May</value>
+  </data>
+  <data name="strMedicalConditions" xml:space="preserve">
+    <value>Medical Conditions/Allergies</value>
+  </data>
+  <data name="strMessageEmpty" xml:space="preserve">
+    <value>You can't send an empty message</value>
+  </data>
+  <data name="strModeOfPayment" xml:space="preserve">
+    <value>Mode of Payment</value>
+  </data>
+  <data name="strMonth" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="strMotherboardInfo" xml:space="preserve">
+    <value>Motherboard Information</value>
+  </data>
+  <data name="strMotherboardName" xml:space="preserve">
+    <value>Motherboard Name</value>
+  </data>
+  <data name="strMotherContactNo" xml:space="preserve">
+    <value>Mother Contact No</value>
+  </data>
+  <data name="strMotherEmail" xml:space="preserve">
+    <value>Mother Email</value>
+  </data>
+  <data name="strMotherNames" xml:space="preserve">
+    <value>Mother Names</value>
+  </data>
+  <data name="strMotherSurname" xml:space="preserve">
+    <value>Mother Surname</value>
+  </data>
+  <data name="strMozambique" xml:space="preserve">
+    <value>Mozambique</value>
+  </data>
+  <data name="strN/A" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="strName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="strNameGeneral" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="strNamibia" xml:space="preserve">
+    <value>Namibia</value>
+  </data>
+  <data name="strNationality" xml:space="preserve">
+    <value>Nationality</value>
+  </data>
+  <data name="strNetwork" xml:space="preserve">
+    <value>Network</value>
+  </data>
+  <data name="strNewClass" xml:space="preserve">
+    <value>a new grade</value>
+  </data>
+  <data name="strNewClassFee" xml:space="preserve">
+    <value>A new fee</value>
+  </data>
+  <data name="strNewClassFeeSaved" xml:space="preserve">
+    <value>The new fee has been successfully saved</value>
+  </data>
+  <data name="strNewClassSaved" xml:space="preserve">
+    <value>The new grade has been successfully saved</value>
+  </data>
+  <data name="strNewEmployeeSaved" xml:space="preserve">
+    <value>A new employee has been saved</value>
+  </data>
+  <data name="strNewSchoolProfile" xml:space="preserve">
+    <value>A new school profile</value>
+  </data>
+  <data name="strNewSchoolYear" xml:space="preserve">
+    <value>A new school year</value>
+  </data>
+  <data name="strNewSection" xml:space="preserve">
+    <value>New field of study</value>
+  </data>
+  <data name="strNewSMSProviderSaved" xml:space="preserve">
+    <value>The new SMS provider has been successfully saved</value>
+  </data>
+  <data name="strNewStudentEnrolled" xml:space="preserve">
+    <value>New student enrolled</value>
+  </data>
+  <data name="strNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="strNoEmailProfileFound" xml:space="preserve">
+    <value>We could not find a profile matching this email address</value>
+  </data>
+  <data name="strNoImageClipboard" xml:space="preserve">
+    <value>No image in Clipboard!</value>
+  </data>
+  <data name="strNoInternetEmailNotSent" xml:space="preserve">
+    <value>There is no Internet Connection! The Email cannot be sent</value>
+  </data>
+  <data name="strNoInternetToCheckSMSBalance" xml:space="preserve">
+    <value>There is no Internet Connection to get the account balance!</value>
+  </data>
+  <data name="strNoInternetToSendEmail" xml:space="preserve">
+    <value>There is no Internet Connection! Email notification cannot be sent</value>
+  </data>
+  <data name="strNoInternetToSendSMS" xml:space="preserve">
+    <value>There is no Internet Connection! The SMS notification cannot be sent</value>
+  </data>
+  <data name="strNoLoggedIn" xml:space="preserve">
+    <value>No one logged in</value>
+  </data>
+  <data name="strNoPermissionSavePhotos" xml:space="preserve">
+    <value>You don't have permission to save pupils photos to</value>
+  </data>
+  <data name="strNoPhoneProfileFound" xml:space="preserve">
+    <value>We could not find a profile matching this Cell phone number</value>
+  </data>
+  <data name="strNoRecordFound" xml:space="preserve">
+    <value>No record found</value>
+  </data>
+  <data name="strNoSavedDashboard" xml:space="preserve">
+    <value>There is no saved dashboard. Please create or load a new dashboard</value>
+  </data>
+  <data name="strNoSiblings" xml:space="preserve">
+    <value>Number of siblings</value>
+  </data>
+  <data name="strNoSMSNotificationSent" xml:space="preserve">
+    <value>No SMS notification sent! Please configure your SMS Gateway settings first.</value>
+  </data>
+  <data name="strNoSQLServerInstance" xml:space="preserve">
+    <value>Sorry unable to find SQL server instance</value>
+  </data>
+  <data name="strNoStudent" xml:space="preserve">
+    <value>No student found</value>
+  </data>
+  <data name="strNoStudentSelected" xml:space="preserve">
+    <value>No student selected! Please the select all the students to be transferred</value>
+  </data>
+  <data name="strNotConfigured" xml:space="preserve">
+    <value>Not configured yet</value>
+  </data>
+  <data name="strNotificationEmail" xml:space="preserve">
+    <value>Notification Email</value>
+  </data>
+  <data name="strNotificationError" xml:space="preserve">
+    <value>Notification Error</value>
+  </data>
+  <data name="strNotificationNo" xml:space="preserve">
+    <value>Notification No</value>
+  </data>
+  <data name="strNoValidLicenseDetected" xml:space="preserve">
+    <value>There is no valid license detected for this software to use this feature or your license has expired. 
+If you have access to a valid license file, you can verify it now or contact your software vendor. 
+Would you like to locate a valid license file at this time?</value>
+  </data>
+  <data name="strNovember" xml:space="preserve">
+    <value>November</value>
+  </data>
+  <data name="strNoYes" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="strNumberSentSMS" xml:space="preserve">
+    <value>Number of Sent SMS</value>
+  </data>
+  <data name="strOctober" xml:space="preserve">
+    <value>October</value>
+  </data>
+  <data name="strOf" xml:space="preserve">
+    <value>of</value>
+  </data>
+  <data name="strOnlyLetters" xml:space="preserve">
+    <value>Only letters,numbers and underscore is allowed</value>
+  </data>
+  <data name="strOpenFile" xml:space="preserve">
+    <value>Do you want to open the file?</value>
+  </data>
+  <data name="strOpenLicenseFile" xml:space="preserve">
+    <value>Open License File</value>
+  </data>
+  <data name="strOther" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="strOtherEmailDefault" xml:space="preserve">
+    <value>An other Email address is already set as the default</value>
+  </data>
+  <data name="strPassed" xml:space="preserve">
+    <value>Passed</value>
+  </data>
+  <data name="strPassPercentage" xml:space="preserve">
+    <value>Percentage</value>
+  </data>
+  <data name="strPassword" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="strPasswordChanged" xml:space="preserve">
+    <value>Password successfully changed</value>
+  </data>
+  <data name="strPasswordIs" xml:space="preserve">
+    <value>Your password is</value>
+  </data>
+  <data name="strPasswordNotMatch" xml:space="preserve">
+    <value>The password does not match</value>
+  </data>
+  <data name="strPasswordRecovery" xml:space="preserve">
+    <value>Password Recovery</value>
+  </data>
+  <data name="strPasswordSame" xml:space="preserve">
+    <value>The password is the same... Please enter a new different password</value>
+  </data>
+  <data name="strPasswordSent" xml:space="preserve">
+    <value>Password successfully sent</value>
+  </data>
+  <data name="strPayment" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="strPaymentDate" xml:space="preserve">
+    <value>Payment Date</value>
+  </data>
+  <data name="strPhoneNumber" xml:space="preserve">
+    <value>Phone Number</value>
+  </data>
+  <data name="strPink" xml:space="preserve">
+    <value>Pink</value>
+  </data>
+  <data name="strPort" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="strPreferences" xml:space="preserve">
+    <value>Application Preferences</value>
+  </data>
+  <data name="strPreferencesSaved" xml:space="preserve">
+    <value>Application Preferences saved successfully. For the language change to take effect, the application must be restarted. Do you want to restart the application?</value>
+  </data>
+  <data name="strPreferencesSavedNoLanguage" xml:space="preserve">
+    <value>Application Preferences saved successfully.</value>
+  </data>
+  <data name="strPreviousDue" xml:space="preserve">
+    <value>Previous Due</value>
+  </data>
+  <data name="strPrimaire" xml:space="preserve">
+    <value>Primary</value>
+  </data>
+  <data name="strPrintError" xml:space="preserve">
+    <value>Print Error</value>
+  </data>
+  <data name="strPrintErrorLibraryNotFound" xml:space="preserve">
+    <value>There is an error during printing. The printing library is not found</value>
+  </data>
+  <data name="strPrinterSettings" xml:space="preserve">
+    <value>Printer Settings</value>
+  </data>
+  <data name="strPrintersNamesSaved" xml:space="preserve">
+    <value>Printers names saved successfully</value>
+  </data>
+  <data name="strPrinting" xml:space="preserve">
+    <value>Printing...</value>
+  </data>
+  <data name="strProcessorID" xml:space="preserve">
+    <value>Processor ID</value>
+  </data>
+  <data name="strProcessorInfo" xml:space="preserve">
+    <value>Processor Information</value>
+  </data>
+  <data name="strProfessionalVersion" xml:space="preserve">
+    <value>Professional Version</value>
+  </data>
+  <data name="strProgramTitle" xml:space="preserve">
+    <value>EduXpress School Management System</value>
+  </data>
+  <data name="strProtestant" xml:space="preserve">
+    <value>Protestants</value>
+  </data>
+  <data name="strReceiptNo" xml:space="preserve">
+    <value>Receipt No</value>
+  </data>
+  <data name="strReceiptNotPrinted" xml:space="preserve">
+    <value>Receipt not printed. Please setup your Receipt Printer first in Settings Menu</value>
+  </data>
+  <data name="strReceiptNotPrintedWrongConfig" xml:space="preserve">
+    <value>Receipt not printed. Wrong printer settings detected.</value>
+  </data>
+  <data name="strReceiptPrinter58Roll" xml:space="preserve">
+    <value>Receipt Printer (58mm Roll Paper)</value>
+  </data>
+  <data name="strReceiptPrinter80Roll" xml:space="preserve">
+    <value>Receipt Printer (80mm Roll Paper)</value>
+  </data>
+  <data name="strRecord" xml:space="preserve">
+    <value>Record</value>
+  </data>
+  <data name="strRecordExists" xml:space="preserve">
+    <value>Record already exists</value>
+  </data>
+  <data name="strRecordsEmployee" xml:space="preserve">
+    <value>The records of employee</value>
+  </data>
+  <data name="strRegisteredAs" xml:space="preserve">
+    <value>registered as</value>
+  </data>
+  <data name="strRegisteredSuccessfullyAs" xml:space="preserve">
+    <value>you have been registered successfully as</value>
+  </data>
+  <data name="strReligion" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="strReportPrinterA4" xml:space="preserve">
+    <value>Report Printer (A4)</value>
+  </data>
+  <data name="strReportSentSMS" xml:space="preserve">
+    <value>Report of sent SMS messages</value>
+  </data>
+  <data name="strReportUnpaidFees" xml:space="preserve">
+    <value>Report of unpaid fees</value>
+  </data>
+  <data name="strResults" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="strRetrieveStudentDetails" xml:space="preserve">
+    <value>Please retrieve student details</value>
+  </data>
+  <data name="strRevision" xml:space="preserve">
+    <value>Revision</value>
+  </data>
+  <data name="strRwanda" xml:space="preserve">
+    <value>Rwanda</value>
+  </data>
+  <data name="strSaveDatabaseConnection" xml:space="preserve">
+    <value>This will save the database connection, create the database tables and restart the application. Do you want to proceed?</value>
+  </data>
+  <data name="strSaving" xml:space="preserve">
+    <value>Saving...</value>
+  </data>
+  <data name="strSchoolActivities" xml:space="preserve">
+    <value>Authorized in School Activities</value>
+  </data>
+  <data name="strSchoolClasses" xml:space="preserve">
+    <value>School grades</value>
+  </data>
+  <data name="strSchoolFees" xml:space="preserve">
+    <value>School fees</value>
+  </data>
+  <data name="strSchoolFeesPaymentNotification" xml:space="preserve">
+    <value>School fees payment notification</value>
+  </data>
+  <data name="strSchoolFeesPaymentUpdateNotification" xml:space="preserve">
+    <value>School fees payment details update notification</value>
+  </data>
+  <data name="strSchoolPhotos" xml:space="preserve">
+    <value>Authorized to  take photos in school activities</value>
+  </data>
+  <data name="strSchoolProfile" xml:space="preserve">
+    <value>School profile</value>
+  </data>
+  <data name="strSchoolProfileSetup" xml:space="preserve">
+    <value>Please Click Next to continue with the school profile setup</value>
+  </data>
+  <data name="strSchoolSections" xml:space="preserve">
+    <value>School fields of studies</value>
+  </data>
+  <data name="strSchoolYear" xml:space="preserve">
+    <value>School Year</value>
+  </data>
+  <data name="strSchoolYearExists" xml:space="preserve">
+    <value>This school year already exists</value>
+  </data>
+  <data name="strSearching" xml:space="preserve">
+    <value>Searching...</value>
+  </data>
+  <data name="strSecondHuma" xml:space="preserve">
+    <value>(Upper) secondary</value>
+  </data>
+  <data name="strSecondOrientation" xml:space="preserve">
+    <value>Lower secondary</value>
+  </data>
+  <data name="strSection" xml:space="preserve">
+    <value>Field of study</value>
+  </data>
+  <data name="strSectionAbbreviation" xml:space="preserve">
+    <value>Field of study abbreviation</value>
+  </data>
+  <data name="strSectionExists" xml:space="preserve">
+    <value>This field of study already exists</value>
+  </data>
+  <data name="strSelectAuthentication" xml:space="preserve">
+    <value>Please select the authentication method</value>
+  </data>
+  <data name="strSelectClass" xml:space="preserve">
+    <value>Please select the grade</value>
+  </data>
+  <data name="strSelectClassName" xml:space="preserve">
+    <value>Please select the Grade Name</value>
+  </data>
+  <data name="strSelectCycle" xml:space="preserve">
+    <value>Please select the education band</value>
+  </data>
+  <data name="strSelectDateBirth" xml:space="preserve">
+    <value>Please select the date of birth</value>
+  </data>
+  <data name="strSelectDatePeriod" xml:space="preserve">
+    <value>Please select the date period</value>
+  </data>
+  <data name="strSelectEmailServerName" xml:space="preserve">
+    <value>Please select server name</value>
+  </data>
+  <data name="strSelectFeeName" xml:space="preserve">
+    <value>Please select the Fee Name</value>
+  </data>
+  <data name="strSelectGender" xml:space="preserve">
+    <value>Please select student gender</value>
+  </data>
+  <data name="strSelectInternationalDiallingCode" xml:space="preserve">
+    <value>Please select your country international dialling code</value>
+  </data>
+  <data name="strSelectMonth" xml:space="preserve">
+    <value>Please select the Month</value>
+  </data>
+  <data name="StrSelectNewClass" xml:space="preserve">
+    <value>Please click on the select button to retrieve the new Grade</value>
+  </data>
+  <data name="strSelectPaymentMode" xml:space="preserve">
+    <value>Please select Payment Mode</value>
+  </data>
+  <data name="strSelectPaymentMonth" xml:space="preserve">
+    <value>Please select the payment month</value>
+  </data>
+  <data name="strSelectPhoto" xml:space="preserve">
+    <value>Please Select or capture the student photo</value>
+  </data>
+  <data name="strSelectPhotoEmployee" xml:space="preserve">
+    <value>Please select or capture the employee photo</value>
+  </data>
+  <data name="strSelectPrinter" xml:space="preserve">
+    <value>Please select the printer</value>
+  </data>
+  <data name="strSelectReportByEmployee" xml:space="preserve">
+    <value>Please select the Report by employee or All</value>
+  </data>
+  <data name="strSelectSchoolYear" xml:space="preserve">
+    <value>Please select school year</value>
+  </data>
+  <data name="strSelectServerName" xml:space="preserve">
+    <value>Please select/enter the Server Name</value>
+  </data>
+  <data name="strSelectSQLinstance" xml:space="preserve">
+    <value>Please select the SQL instance name</value>
+  </data>
+  <data name="strSelectTransferredSchoolYear" xml:space="preserve">
+    <value>Please select the new school year to transfer the student to</value>
+  </data>
+  <data name="strSelectTypePrinter" xml:space="preserve">
+    <value>Please select the type of printer</value>
+  </data>
+  <data name="strSelectUserType" xml:space="preserve">
+    <value>Please select User Type</value>
+  </data>
+  <data name="strSendEmptyMessage" xml:space="preserve">
+    <value>Do you want to send an empty message?</value>
+  </data>
+  <data name="strSendingEmail" xml:space="preserve">
+    <value>Sending Email notification...</value>
+  </data>
+  <data name="strSendingSMS" xml:space="preserve">
+    <value>Sending SMS notification...</value>
+  </data>
+  <data name="strSendingSMSMessage" xml:space="preserve">
+    <value>Sending SMS</value>
+  </data>
+  <data name="strSendingSMSMessageSplash" xml:space="preserve">
+    <value>Sending SMS message...</value>
+  </data>
+  <data name="strSendMessageWithoutSubject" xml:space="preserve">
+    <value>Do you want to send this message without a subject?</value>
+  </data>
+  <data name="strSendSMS" xml:space="preserve">
+    <value>Send SMS</value>
+  </data>
+  <data name="strSeptember" xml:space="preserve">
+    <value>September</value>
+  </data>
+  <data name="strSerialNumber" xml:space="preserve">
+    <value>Serial Number</value>
+  </data>
+  <data name="strServerName" xml:space="preserve">
+    <value>Server Name</value>
+  </data>
+  <data name="strShutDown" xml:space="preserve">
+    <value>The application has been closed by Windows Shutdown</value>
+  </data>
+  <data name="strSiblingsSchool" xml:space="preserve">
+    <value>Student has siblings at school</value>
+  </data>
+  <data name="strSilver" xml:space="preserve">
+    <value>Silver</value>
+  </data>
+  <data name="strSkyBlue" xml:space="preserve">
+    <value>Sky Blue</value>
+  </data>
+  <data name="strSMSMessage" xml:space="preserve">
+    <value>SMS Message</value>
+  </data>
+  <data name="strSMSMessageTemplate" xml:space="preserve">
+    <value>SMS message template</value>
+  </data>
+  <data name="strSMSPasswordRecoverySent" xml:space="preserve">
+    <value>An SMS for password recovery has been sent to</value>
+  </data>
+  <data name="strSMSProvider" xml:space="preserve">
+    <value>The SMS provider</value>
+  </data>
+  <data name="strSMSsent" xml:space="preserve">
+    <value>SMS message(s) sent successfully</value>
+  </data>
+  <data name="strSMSsentTo" xml:space="preserve">
+    <value>SMS message sent to</value>
+  </data>
+  <data name="strSMSsettings" xml:space="preserve">
+    <value>SMS Settings</value>
+  </data>
+  <data name="strSMSTemplateMessageEmpty" xml:space="preserve">
+    <value>The template message can't be empty</value>
+  </data>
+  <data name="strSMSTemplateName" xml:space="preserve">
+    <value>Select the message template</value>
+  </data>
+  <data name="strSMTPAddress" xml:space="preserve">
+    <value>SMTP Address</value>
+  </data>
+  <data name="strSouthAfrica" xml:space="preserve">
+    <value>South Africa</value>
+  </data>
+  <data name="strSQLAuthentication" xml:space="preserve">
+    <value>SQL server authentication</value>
+  </data>
+  <data name="strSQLServiceNotRunning" xml:space="preserve">
+    <value>The SQL server service is not running, please restart it or contact your system administrator</value>
+  </data>
+  <data name="strSQLServiceStatusRunning" xml:space="preserve">
+    <value>Server: Running</value>
+  </data>
+  <data name="strSQLServiceStatusStopped" xml:space="preserve">
+    <value>Server: Stopped!</value>
+  </data>
+  <data name="strSQLSettings" xml:space="preserve">
+    <value>SQL server settings</value>
+  </data>
+  <data name="strSSLRequired" xml:space="preserve">
+    <value>TLS/SSL Required</value>
+  </data>
+  <data name="strStandardVersion" xml:space="preserve">
+    <value>Standard Version</value>
+  </data>
+  <data name="strstrPaymentReport" xml:space="preserve">
+    <value>Payment Report</value>
+  </data>
+  <data name="strStudent" xml:space="preserve">
+    <value>Student</value>
+  </data>
+  <data name="strStudentClassFeesPayment" xml:space="preserve">
+    <value>Student Tuition Fees Payment</value>
+  </data>
+  <data name="strStudentClassFeesPaymentUpdated" xml:space="preserve">
+    <value>Student Tuition Fee payment updated</value>
+  </data>
+  <data name="strStudentDashboard" xml:space="preserve">
+    <value>Students Dashboard</value>
+  </data>
+  <data name="strStudentEnrolment" xml:space="preserve">
+    <value>Student Enrolment</value>
+  </data>
+  <data name="strStudentEnrolmentNotification" xml:space="preserve">
+    <value>Student enrolment notification</value>
+  </data>
+  <data name="strStudentEnrolmentUpdateNotification" xml:space="preserve">
+    <value>Student enrolment details update notification</value>
+  </data>
+  <data name="strStudentNo" xml:space="preserve">
+    <value>Student Number</value>
+  </data>
+  <data name="strStudentRecords" xml:space="preserve">
+    <value>Student Records</value>
+  </data>
+  <data name="strStudentRecordsOf" xml:space="preserve">
+    <value>The student's record of</value>
+  </data>
+  <data name="strStudentRecordsSave" xml:space="preserve">
+    <value>The student records has been successfully saved</value>
+  </data>
+  <data name="strStudentRecordsUpdated" xml:space="preserve">
+    <value>The student records have been successfully updated</value>
+  </data>
+  <data name="strSuccessfulConnectionDatabase" xml:space="preserve">
+    <value>Successful Connection to Database</value>
+  </data>
+  <data name="strSuccessfullyDeleted" xml:space="preserve">
+    <value>Successfully deleted</value>
+  </data>
+  <data name="strSuccessfullyPaid" xml:space="preserve">
+    <value>Successfully paid</value>
+  </data>
+  <data name="strSuccessfullyPaidClassFee" xml:space="preserve">
+    <value>successfully paid the tuition fee</value>
+  </data>
+  <data name="strSuccessfullySaved" xml:space="preserve">
+    <value>Successfully Saved</value>
+  </data>
+  <data name="strSuccessfullyUpdated" xml:space="preserve">
+    <value>Successfully Updated</value>
+  </data>
+  <data name="strSurname" xml:space="preserve">
+    <value>Surname</value>
+  </data>
+  <data name="strSwahili" xml:space="preserve">
+    <value>Swahili</value>
+  </data>
+  <data name="strSwaziland" xml:space="preserve">
+    <value>eSwatini</value>
+  </data>
+  <data name="strSystemInfo" xml:space="preserve">
+    <value>System info</value>
+  </data>
+  <data name="strSystemName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="strTanzania" xml:space="preserve">
+    <value>Tanzania</value>
+  </data>
+  <data name="strThankYou" xml:space="preserve">
+    <value>Thank you</value>
+  </data>
+  <data name="strThereIsDatabase" xml:space="preserve">
+    <value>There is already a database!</value>
+  </data>
+  <data name="strThisMonth" xml:space="preserve">
+    <value>This Month</value>
+  </data>
+  <data name="strThisWeek" xml:space="preserve">
+    <value>This Week</value>
+  </data>
+  <data name="strTo" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="strToday" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="strTotalAmountDu" xml:space="preserve">
+    <value>Total amount du</value>
+  </data>
+  <data name="strTotalDue" xml:space="preserve">
+    <value>Total Due</value>
+  </data>
+  <data name="strTotalFee" xml:space="preserve">
+    <value>Total Fee</value>
+  </data>
+  <data name="strTotalFreeSize" xml:space="preserve">
+    <value>Total free size</value>
+  </data>
+  <data name="strTotalPaiCannotGrandTotal" xml:space="preserve">
+    <value>Total Paid cannot be more than Grand Total</value>
+  </data>
+  <data name="strTotalPaiCannotTotalDue" xml:space="preserve">
+    <value>Total Paid cannot be more than Total Due</value>
+  </data>
+  <data name="strTotalPaid" xml:space="preserve">
+    <value>Total Paid</value>
+  </data>
+  <data name="strTotalPaidGreaterZero" xml:space="preserve">
+    <value>Total paid must be greater than zero</value>
+  </data>
+  <data name="strTotalSize" xml:space="preserve">
+    <value>Total size</value>
+  </data>
+  <data name="strTraditional" xml:space="preserve">
+    <value>Traditional</value>
+  </data>
+  <data name="strTrialVersion" xml:space="preserve">
+    <value>Trial Version</value>
+  </data>
+  <data name="strTshiluba" xml:space="preserve">
+    <value>Tshiluba</value>
+  </data>
+  <data name="strUnableConnectSQL" xml:space="preserve">
+    <value>Unable to connect to SQL server</value>
+  </data>
+  <data name="strUnableDeleteFee" xml:space="preserve">
+    <value>Unable to delete... Already in use in the course fee entry</value>
+  </data>
+  <data name="strUnableDeleteSection" xml:space="preserve">
+    <value>Unable to delete field... Already in use in the student registration entry</value>
+  </data>
+  <data name="strUnableDeleteUseStudents" xml:space="preserve">
+    <value>Unable to delete... Already in use in students registration entry</value>
+  </data>
+  <data name="strUnlicensed" xml:space="preserve">
+    <value>Unlicensed</value>
+  </data>
+  <data name="strUpdating" xml:space="preserve">
+    <value>Updating...</value>
+  </data>
+  <data name="strUserInfo" xml:space="preserve">
+    <value>User Information</value>
+  </data>
+  <data name="strUserName" xml:space="preserve">
+    <value>User Name</value>
+  </data>
+  <data name="strUsernameAvailable" xml:space="preserve">
+    <value>Username available</value>
+  </data>
+  <data name="strUsernameExists" xml:space="preserve">
+    <value>Username already exists. Please choose a different user name</value>
+  </data>
+  <data name="strUserNameIs" xml:space="preserve">
+    <value>Your username is</value>
+  </data>
+  <data name="strUsernameNotAvailable" xml:space="preserve">
+    <value>Username not available</value>
+  </data>
+  <data name="strUsernamePasswordInvalid" xml:space="preserve">
+    <value>Invalid user name or password</value>
+  </data>
+  <data name="strUserType" xml:space="preserve">
+    <value>User Type</value>
+  </data>
+  <data name="strVolumeLabel" xml:space="preserve">
+    <value>Volume Label</value>
+  </data>
+  <data name="strWantOpenFile" xml:space="preserve">
+    <value>Do you want to open the file?</value>
+  </data>
+  <data name="strWhite" xml:space="preserve">
+    <value>White</value>
+  </data>
+  <data name="strWindowsAuthentication" xml:space="preserve">
+    <value>Windows authentication</value>
+  </data>
+  <data name="strWith" xml:space="preserve">
+    <value>with</value>
+  </data>
+  <data name="strYes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="strYesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="strYourName" xml:space="preserve">
+    <value>Your Name</value>
+  </data>
+  <data name="strYourPassword" xml:space="preserve">
+    <value>Your password is</value>
+  </data>
+  <data name="strZambia" xml:space="preserve">
+    <value>Zambia</value>
+  </data>
+  <data name="strZimbabwe" xml:space="preserve">
+    <value>Zimbabwe</value>
+  </data>
+  <data name="strReceiptPrinter40By30" xml:space="preserve">
+    <value>Receipt Printer (40mm Width by 30mm Height Sticker)</value>
+  </data>
+  <data name="strSMSLong" xml:space="preserve">
+    <value>Your message is too long! The system can only send a message with maximum 465 characters</value>
+  </data>
+  <data name="str1stQuarter" xml:space="preserve">
+    <value>1st quarter</value>
+  </data>
+  <data name="str2ndQuarter" xml:space="preserve">
+    <value>2nd quarter</value>
+  </data>
+  <data name="str3rdQuarter" xml:space="preserve">
+    <value>3rd quarter</value>
+  </data>
+  <data name="strPeriod" xml:space="preserve">
+    <value>Period</value>
+  </data>
+  <data name="strSchoolFeesNotSaved" xml:space="preserve">
+    <value>There was an error saving the school fees. Fees not saved</value>
+  </data>
+  <data name="strSchoolFeesNotUpdated" xml:space="preserve">
+    <value>There was an error updating the school fees. Fees not updated</value>
+  </data>
+  <data name="strBackingUpDatabase" xml:space="preserve">
+    <value>Backing Up the database...</value>
+  </data>
+  <data name="strBackupSavedTo" xml:space="preserve">
+    <value>Backup saved to</value>
+  </data>
+  <data name="strDatabaseBackupRestore" xml:space="preserve">
+    <value>Database Backup/Restore</value>
+  </data>
+  <data name="strSaveDatabaseBackup" xml:space="preserve">
+    <value>Save database backup file</value>
+  </data>
+  <data name="strDatabaseBackupSaved" xml:space="preserve">
+    <value>Database backup successfully saved</value>
+  </data>
+  <data name="strRestoreDatabase" xml:space="preserve">
+    <value>Restore database</value>
+  </data>
+  <data name="strRestoringDatabase" xml:space="preserve">
+    <value>Restoring the database...</value>
+  </data>
+  <data name="strSelectBackupFolder" xml:space="preserve">
+    <value>Please select the backup folder</value>
+  </data>
+  <data name="strSuccessfullyPerformedDatabaseRestore" xml:space="preserve">
+    <value>Successfully performed the database restore</value>
+  </data>
+  <data name="strReportGeneratedDateTime" xml:space="preserve">
+    <value>Report Generated Date and Time</value>
+  </data>
+  <data name="strNoDataExport" xml:space="preserve">
+    <value>No data to export!</value>
+  </data>
+  <data name="strNoDataPreview" xml:space="preserve">
+    <value>No data to preview!</value>
+  </data>
+  <data name="strNoDataPrint" xml:space="preserve">
+    <value>No data to print!</value>
+  </data>
+  <data name="strSelectPeriod" xml:space="preserve">
+    <value>Please select the period</value>
+  </data>
+  <data name="strListStudentsFeesDueFull" xml:space="preserve">
+    <value>List of students who still owe full school fees</value>
+  </data>
+  <data name="strListStudentsFeesDuePartially" xml:space="preserve">
+    <value>List of students with school fees not paid in full</value>
+  </data>
+  <data name="strStarting" xml:space="preserve">
+    <value>Starting</value>
+  </data>
+  <data name="strPreferencesChangedQuestion" xml:space="preserve">
+    <value>Are you sure you want to reset your preferences and settings? This will reset even your database connection and the software license</value>
+  </data>
+  <data name="strResettingPreferences" xml:space="preserve">
+    <value>Resetting user preferences and settings</value>
+  </data>
+  <data name="strCostSMS" xml:space="preserve">
+    <value>Please enter the cost per SMS</value>
+  </data>
+  <data name="strPreferencesHasBeenReset" xml:space="preserve">
+    <value>Your user preferences and settings have been reset. The application will restart</value>
+  </data>
+  <data name="strUpdateWithSameSchoolYear" xml:space="preserve">
+    <value>You can't update with the same school year, please enter a different school year</value>
+  </data>
+  <data name="strSchoolYearEditWarning" xml:space="preserve">
+    <value>Do you really want to edit this school year? It will affect all pupils records including financial records that are using this school year!</value>
+  </data>
+  <data name="strStudentEnrolmentForm" xml:space="preserve">
+    <value>Student Enrolment Form</value>
+  </data>
+  <data name="strTelephone" xml:space="preserve">
+    <value>Telephone</value>
+  </data>
+  <data name="strDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="strNameTutor" xml:space="preserve">
+    <value>Name of Tutor</value>
+  </data>
+  <data name="strDashboardFile" xml:space="preserve">
+    <value>Dashboard File</value>
+  </data>
+  <data name="strFeesCollectedDashboard" xml:space="preserve">
+    <value>School Fees Collected Dashboard</value>
+  </data>
+  <data name="strStudentExists" xml:space="preserve">
+    <value>There is a pupil already enrolled with this same name and surname. Please check if it's not the same person, otherwise modify the name</value>
+  </data>
+  <data name="strAbsa" xml:space="preserve">
+    <value>Absa</value>
+  </data>
+  <data name="strAbsaBankBotswana" xml:space="preserve">
+    <value>Absa Bank Botswana</value>
+  </data>
+  <data name="strAccessBank" xml:space="preserve">
+    <value>Access Bank</value>
+  </data>
+  <data name="strAdvansBank" xml:space="preserve">
+    <value>Advans Bank</value>
+  </data>
+  <data name="strAfricanBank" xml:space="preserve">
+    <value>African Bank</value>
+  </data>
+  <data name="strAfrilandFirstBank" xml:space="preserve">
+    <value>Afriland First Bank</value>
+  </data>
+  <data name="strAllianceBankSA" xml:space="preserve">
+    <value>Alliance Bank S.A.</value>
+  </data>
+  <data name="strAmountOwed" xml:space="preserve">
+    <value>Amount Owed</value>
+  </data>
+  <data name="strBancABC" xml:space="preserve">
+    <value>BancABC</value>
+  </data>
+  <data name="strBankAfrica" xml:space="preserve">
+    <value>Bank of Africa (BOA)</value>
+  </data>
+  <data name="strBankBarodaBotswana" xml:space="preserve">
+    <value>Bank of Baroda (Botswana)</value>
+  </data>
+  <data name="strBankGaborone" xml:space="preserve">
+    <value>Bank Gaborone</value>
+  </data>
+  <data name="strBankIndiaBotswana" xml:space="preserve">
+    <value>Bank of India (Botswana)</value>
+  </data>
+  <data name="strBankSBIBotswana" xml:space="preserve">
+    <value>Bank SBI Botswana</value>
+  </data>
+  <data name="strBanqueCommercialeCongo" xml:space="preserve">
+    <value>Banque Commerciale du Congo</value>
+  </data>
+  <data name="strBanqueInternationalCredit" xml:space="preserve">
+    <value>Banque International de Credit (BIC)</value>
+  </data>
+  <data name="strBanqueInternationaleAfrique" xml:space="preserve">
+    <value>Banque Internationale d'Afrique</value>
+  </data>
+  <data name="strBanqueInternationaleAfriqueCongo" xml:space="preserve">
+    <value>Banque Internationale pour l'Afrique au Congo (BIAC)</value>
+  </data>
+  <data name="strBGFIBankDRC" xml:space="preserve">
+    <value>BGFIBank DRC</value>
+  </data>
+  <data name="strBidvestBank" xml:space="preserve">
+    <value>Bidvest Bank</value>
+  </data>
+  <data name="strCaisseCentraleCoopEconomique" xml:space="preserve">
+    <value>Caisse Centrale de Coopération Économique</value>
+  </data>
+  <data name="strCapitec" xml:space="preserve">
+    <value>Capitec</value>
+  </data>
+  <data name="strChequeAccount" xml:space="preserve">
+    <value>Cheque Account</value>
+  </data>
+  <data name="strCitibank" xml:space="preserve">
+    <value>Citibank</value>
+  </data>
+  <data name="strCurrentAccount" xml:space="preserve">
+    <value>Current Account</value>
+  </data>
+  <data name="strDiscovery" xml:space="preserve">
+    <value>Discovery</value>
+  </data>
+  <data name="strEcobank" xml:space="preserve">
+    <value>Ecobank</value>
+  </data>
+  <data name="strEquityBankCongo" xml:space="preserve">
+    <value>Equity Bank Congo</value>
+  </data>
+  <data name="strFirstCapitalBank" xml:space="preserve">
+    <value>First Capital Bank</value>
+  </data>
+  <data name="strFNB" xml:space="preserve">
+    <value>First National Bank</value>
+  </data>
+  <data name="strFNBBotswana" xml:space="preserve">
+    <value>First National Bank of Botswana</value>
+  </data>
+  <data name="strFransabank" xml:space="preserve">
+    <value>Fransabank</value>
+  </data>
+  <data name="strGeneratedBy" xml:space="preserve">
+    <value>Generated by</value>
+  </data>
+  <data name="strGrindrodBank" xml:space="preserve">
+    <value>Grindrod Bank</value>
+  </data>
+  <data name="strImperialBankSA" xml:space="preserve">
+    <value>Imperial Bank South Africa</value>
+  </data>
+  <data name="strInvestec" xml:space="preserve">
+    <value>Investec</value>
+  </data>
+  <data name="strNedbank" xml:space="preserve">
+    <value>Nedbank</value>
+  </data>
+  <data name="strRawbank" xml:space="preserve">
+    <value>Rawbank</value>
+  </data>
+  <data name="strSasfin" xml:space="preserve">
+    <value>Sasfin</value>
+  </data>
+  <data name="strSavingsAccount" xml:space="preserve">
+    <value>Savings Account</value>
+  </data>
+  <data name="strSofiBank" xml:space="preserve">
+    <value>SofiBank</value>
+  </data>
+  <data name="strStanbicBank" xml:space="preserve">
+    <value>Stanbic Bank</value>
+  </data>
+  <data name="strStanbicBankBotswana" xml:space="preserve">
+    <value>Stanbic Bank Botswana</value>
+  </data>
+  <data name="strStandardBank" xml:space="preserve">
+    <value>Standard Bank</value>
+  </data>
+  <data name="strStandardCharteredBankBotswana" xml:space="preserve">
+    <value>Standard Chartered Bank Botswana</value>
+  </data>
+  <data name="strTotalAmountOwed" xml:space="preserve">
+    <value>Total amount owed by students</value>
+  </data>
+  <data name="strTrustMerchantBank" xml:space="preserve">
+    <value>Trust Merchant Bank</value>
+  </data>
+  <data name="strTymeBank" xml:space="preserve">
+    <value>TymeBank</value>
+  </data>
+  <data name="strUbank" xml:space="preserve">
+    <value>Ubank</value>
+  </data>
+  <data name="strUnitedBankAfrica" xml:space="preserve">
+    <value>United Bank for Africa</value>
+  </data>
+  <data name="strNumberStudents" xml:space="preserve">
+    <value>Number of Students</value>
+  </data>
+  <data name="strStartingDatabaseService" xml:space="preserve">
+    <value>Starting the database service...</value>
+  </data>
+  <data name="strPentecost" xml:space="preserve">
+    <value>Pentecostalism</value>
+  </data>
+  <data name="strNameSurname" xml:space="preserve">
+    <value>Names and Surname</value>
+  </data>
+  <data name="strSex" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="strDateBirth" xml:space="preserve">
+    <value>Date of Birth</value>
+  </data>
+  <data name="strNoStudentsClassOf" xml:space="preserve">
+    <value>Number of students in the grade of</value>
+  </data>
+  <data name="strSelectSection" xml:space="preserve">
+    <value>Please select the field of study</value>
+  </data>
+  <data name="strEnrolmentList" xml:space="preserve">
+    <value>Enrolment List</value>
+  </data>
+  <data name="strContactNo" xml:space="preserve">
+    <value>Contact Number</value>
+  </data>
+  <data name="strEnrollmentListByDate" xml:space="preserve">
+    <value>Enrollment list by date</value>
+  </data>
+  <data name="strEnrolmentListByName" xml:space="preserve">
+    <value>Enrollment list of students with the name</value>
+  </data>
+  <data name="strEnrolmentListBySurname" xml:space="preserve">
+    <value>Enrollment list of students with the surname</value>
+  </data>
+  <data name="strFrom" xml:space="preserve">
+    <value>From</value>
+  </data>
+  <data name="strEnterCycle" xml:space="preserve">
+    <value>Please select the education band</value>
+  </data>
+  <data name="strReportFeesPaid" xml:space="preserve">
+    <value>Report of school fees paid </value>
+  </data>
+  <data name="strEuro" xml:space="preserve">
+    <value>Euro EUR</value>
+  </data>
+  <data name="strSetExchangeRates" xml:space="preserve">
+    <value>Please set the exchange rates first before using this conversion tool</value>
+  </data>
+  <data name="strUnitedStatesDollar" xml:space="preserve">
+    <value>United States Dollar USD</value>
+  </data>
+  <data name="str1EURtoCDF" xml:space="preserve">
+    <value>1 EURO to Congolese Francs</value>
+  </data>
+  <data name="str1USDtoCDF" xml:space="preserve">
+    <value>1 United States Dollar to Congolese Francs</value>
+  </data>
+  <data name="strCDF" xml:space="preserve">
+    <value>Congolese Franc - CDF</value>
+  </data>
+  <data name="strCurrencyConversionSettings" xml:space="preserve">
+    <value>Currency conversion settings</value>
+  </data>
+  <data name="strEnterExchangeRates" xml:space="preserve">
+    <value>Please enter the exchange rates</value>
+  </data>
+  <data name="strEUR" xml:space="preserve">
+    <value>Euro - EUR</value>
+  </data>
+  <data name="strLastUpdated" xml:space="preserve">
+    <value>Last updated</value>
+  </data>
+  <data name="strNewExchangeRateSaved" xml:space="preserve">
+    <value>The new exchange rate was saved successfully</value>
+  </data>
+  <data name="strNotAllowedUpdateExchangeRates" xml:space="preserve">
+    <value>You are not allowed to update the exchange rates, only administrators and their assistants can do it. Please contact your school administrator!</value>
+  </data>
+  <data name="strSelectMainCurrency" xml:space="preserve">
+    <value>Please select the main currency</value>
+  </data>
+  <data name="strUSD" xml:space="preserve">
+    <value>United States Dollar - USD</value>
+  </data>
+  <data name="strGenerateReportFirst" xml:space="preserve">
+    <value>Please generate the report first by clicking on the search button</value>
+  </data>
+  <data name="strNoNotificationNo" xml:space="preserve">
+    <value>There are no notification phone numbers to send the SMS to</value>
+  </data>
+  <data name="strFatherNameSurname" xml:space="preserve">
+    <value>Father Names and Surname</value>
+  </data>
+  <data name="strFatherProfession" xml:space="preserve">
+    <value>Father's Profession</value>
+  </data>
+  <data name="strLoading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="strMotherNameSurname" xml:space="preserve">
+    <value>Mother Names and Surname</value>
+  </data>
+  <data name="strMotherProfession" xml:space="preserve">
+    <value>Mother's Profession</value>
+  </data>
+  <data name="strTutorProfession" xml:space="preserve">
+    <value>Tutor's profession</value>
+  </data>
+  <data name="strExchangeRates" xml:space="preserve">
+    <value>Exchange Rates</value>
+  </data>
+  <data name="strLiteVersion" xml:space="preserve">
+    <value>Lite Version</value>
+  </data>
+  <data name="strUltimateVersion" xml:space="preserve">
+    <value>Ultimate Version</value>
+  </data>
+  <data name="strExpired" xml:space="preserve">
+    <value>Expired</value>
+  </data>
+  <data name="strExpiryDate" xml:space="preserve">
+    <value>Expiry date</value>
+  </data>
+  <data name="strEduXpressLicenseExpired" xml:space="preserve">
+    <value>EduXpress License Expired</value>
+  </data>
+  <data name="strEduXpressUnlicensed" xml:space="preserve">
+    <value>EduXpress license not activated</value>
+  </data>
+  <data name="strFinanceNotAllowedEXpressLite" xml:space="preserve">
+    <value>The user type: Finance is not allowed in EduXpress Lite version, please login with a different user type or contact your administrator</value>
+  </data>
+  <data name="strAdministrator" xml:space="preserve">
+    <value>Administrator</value>
+  </data>
+  <data name="strAdmissionOfficer" xml:space="preserve">
+    <value>Admission Officer</value>
+  </data>
+  <data name="strAssistantAdministrator" xml:space="preserve">
+    <value>Assistant Administrator</value>
+  </data>
+  <data name="strFinanceAdmissionOfficer" xml:space="preserve">
+    <value>Finance &amp; Admission Officer</value>
+  </data>
+  <data name="strFinanceOfficer" xml:space="preserve">
+    <value>Finance Officer</value>
+  </data>
+  <data name="strCameroon" xml:space="preserve">
+    <value>Cameroon</value>
+  </data>
+  <data name="strCAR" xml:space="preserve">
+    <value>Central African Republic</value>
+  </data>
+  <data name="strChad" xml:space="preserve">
+    <value>Chad</value>
+  </data>
+  <data name="strCongoBrazzaville" xml:space="preserve">
+    <value>Congo Brazzaville</value>
+  </data>
+  <data name="strEnterCountry" xml:space="preserve">
+    <value>Please enter the country</value>
+  </data>
+  <data name="strEquatorialGuinea" xml:space="preserve">
+    <value>Equatorial Guinea</value>
+  </data>
+  <data name="strEthiopia" xml:space="preserve">
+    <value>Ethiopia</value>
+  </data>
+  <data name="strGabon" xml:space="preserve">
+    <value>Gabon</value>
+  </data>
+  <data name="strMadagascar" xml:space="preserve">
+    <value>Madagascar</value>
+  </data>
+  <data name="strMauritius" xml:space="preserve">
+    <value>Mauritius</value>
+  </data>
+  <data name="strSãoToméPríncipe" xml:space="preserve">
+    <value>São Tomé &amp; Príncipe</value>
+  </data>
+  <data name="strUganda" xml:space="preserve">
+    <value>Uganda</value>
+  </data>
+  <data name="strSaveCameraSettings" xml:space="preserve">
+    <value>Save</value>
+    <comment>Save Settings</comment>
+  </data>
+  <data name="strAfricanTraditional" xml:space="preserve">
+    <value>African Traditional</value>
+  </data>
+  <data name="strAfrikaans" xml:space="preserve">
+    <value>Afrikaans</value>
+  </data>
+  <data name="strAmharic" xml:space="preserve">
+    <value>Amharic</value>
+  </data>
+  <data name="strArabic" xml:space="preserve">
+    <value>Arabic</value>
+  </data>
+  <data name="strBuddhism" xml:space="preserve">
+    <value>Buddhism</value>
+  </data>
+  <data name="strBulgarian" xml:space="preserve">
+    <value>Bulgarian</value>
+  </data>
+  <data name="strChichewa" xml:space="preserve">
+    <value>Chichewa</value>
+  </data>
+  <data name="strChinese" xml:space="preserve">
+    <value>Chinese</value>
+  </data>
+  <data name="strDanish" xml:space="preserve">
+    <value>Danish</value>
+  </data>
+  <data name="strDutch" xml:space="preserve">
+    <value>Dutch</value>
+  </data>
+  <data name="strGerman" xml:space="preserve">
+    <value>German</value>
+  </data>
+  <data name="strGreek" xml:space="preserve">
+    <value>Greek</value>
+  </data>
+  <data name="strHebrew" xml:space="preserve">
+    <value>Hebrew</value>
+  </data>
+  <data name="strHighSchoolFET" xml:space="preserve">
+    <value>High School FET</value>
+  </data>
+  <data name="strHighSchoolGET" xml:space="preserve">
+    <value>High School GET</value>
+  </data>
+  <data name="strHindi" xml:space="preserve">
+    <value>Hindi</value>
+  </data>
+  <data name="strItalian" xml:space="preserve">
+    <value>Italian</value>
+  </data>
+  <data name="strJapanese" xml:space="preserve">
+    <value>Japanese</value>
+  </data>
+  <data name="strJudaism" xml:space="preserve">
+    <value>Judaism</value>
+  </data>
+  <data name="strMaasai" xml:space="preserve">
+    <value>Maasai</value>
+  </data>
+  <data name="strNdebele" xml:space="preserve">
+    <value>Ndebele</value>
+  </data>
+  <data name="strPedi" xml:space="preserve">
+    <value>Pedi</value>
+  </data>
+  <data name="strPolish" xml:space="preserve">
+    <value>Polish</value>
+  </data>
+  <data name="strPortuguese" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="strPreparatory" xml:space="preserve">
+    <value>Preparatory</value>
+  </data>
+  <data name="strPrePrimary" xml:space="preserve">
+    <value>Pre-Primary</value>
+  </data>
+  <data name="strRussian" xml:space="preserve">
+    <value>Russian</value>
+  </data>
+  <data name="strShona" xml:space="preserve">
+    <value>Shona</value>
+  </data>
+  <data name="strSotho" xml:space="preserve">
+    <value>Sotho</value>
+  </data>
+  <data name="strSpanish" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="strSwati" xml:space="preserve">
+    <value>Swati</value>
+  </data>
+  <data name="strSwedish" xml:space="preserve">
+    <value>Swedish</value>
+  </data>
+  <data name="strTsonga" xml:space="preserve">
+    <value>Tsonga</value>
+  </data>
+  <data name="strTswana" xml:space="preserve">
+    <value>Tswana</value>
+  </data>
+  <data name="strTurkish" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="strTVETCollege" xml:space="preserve">
+    <value>TVET College</value>
+  </data>
+  <data name="strUrdu" xml:space="preserve">
+    <value>Urdu</value>
+  </data>
+  <data name="strVenda" xml:space="preserve">
+    <value>Venda</value>
+  </data>
+  <data name="strXhosa" xml:space="preserve">
+    <value>Xhosa</value>
+  </data>
+  <data name="strZulu" xml:space="preserve">
+    <value>Zulu</value>
+  </data>
+  <data name="strCommunication" xml:space="preserve">
+    <value>Communication (Talk/Listen)</value>
+  </data>
+  <data name="strEmotional" xml:space="preserve">
+    <value>Emotional (Behavior/Psychological)</value>
+  </data>
+  <data name="strHearing" xml:space="preserve">
+    <value>Hearing (even with a hearing aid)</value>
+  </data>
+  <data name="strIntellectual" xml:space="preserve">
+    <value>Intellectual (Learning etc.)</value>
+  </data>
+  <data name="strMultipleDisabilities" xml:space="preserve">
+    <value>Multiple Disabilities but Unspecified</value>
+  </data>
+  <data name="strNone" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="strOtherSpecify" xml:space="preserve">
+    <value>Other (Please Specify):</value>
+  </data>
+  <data name="strPhysical" xml:space="preserve">
+    <value>Physical (Move/Stand etc.)</value>
+  </data>
+  <data name="strSight" xml:space="preserve">
+    <value>Sight (Even with Glasses)</value>
+  </data>
+  <data name="strEnterBirthCertificateIDNoPassportNo" xml:space="preserve">
+    <value>Please enter the birth certificate or ID number of the student, if foreign student, enter the passport number</value>
+  </data>
+  <data name="strSelectDisabilities" xml:space="preserve">
+    <value>Please select the student's disabilities, or select none</value>
+  </data>
+  <data name="strSelectLanguageInstruction" xml:space="preserve">
+    <value>Please select the language of instruction</value>
+  </data>
+  <data name="strSelectNationality" xml:space="preserve">
+    <value>Please select the country of nationality of the student</value>
+  </data>
+  <data name="strSelectRace" xml:space="preserve">
+    <value>Please select the race of the student</value>
+  </data>
+  <data name="strAdv" xml:space="preserve">
+    <value>Adv</value>
+  </data>
+  <data name="strCapt" xml:space="preserve">
+    <value>Capt</value>
+  </data>
+  <data name="strDr" xml:space="preserve">
+    <value>Dr</value>
+  </data>
+  <data name="strEasternCape" xml:space="preserve">
+    <value>Eastern Cape</value>
+  </data>
+  <data name="strFreeState" xml:space="preserve">
+    <value>Free State</value>
+  </data>
+  <data name="strGauteng" xml:space="preserve">
+    <value>Gauteng</value>
+  </data>
+  <data name="strHon" xml:space="preserve">
+    <value>Hon</value>
+  </data>
+  <data name="strJudge" xml:space="preserve">
+    <value>Judge</value>
+  </data>
+  <data name="strKwaZuluNatal" xml:space="preserve">
+    <value>KwaZulu-Natal</value>
+  </data>
+  <data name="strLimpopo" xml:space="preserve">
+    <value>Limpopo</value>
+  </data>
+  <data name="strMiss" xml:space="preserve">
+    <value>Miss</value>
+  </data>
+  <data name="strMpumalanga" xml:space="preserve">
+    <value>Mpumalanga</value>
+  </data>
+  <data name="strMr" xml:space="preserve">
+    <value>Mr</value>
+  </data>
+  <data name="strMrs" xml:space="preserve">
+    <value>Mrs</value>
+  </data>
+  <data name="strMs" xml:space="preserve">
+    <value>Ms</value>
+  </data>
+  <data name="strNorthernCape" xml:space="preserve">
+    <value>Northern Cape</value>
+  </data>
+  <data name="strNorthWest" xml:space="preserve">
+    <value>North West</value>
+  </data>
+  <data name="strProf" xml:space="preserve">
+    <value>Prof</value>
+  </data>
+  <data name="strRev" xml:space="preserve">
+    <value>Rev</value>
+  </data>
+  <data name="strSister" xml:space="preserve">
+    <value>Sister</value>
+  </data>
+  <data name="strWesternCape" xml:space="preserve">
+    <value>Western Cape</value>
+  </data>
+  <data name="strNotificationEmailAddress" xml:space="preserve">
+    <value>Notification Email Address</value>
+  </data>
+  <data name="strNotificationPhoneNo" xml:space="preserve">
+    <value>Notification Phone Number</value>
+  </data>
+  <data name="strSMSCharactersNotSupported" xml:space="preserve">
+    <value>You have used one or more characters not supported in GSM networks for SMS. 
+Please replace them first. 
+To get the list of characters you can't use, click on the help button: Unsupported Characters </value>
+  </data>
+  <data name="strSMSNotSent" xml:space="preserve">
+    <value>SMS message(s) not sent due to an error!</value>
+  </data>
+  <data name="strNoInternetToSendSMSMessage" xml:space="preserve">
+    <value>There is no internet connection to send the SMS message(s). 
+Please check if your computer is connected to internet!</value>
+  </data>
+  <data name="strAunt" xml:space="preserve">
+    <value>Aunt</value>
+  </data>
+  <data name="strBrother" xml:space="preserve">
+    <value>Brother</value>
+  </data>
+  <data name="strCousin" xml:space="preserve">
+    <value>Cousin</value>
+  </data>
+  <data name="strDivorced" xml:space="preserve">
+    <value>Divorced</value>
+  </data>
+  <data name="strFamilyFriend" xml:space="preserve">
+    <value>Family Friend</value>
+  </data>
+  <data name="strFather" xml:space="preserve">
+    <value>Father</value>
+  </data>
+  <data name="strGrandfather" xml:space="preserve">
+    <value>Grandfather</value>
+  </data>
+  <data name="strGrandmother" xml:space="preserve">
+    <value>Grandmother</value>
+  </data>
+  <data name="strMarried" xml:space="preserve">
+    <value>Married</value>
+  </data>
+  <data name="strMother" xml:space="preserve">
+    <value>Mother</value>
+  </data>
+  <data name="strNotMarried" xml:space="preserve">
+    <value>Not Married</value>
+  </data>
+  <data name="strSocialWorker" xml:space="preserve">
+    <value>Social Worker</value>
+  </data>
+  <data name="strStepfather" xml:space="preserve">
+    <value>Stepfather</value>
+  </data>
+  <data name="strStepmother" xml:space="preserve">
+    <value>Stepmother</value>
+  </data>
+  <data name="strUncle" xml:space="preserve">
+    <value>Uncle</value>
+  </data>
+  <data name="strWidowed" xml:space="preserve">
+    <value>Widowed</value>
+  </data>
+  <data name="strRequiredFields" xml:space="preserve">
+    <value>Fields with a * are required</value>
+  </data>
+  <data name="strSelectAll" xml:space="preserve">
+    <value>(Select All)</value>
+  </data>
+  <data name="strSetupSchoolProfile" xml:space="preserve">
+    <value>Please setup the school profile first and the select your country under the Administration Menu</value>
+  </data>
+  <data name="strResetReceiptCounter" xml:space="preserve">
+    <value>You have printed more than 2 147 483 647 receipts. Please archive old records to reset the counter</value>
+  </data>
+  <data name="strByCashier" xml:space="preserve">
+    <value>By Cashier</value>
+  </data>
+  <data name="strByPeriod" xml:space="preserve">
+    <value>By Period</value>
+  </data>
+  <data name="strEnterSubjectCode" xml:space="preserve">
+    <value>Please enter the subject code</value>
+  </data>
+  <data name="strEnterSubjectName" xml:space="preserve">
+    <value>Please enter the subject name</value>
+  </data>
+  <data name="strNewSubject" xml:space="preserve">
+    <value>A new subject</value>
+  </data>
+  <data name="strNewSubjectAdded" xml:space="preserve">
+    <value>A new subject has been successfully added</value>
+  </data>
+  <data name="strSchoolSubjects" xml:space="preserve">
+    <value>School subjects</value>
+  </data>
+  <data name="strSubject" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="strSubjectCode" xml:space="preserve">
+    <value>Subject Code</value>
+  </data>
+  <data name="strSubjectExist" xml:space="preserve">
+    <value>This subject already exists. Please enter a different subject or check if it doesn't exit then change the subject code</value>
+  </data>
+  <data name="strEnterAchievementAbbreviation" xml:space="preserve">
+    <value>Please enter the achievement abbreviation</value>
+  </data>
+  <data name="strAchievementExists" xml:space="preserve">
+    <value>This achievement already exists</value>
+  </data>
+  <data name="strClassLevel" xml:space="preserve">
+    <value>Class level</value>
+  </data>
+  <data name="strClassLevelExists" xml:space="preserve">
+    <value>This class level already exists</value>
+  </data>
+  <data name="strEnterAchievementDescription" xml:space="preserve">
+    <value>Please enter the Achievement Description</value>
+  </data>
+  <data name="strEnterClassLevel" xml:space="preserve">
+    <value>Please enter the class level</value>
+  </data>
+  <data name="strEnterMaximaMarksExam" xml:space="preserve">
+    <value>Please enter the maximum exam marks for this subject</value>
+  </data>
+  <data name="strEnterMaximaMarksPeriod" xml:space="preserve">
+    <value>Please enter the maximum period marks for this subject</value>
+  </data>
+  <data name="strMaximaExam" xml:space="preserve">
+    <value>Exam Marks</value>
+  </data>
+  <data name="strMaximaPeriod" xml:space="preserve">
+    <value>Period Marks</value>
+  </data>
+  <data name="strMaxPercentageRangeCannotBeZero" xml:space="preserve">
+    <value>The maximum percentage range cannot be 0%. Please change the range.</value>
+  </data>
+  <data name="strNewAchievement" xml:space="preserve">
+    <value>New Achievement</value>
+  </data>
+  <data name="strNewClassLevel" xml:space="preserve">
+    <value>New class level</value>
+  </data>
+  <data name="strUnableDeleteClassLevel" xml:space="preserve">
+    <value>Unable to delete class level... Already in use in the class subjects entry</value>
+  </data>
+  <data name="strAchievement" xml:space="preserve">
+    <value>Achievement</value>
+  </data>
+  <data name="strAchievementAbbreviation" xml:space="preserve">
+    <value>Achievement abbreviation</value>
+  </data>
+  <data name="strConduct" xml:space="preserve">
+    <value>Conduct</value>
+  </data>
+  <data name="strConductAbbreviation" xml:space="preserve">
+    <value>Conduct abbreviation</value>
+  </data>
+  <data name="strConductExists" xml:space="preserve">
+    <value>This conduct already exists</value>
+  </data>
+  <data name="strEnterConductAbbreviation" xml:space="preserve">
+    <value>Enter conduct abbreviation</value>
+  </data>
+  <data name="strEnterConductDescription" xml:space="preserve">
+    <value>Enter conduct description</value>
+  </data>
+  <data name="strMaximumPercentage" xml:space="preserve">
+    <value>Maximum Percentage</value>
+  </data>
+  <data name="strMinimumPercentage" xml:space="preserve">
+    <value>Minimum Percentage</value>
+  </data>
+  <data name="strNewConduct" xml:space="preserve">
+    <value>New conduct</value>
+  </data>
+  <data name="strTeacher" xml:space="preserve">
+    <value>Teacher</value>
+  </data>
+  <data name="strBranches" xml:space="preserve">
+    <value>Branches</value>
+  </data>
+  <data name="strDailyWork" xml:space="preserve">
+    <value>Daily Work</value>
+  </data>
+  <data name="strExam" xml:space="preserve">
+    <value>Exam</value>
+  </data>
+  <data name="strBas-Uele" xml:space="preserve">
+    <value>Bas-Uele</value>
+  </data>
+  <data name="strHaut-Katanga" xml:space="preserve">
+    <value>Haut-Katanga</value>
+  </data>
+  <data name="strHaut-Lomami" xml:space="preserve">
+    <value>Haut-Lomami</value>
+  </data>
+  <data name="strHaut-Uele" xml:space="preserve">
+    <value>Haut-Uele</value>
+  </data>
+  <data name="strIturi" xml:space="preserve">
+    <value>Ituri</value>
+  </data>
+  <data name="strKasaï" xml:space="preserve">
+    <value>Kasaï</value>
+  </data>
+  <data name="strKasaïCentral" xml:space="preserve">
+    <value>Kasaï central</value>
+  </data>
+  <data name="strKasaïOriental" xml:space="preserve">
+    <value>Kasaï oriental</value>
+  </data>
+  <data name="strKinshasa" xml:space="preserve">
+    <value>Kinshasa</value>
+  </data>
+  <data name="strKongo-Central" xml:space="preserve">
+    <value>Kongo-Central</value>
+  </data>
+  <data name="strKwango" xml:space="preserve">
+    <value>Kwango</value>
+  </data>
+  <data name="strKwilu" xml:space="preserve">
+    <value>Kwilu</value>
+  </data>
+  <data name="strLomami" xml:space="preserve">
+    <value>Lomami</value>
+  </data>
+  <data name="strLualaba" xml:space="preserve">
+    <value>Lualaba</value>
+  </data>
+  <data name="strMai-Ndombe" xml:space="preserve">
+    <value>Mai-Ndombe</value>
+  </data>
+  <data name="strManiema" xml:space="preserve">
+    <value>Maniema</value>
+  </data>
+  <data name="strMongala" xml:space="preserve">
+    <value>Mongala</value>
+  </data>
+  <data name="strNord-Kivu" xml:space="preserve">
+    <value>Nord-Kivu</value>
+  </data>
+  <data name="strNord-Ubangi" xml:space="preserve">
+    <value>Nord-Ubangi</value>
+  </data>
+  <data name="strSankuru" xml:space="preserve">
+    <value>Sankuru</value>
+  </data>
+  <data name="strSud-Kivu" xml:space="preserve">
+    <value>Sud-Kivu</value>
+  </data>
+  <data name="strSud-Ubangi" xml:space="preserve">
+    <value>Sud-Ubangi</value>
+  </data>
+  <data name="strTanganyika" xml:space="preserve">
+    <value>Tanganyika</value>
+  </data>
+  <data name="strTshopo" xml:space="preserve">
+    <value>Tshopo</value>
+  </data>
+  <data name="strTshuapa" xml:space="preserve">
+    <value>Tshuapa</value>
+  </data>
+  <data name="strÉquateur" xml:space="preserve">
+    <value>Équateur</value>
+  </data>
+  <data name="strEnterPositionNoBulletin" xml:space="preserve">
+    <value>Please enter the position number of the subject on the student report card</value>
+  </data>
+  <data name="strHasBeenAllocatedClass" xml:space="preserve">
+    <value>has been allocated to class</value>
+  </data>
+  <data name="strSchoolSubjectsAllocation" xml:space="preserve">
+    <value>School Subjects Allocation</value>
+  </data>
+  <data name="strSelectSubject" xml:space="preserve">
+    <value>Please select subject</value>
+  </data>
+  <data name="strSelectTeacher" xml:space="preserve">
+    <value>Please select the teacher</value>
+  </data>
+  <data name="strSubjectAllocated" xml:space="preserve">
+    <value>The subject has been allocated</value>
+  </data>
+  <data name="strSubjectAllocatedExist" xml:space="preserve">
+    <value>This subject has already been allocated, please search in the list to make sure if it's been allocated correctly</value>
+  </data>
+  <data name="str1eP" xml:space="preserve">
+    <value>1st P</value>
+  </data>
+  <data name="str2eP" xml:space="preserve">
+    <value>2nd P</value>
+  </data>
+  <data name="str3eP" xml:space="preserve">
+    <value>3rd P</value>
+  </data>
+  <data name="str4eP" xml:space="preserve">
+    <value>4th P</value>
+  </data>
+  <data name="str5eP" xml:space="preserve">
+    <value>5th P</value>
+  </data>
+  <data name="str6eP" xml:space="preserve">
+    <value>6th P</value>
+  </data>
+  <data name="strExam1" xml:space="preserve">
+    <value>Exam 1</value>
+  </data>
+  <data name="strExam2" xml:space="preserve">
+    <value>Exam 2</value>
+  </data>
+  <data name="strExam3" xml:space="preserve">
+    <value>Exam 3</value>
+  </data>
+  <data name="strGrandTotal" xml:space="preserve">
+    <value>Grand Total</value>
+  </data>
+  <data name="strPosition" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="strStudents" xml:space="preserve">
+    <value>Students</value>
+  </data>
+  <data name="strTotal1" xml:space="preserve">
+    <value>Total 1</value>
+  </data>
+  <data name="strTotal2" xml:space="preserve">
+    <value>Total 2</value>
+  </data>
+  <data name="strTotal3" xml:space="preserve">
+    <value>Total 3</value>
+  </data>
+  <data name="strSelectAssessmentPeriod" xml:space="preserve">
+    <value>Please select the assessment period</value>
+  </data>
+  <data name="strForSubject" xml:space="preserve">
+    <value>for subject</value>
+  </data>
+  <data name="strHaveBeenSaved" xml:space="preserve">
+    <value>have been saved</value>
+  </data>
+  <data name="strLoadStudentsFirst" xml:space="preserve">
+    <value>Please load students first by clicking on the Load Students button</value>
+  </data>
+  <data name="strMarksAlreadyAllocated" xml:space="preserve">
+    <value>Marks have been allocated already for this subject. 
+If you need to modify them, please click the Get Marks button , make changes than click the update button</value>
+  </data>
+  <data name="strNewMarks" xml:space="preserve">
+    <value>New marks</value>
+  </data>
+  <data name="strSchoolMarks" xml:space="preserve">
+    <value>School Marks</value>
+  </data>
+  <data name="strFor" xml:space="preserve">
+    <value>for</value>
+  </data>
+  <data name="strHaveBeenUpdated" xml:space="preserve">
+    <value>have been updated</value>
+  </data>
+  <data name="strMarksNumericError" xml:space="preserve">
+    <value>School marks can only be numeric values and integer numbers</value>
+  </data>
+  <data name="strMarksValidValueError" xml:space="preserve">
+    <value>School marks cannot be below zero or above maxima value of the subject</value>
+  </data>
+  <data name="strMaxima" xml:space="preserve">
+    <value>Maxima</value>
+  </data>
+  <data name="string" xml:space="preserve">
+    <value>Please enter the town</value>
+  </data>
+  <data name="strSelectProvince" xml:space="preserve">
+    <value>Please select province</value>
+  </data>
+  <data name="strHeadmasterSignature" xml:space="preserve">
+    <value>Headmaster signature</value>
+  </data>
+  <data name="strImageFiles" xml:space="preserve">
+    <value>Image files</value>
+  </data>
+  <data name="strSchoolLogo" xml:space="preserve">
+    <value>School logo</value>
+  </data>
+  <data name="strSchoolStamp" xml:space="preserve">
+    <value>School stamp</value>
+  </data>
+  <data name="strErrorGenerated" xml:space="preserve">
+    <value>Error generated</value>
+  </data>
+  <data name="strErrorMarkSheetEmpty" xml:space="preserve">
+    <value>Student marks were not saved due to an error. A row of student marks was empty.
+If the student has not taken the assessment, 
+please enter a zero and after entering the last student's mark, 
+click anywhere or press the Enter key on the keyboard to validate the data before saving</value>
+  </data>
+  <data name="strAssessment1stPeriod" xml:space="preserve">
+    <value>1st Period</value>
+  </data>
+  <data name="strAssessmentPeriodReport" xml:space="preserve">
+    <value>Assessment Period Report</value>
+  </data>
+  <data name="strReportPeriodAssessmentBySubject" xml:space="preserve">
+    <value>Report of Period Assessment by Subject</value>
+  </data>
+  <data name="strSubjectOne" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="strAssessment2ndPeriod" xml:space="preserve">
+    <value>2nd Period</value>
+  </data>
+  <data name="strAssessment3rdPeriod" xml:space="preserve">
+    <value>3rd Period</value>
+  </data>
+  <data name="strAssessment4thPeriod" xml:space="preserve">
+    <value>4th Period</value>
+  </data>
+  <data name="strAssessment5thPeriod" xml:space="preserve">
+    <value>5th Period</value>
+  </data>
+  <data name="strAssessment6thPeriod" xml:space="preserve">
+    <value>6th Period</value>
+  </data>
+  <data name="strAssessmentPeriod" xml:space="preserve">
+    <value>Assessment Period</value>
+  </data>
+  <data name="strFirstSemesterExam" xml:space="preserve">
+    <value>First semester exam</value>
+  </data>
+  <data name="strFirstTrimesterExam" xml:space="preserve">
+    <value>First trimester exam</value>
+  </data>
+  <data name="strClassAverage" xml:space="preserve">
+    <value>Class average</value>
+  </data>
+  <data name="strDoneAt" xml:space="preserve">
+    <value>Done at</value>
+  </data>
+  <data name="strPercentageSuccesses" xml:space="preserve">
+    <value>Percentage of successes</value>
+  </data>
+  <data name="strThe" xml:space="preserve">
+    <value>the</value>
+  </data>
+  <data name="strTotalNumberStudents" xml:space="preserve">
+    <value>Total number of students</value>
+  </data>
+  <data name="strSecondSemesterExam" xml:space="preserve">
+    <value>Second semester exam</value>
+  </data>
+  <data name="strSecondTrimesterExam" xml:space="preserve">
+    <value>Second trimester exam</value>
+  </data>
+  <data name="strThirdTrimesterExam" xml:space="preserve">
+    <value>Third trimester exam</value>
+  </data>
+  <data name="strSchool" xml:space="preserve">
+    <value>School</value>
+  </data>
+  <data name="strTown" xml:space="preserve">
+    <value>Town</value>
+  </data>
+  <data name="strClassAvarage" xml:space="preserve">
+    <value>Class avarage</value>
+  </data>
+  <data name="strClassAvarageTotal" xml:space="preserve">
+    <value>Total average of class</value>
+  </data>
+  <data name="strClassMarksheetReport" xml:space="preserve">
+    <value>Class marksheet report</value>
+  </data>
+  <data name="strListSchoolMarks" xml:space="preserve">
+    <value>List of school marks</value>
+  </data>
+  <data name="strNumberSubjects" xml:space="preserve">
+    <value>Number of subjects</value>
+  </data>
+  <data name="strResultsDeL" xml:space="preserve">
+    <value>Results of the</value>
+  </data>
+  <data name="strResultsDeLa" xml:space="preserve">
+    <value>Results of the</value>
+  </data>
+  <data name="strTotal" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="strTotalPercentageClass" xml:space="preserve">
+    <value>Total percentage of class</value>
+  </data>
+  <data name="strTotals" xml:space="preserve">
+    <value>Totals</value>
+  </data>
+  <data name="strSelectStudent" xml:space="preserve">
+    <value>Please select the student</value>
+  </data>
+  <data name="strin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="strMaximaGeneral" xml:space="preserve">
+    <value>Maxima General</value>
+  </data>
+  <data name="strApplication" xml:space="preserve">
+    <value>Application</value>
+  </data>
+  <data name="strPercentage" xml:space="preserve">
+    <value>Percentage</value>
+  </data>
+  <data name="strPlaceNoStudents" xml:space="preserve">
+    <value>Place / No Students</value>
+  </data>
+  <data name="strConductsAlreadyAllocated" xml:space="preserve">
+    <value>The student conducts have already been set for this subject. 
+If you need to modify them, please click the Get Conducts button , make changes than click the update button</value>
+  </data>
+  <data name="strErrorConductSheetEmpty" xml:space="preserve">
+    <value>Student conducts were not saved due to an error. A row of student conduct was empty.
+Please make sure to select an apropriate conduct and after entering the last student's conduct, 
+click anywhere or press the Enter key on the keyboard to validate the data before saving</value>
+  </data>
+  <data name="strStudentConducts" xml:space="preserve">
+    <value>Student conducts</value>
+  </data>
+  <data name="strSelectReportTemplate" xml:space="preserve">
+    <value>Please select the report card template to display</value>
+  </data>
+  <data name="strUpdatedSuccessfully" xml:space="preserve">
+    <value>Updated successfully</value>
+  </data>
+  <data name="strResponsibleTeacher" xml:space="preserve">
+    <value>ResponsibleTeacher</value>
+  </data>
+  <data name="strStudentAssessmentReport" xml:space="preserve">
+    <value>Student Assessment Report</value>
+  </data>
+  <data name="strReportCard" xml:space="preserve">
+    <value>Report card</value>
+  </data>
+  <data name="strCalculatingSchoolMarks" xml:space="preserve">
+    <value>Calculating school marks...</value>
+  </data>
+  <data name="strAnd" xml:space="preserve">
+    <value>and</value>
+  </data>
+  <data name="strDearParents" xml:space="preserve">
+    <value>Dear parents</value>
+  </data>
+  <data name="strEmailBulletinBody1" xml:space="preserve">
+    <value>Please find attached the school report card for student</value>
+  </data>
+  <data name="strEmailBulletinBody2" xml:space="preserve">
+    <value>Best Regards
+School leadership</value>
+  </data>
+  <data name="strNoParentEmail" xml:space="preserve">
+    <value>No parent email address available. Can't send the report card by email.</value>
+  </data>
+  <data name="strSchoolReportCardEmailedParent" xml:space="preserve">
+    <value>School report card emailed to parent</value>
+  </data>
+  <data name="strImportStudentsFromExcel" xml:space="preserve">
+    <value>Import students from Excel</value>
+  </data>
+  <data name="strExcelWorkbook" xml:space="preserve">
+    <value>Excel Workbook</value>
+  </data>
+  <data name="strImporting" xml:space="preserve">
+    <value>Importing...</value>
+  </data>
+  <data name="strDataImportedSuccessfully" xml:space="preserve">
+    <value>Data has been imported successfully</value>
+  </data>
+  <data name="strImportStudentsExcel" xml:space="preserve">
+    <value>Import student data from excel</value>
+  </data>
+  <data name="strAtFullCapacity" xml:space="preserve">
+    <value>at full capacity</value>
+  </data>
+  <data name="strCapacity" xml:space="preserve">
+    <value>Capacity</value>
+  </data>
+  <data name="strEnterClassCapacity" xml:space="preserve">
+    <value>Please enter the class capacity. It cannot be empty or zero</value>
+  </data>
+  <data name="strSelectOption" xml:space="preserve">
+    <value>Please select option</value>
+  </data>
+  <data name="strTeacherAdministrator" xml:space="preserve">
+    <value>Teacher Administrator</value>
+  </data>
+  <data name="strUnableDeleteSubject" xml:space="preserve">
+    <value>Unable to delete... This subject has already either been already assigned to a class, or school marks has already been set for it</value>
+  </data>
+  <data name="strForStudentsIn" xml:space="preserve">
+    <value>for students in</value>
+  </data>
+  <data name="strHaveBeenDeleted" xml:space="preserve">
+    <value>have been deleted</value>
+  </data>
+  <data name="strEnrolmentListAllStudents" xml:space="preserve">
+    <value>Enrolment list of all students for the school year</value>
+  </data>
+  <data name="strFeesDueFull" xml:space="preserve">
+    <value>Students who owe the full amount</value>
+  </data>
+  <data name="strFeesDuePartiallyAnyAmount" xml:space="preserve">
+    <value>Students who owe a portion of the fees (any amount)</value>
+  </data>
+  <data name="strFeesDuePartiallyPercentageAmount" xml:space="preserve">
+    <value>Students who owe a portion of the fees (percentage amount)</value>
+  </data>
+  <data name="strSelectCategory" xml:space="preserve">
+    <value>Please select a category</value>
+  </data>
+  <data name="strListStudentsFeesDuePartiallyPercentage" xml:space="preserve">
+    <value>List of students who still owe more of</value>
+  </data>
+  <data name="strOfs" xml:space="preserve">
+    <value>of</value>
+  </data>
+  <data name="strSelectStartEndAssessmentPeriod" xml:space="preserve">
+    <value>Please select the start and the end assessment period</value>
+  </data>
+  <data name="strFailedGenerateReportCardsClass" xml:space="preserve">
+    <value>Failed to generate the report cards for the class</value>
+  </data>
+  <data name="strFailedSendReportCard" xml:space="preserve">
+    <value>Failed to send the report card</value>
+  </data>
+  <data name="strGeneratingStudentNumber" xml:space="preserve">
+    <value>Generating student number...</value>
+  </data>
+  <data name="strMaximaGrandTotal" xml:space="preserve">
+    <value>Maxima Grand Total</value>
+  </data>
+  <data name="strReportSupplementaryExam" xml:space="preserve">
+    <value>Supplementary Exam Report</value>
+  </data>
+  <data name="strSupplementaryExam" xml:space="preserve">
+    <value>Supplementary Exam</value>
+  </data>
+  <data name="strAuthenticationFile" xml:space="preserve">
+    <value>Authentication File</value>
+  </data>
+  <data name="strJSONFile" xml:space="preserve">
+    <value>JSON File</value>
+  </data>
+  <data name="strEnterGoogleDriveDirectoryId" xml:space="preserve">
+    <value>Please enter the google drive directory Id</value>
+  </data>
+  <data name="strEnterGoogleDriveServiceAccountEmail" xml:space="preserve">
+    <value>Please enter the google drive service account email address</value>
+  </data>
+  <data name="strSelectAuthorisationFile" xml:space="preserve">
+    <value>Please select the authorisation file</value>
+  </data>
+  <data name="strCloudSettings" xml:space="preserve">
+    <value>Cloud settings</value>
+  </data>
+  <data name="strCloudSettingsNotFound" xml:space="preserve">
+    <value>No Cloud storage settings found. Please configure your cloud storage settings first</value>
+  </data>
+  <data name="strNewCloudSettingsSaved" xml:space="preserve">
+    <value>The new Cloud settings have been successfully saved</value>
+  </data>
+  <data name="strDownloadFormsCloudStorage" xml:space="preserve">
+    <value>Download the form from cloud storage</value>
+  </data>
+  <data name="strNoFormFoundDirectoryCloud" xml:space="preserve">
+    <value>No form found in the selected directory in the cloud storage</value>
+  </data>
+  <data name="strSelectCloudFormDownload" xml:space="preserve">
+    <value>Please select the form to download</value>
+  </data>
+</root>

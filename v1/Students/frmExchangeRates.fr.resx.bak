@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="DevExpress.Data.v20.1" name="DevExpress.Data.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="svgImageCollection1.cd" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAL8BAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDgw
+        MCA2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogIDxyZWN0IHg9IjAiIHk9
+        IjAiIHdpZHRoPSI4MDAiIGhlaWdodD0iNjAwIiByeD0iMCIgcnk9IjAiIHN0eWxlPSJmaWxsOiMwMDdm
+        ZmYiIC8+DQogIDxwYXRoIGQ9Im0gMzYsMTIwIDg0LDAgMjYsLTg0IDI2LDg0IDg0LDAgLTY4LDUyIDI2
+        LDg0IC02OCwtNTIgLTY4LDUyIDI2LC04NCAtNjgsLTUyIHogTSA3NTAsMCAwLDQ1MCAwLDYwMCAwLDYw
+        MCA1MCw2MDAgODAwLDE1MCA4MDAsMCA3NTAsMCIgc3R5bGU9ImZpbGw6I2Y3ZDYxOCIgLz4NCiAgPHBh
+        dGggZD0iTSA4MDAsMCAwLDQ4MCAwLDYwMCAwLDYwMCAwLDYwMCA4MDAsMTIwIDgwMCwwIiBzdHlsZT0i
+        ZmlsbDojY2UxMDIxIiAvPg0KPC9zdmc+Cw==
+</value>
+  </data>
+  <data name="svgImageCollection1.us" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAFkEAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDc0
+        MTAgMzkwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0
+        cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI3NDEw
+        IiBoZWlnaHQ9IjM5MDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iI2IyMjIzNCIgLz4NCiAgPHBhdGggZD0i
+        TTAsNDUwSDc0MTBtMCw2MDBIMG0wLDYwMEg3NDEwbTAsNjAwSDBtMCw2MDBINzQxMG0wLDYwMEgwIiBz
+        dHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMzAwcHgiIC8+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdp
+        ZHRoPSIyOTY0IiBoZWlnaHQ9IjIxMDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iIzNjM2I2ZSIgLz4NCiAg
+        PGcgZmlsbD0iI2ZmZiI+DQogICAgPGcgaWQ9InMxOCI+DQogICAgICA8ZyBpZD0iczkiPg0KICAgICAg
+        ICA8ZyBpZD0iczUiPg0KICAgICAgICAgIDxnIGlkPSJzNCI+DQogICAgICAgICAgICA8cGF0aCBkPSJN
+        MjQ3LDkwIDMxNy41MzQyMzAsMzA3LjA4MjAzOSAxMzIuODczMjE4LDE3Mi45MTc5NjFIMzYxLjEyNjc4
+        MkwxNzYuNDY1NzcwLDMwNy4wODIwMzl6IiBpZD0icyIgLz4NCiAgICAgICAgICAgIDx1c2UgeT0iNDIw
+        cHgiIHhsaW5rOmhyZWY9IiNzIiAvPg0KICAgICAgICAgICAgPHVzZSB5PSI4NDBweCIgeGxpbms6aHJl
+        Zj0iI3MiIC8+DQogICAgICAgICAgICA8dXNlIHk9IjEyNjBweCIgeGxpbms6aHJlZj0iI3MiIC8+DQog
+        ICAgICAgICAgPC9nPg0KICAgICAgICAgIDx1c2UgeT0iMTY4MHB4IiB4bGluazpocmVmPSIjcyIgLz4N
+        CiAgICAgICAgPC9nPg0KICAgICAgICA8dXNlIHg9IjI0N3B4IiB5PSIyMTBweCIgeGxpbms6aHJlZj0i
+        I3M0IiAvPg0KICAgICAgPC9nPg0KICAgICAgPHVzZSB4PSI0OTRweCIgeGxpbms6aHJlZj0iI3M5IiAv
+        Pg0KICAgIDwvZz4NCiAgICA8dXNlIHg9Ijk4OHB4IiB4bGluazpocmVmPSIjczE4IiAvPg0KICAgIDx1
+        c2UgeD0iMTk3NnB4IiB4bGluazpocmVmPSIjczkiIC8+DQogICAgPHVzZSB4PSIyNDcwcHgiIHhsaW5r
+        OmhyZWY9IiNzNSIgLz4NCiAgPC9nPg0KPC9zdmc+Cw==
+</value>
+  </data>
+  <data name="svgImageCollection1.eu" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAABUFAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDgx
+        MCA1NDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6
+        Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPg0KICA8ZGVmcz4NCiAgICA8ZyBpZD0icyI+DQogICAgICA8
+        ZyBpZD0iYyI+DQogICAgICAgIDxwYXRoIGQ9Ik0wLDB2MWgwLjV6IiBpZD0idCIgdHJhbnNmb3JtPSJ0
+        cmFuc2xhdGUoMCwgLTEpIHJvdGF0ZSgxOCwgMCwgMCkiIC8+DQogICAgICAgIDx1c2UgeGxpbms6aHJl
+        Zj0iI3QiIHRyYW5zZm9ybT0ic2NhbGUoLTEsIDEpIiAvPg0KICAgICAgPC9nPg0KICAgICAgPGcgaWQ9
+        ImEiPg0KICAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNjIiB0cmFuc2Zvcm09InJvdGF0ZSg3MiwgMCwg
+        MCkiIC8+DQogICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2MiIHRyYW5zZm9ybT0icm90YXRlKDE0NCwg
+        MCwgMCkiIC8+DQogICAgICA8L2c+DQogICAgICA8dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09
+        InNjYWxlKC0xLCAxKSIgLz4NCiAgICA8L2c+DQogIDwvZGVmcz4NCiAgPHJlY3QgeD0iMCIgeT0iMCIg
+        d2lkdGg9IjgxMCIgaGVpZ2h0PSI1NDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iIzAzOSIgLz4NCiAgPGcg
+        ZmlsbD0iI2ZjMCIgdHJhbnNmb3JtPSJzY2FsZSgzMCkgdHJhbnNsYXRlKDEzLjUsIDkpIj4NCiAgICA8
+        dXNlIHk9Ii02cHgiIHhsaW5rOmhyZWY9IiNzIiAvPg0KICAgIDx1c2UgeT0iNnB4IiB4bGluazpocmVm
+        PSIjcyIgLz4NCiAgICA8ZyBpZD0ibCI+DQogICAgICA8dXNlIHg9Ii02cHgiIHhsaW5rOmhyZWY9IiNz
+        IiAvPg0KICAgICAgPHVzZSB4bGluazpocmVmPSIjcyIgdHJhbnNmb3JtPSJyb3RhdGUoMTUwLCAwLCAw
+        KSB0cmFuc2xhdGUoMCwgNikgcm90YXRlKDY2LCAwLCAwKSIgLz4NCiAgICAgIDx1c2UgeGxpbms6aHJl
+        Zj0iI3MiIHRyYW5zZm9ybT0icm90YXRlKDEyMCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJvdGF0ZSgy
+        NCwgMCwgMCkiIC8+DQogICAgICA8dXNlIHhsaW5rOmhyZWY9IiNzIiB0cmFuc2Zvcm09InJvdGF0ZSg2
+        MCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJvdGF0ZSgxMiwgMCwgMCkiIC8+DQogICAgICA8dXNlIHhs
+        aW5rOmhyZWY9IiNzIiB0cmFuc2Zvcm09InJvdGF0ZSgzMCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJv
+        dGF0ZSg0MiwgMCwgMCkiIC8+DQogICAgPC9nPg0KICAgIDx1c2UgeGxpbms6aHJlZj0iI2wiIHRyYW5z
+        Zm9ybT0ic2NhbGUoLTEsIDEpIiAvPg0KICA8L2c+DQo8L3N2Zz4L
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnConvert.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 35</value>
+  </data>
+  <data name="btnConvert.Text" xml:space="preserve">
+    <value>&amp;Convertir</value>
+  </data>
+  <data name="labelControl4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 271</value>
+  </data>
+  <data name="labelControl4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>116, 19</value>
+  </data>
+  <data name="labelControl4.Text" xml:space="preserve">
+    <value>Vers cette devise:</value>
+  </data>
+  <data name="labelControl3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>101, 235</value>
+  </data>
+  <data name="labelControl3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 19</value>
+  </data>
+  <data name="labelControl3.Text" xml:space="preserve">
+    <value>Convertir de cette devise:</value>
+  </data>
+  <data name="labelControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 172</value>
+  </data>
+  <data name="labelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 19</value>
+  </data>
+  <data name="labelControl1.Text" xml:space="preserve">
+    <value>Montant à convertir:</value>
+  </data>
+  <data name="lblCurrencyBaseName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 19</value>
+  </data>
+  <data name="lblCurrencyBaseName.Text" xml:space="preserve">
+    <value>FRANC CONGOLAIS   CDF</value>
+  </data>
+  <data name="lblCurrency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 19</value>
+  </data>
+  <data name="lblCurrency.Text" xml:space="preserve">
+    <value>DOLLAR AMÉRICAIN   USD</value>
+  </data>
+  <data name="lblLastUpdated.Location" type="System.Drawing.Point, System.Drawing">
+    <value>314, 109</value>
+  </data>
+  <data name="lblLastUpdated.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 13</value>
+  </data>
+  <data name="lblLastUpdated.Text" xml:space="preserve">
+    <value>Dernière mise à jour: 0H00 000</value>
+  </data>
+  <data name="btnUpdateRates.Location" type="System.Drawing.Point, System.Drawing">
+    <value>513, 16</value>
+  </data>
+  <data name="btnUpdateRates.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 30</value>
+  </data>
+  <data name="btnUpdateRates.Text" xml:space="preserve">
+    <value>Mettre à jour les taux de change</value>
+  </data>
+  <data name="groupControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>756, 127</value>
+  </data>
+  <data name="groupControl1.Text" xml:space="preserve">
+    <value>Taux de change quotidien</value>
+  </data>
+  <data name="btnClose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>678, 328</value>
+  </data>
+  <data name="btnClose.Text" xml:space="preserve">
+    <value>&amp;Fermer</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>780, 388</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Taux d'échange</value>
+  </data>
+</root>
