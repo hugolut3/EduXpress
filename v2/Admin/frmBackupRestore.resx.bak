@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnRestore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 106</value>
+  </data>
+  <data name="btnRestore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 33</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnRestore.TabIndex" type="System.Int32, mscorlib">
+    <value>328</value>
+  </data>
+  <data name="btnRestore.Text" xml:space="preserve">
+    <value>&amp;Restore</value>
+  </data>
+  <data name="&gt;&gt;btnRestore.Name" xml:space="preserve">
+    <value>btnRestore</value>
+  </data>
+  <data name="&gt;&gt;btnRestore.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnRestore.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;btnRestore.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnBackup.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnBackup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 106</value>
+  </data>
+  <data name="btnBackup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 33</value>
+  </data>
+  <data name="btnBackup.TabIndex" type="System.Int32, mscorlib">
+    <value>327</value>
+  </data>
+  <data name="btnBackup.Text" xml:space="preserve">
+    <value>Ba&amp;ckUp</value>
+  </data>
+  <data name="&gt;&gt;btnBackup.Name" xml:space="preserve">
+    <value>btnBackup</value>
+  </data>
+  <data name="&gt;&gt;btnBackup.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnBackup.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;btnBackup.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtBackupDirectory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 34</value>
+  </data>
+  <data name="txtBackupDirectory.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="txtBackupDirectory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>583, 24</value>
+  </data>
+  <data name="txtBackupDirectory.TabIndex" type="System.Int32, mscorlib">
+    <value>326</value>
+  </data>
+  <data name="&gt;&gt;txtBackupDirectory.Name" xml:space="preserve">
+    <value>txtBackupDirectory</value>
+  </data>
+  <data name="&gt;&gt;txtBackupDirectory.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtBackupDirectory.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;txtBackupDirectory.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnBrowseBackupFolder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>506, 64</value>
+  </data>
+  <data name="btnBrowseBackupFolder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 33</value>
+  </data>
+  <data name="btnBrowseBackupFolder.TabIndex" type="System.Int32, mscorlib">
+    <value>325</value>
+  </data>
+  <data name="btnBrowseBackupFolder.Text" xml:space="preserve">
+    <value>&amp;Browse ...</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseBackupFolder.Name" xml:space="preserve">
+    <value>btnBrowseBackupFolder</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseBackupFolder.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseBackupFolder.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseBackupFolder.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupControl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 42</value>
+  </data>
+  <data name="groupControl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>622, 152</value>
+  </data>
+  <data name="groupControl2.TabIndex" type="System.Int32, mscorlib">
+    <value>334</value>
+  </data>
+  <data name="groupControl2.Text" xml:space="preserve">
+    <value>Backup/Restore the Database</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Name" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>194, 17</value>
+  </metadata>
+  <data name="btnClose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>518, 234</value>
+  </data>
+  <data name="btnClose.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 33</value>
+  </data>
+  <data name="btnClose.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="btnClose.Text" xml:space="preserve">
+    <value>Cl&amp;ose</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Name" xml:space="preserve">
+    <value>btnClose</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnClose.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>690, 448</value>
+  </data>
+  <data name="frmBackupRestore.IconOptions.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8A////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAABAAAABgAAAA4AAAAUAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFAAAAA4AAAAGAAAAAQAA
+        AAAAAAAA////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAgAAAA0AAAAfAAAAMgAAAD4AAABCAAAAQwAAAEMAAABDAAAAQwAAAEIAAAA+AAAAMgAA
+        AB8AAAANAAAAAgAAAAD///8A////AP///wAAAAAEAAAADQAAABUAAAAWAAAAFgAAABYAAAAWAAAAFgAA
+        ABYAAAAWAAAAFgAAABYAAAAbAAAALElEPWl7cWXEi39z+Ix/cv+Lf3H/in5x/4p+cf+Lf3H/jH9y/4t/
+        c/h7cWXESUM9agAAACcAAAAKAAAAAP///wD///8A////AAAAAA0AAAArAAAAPwAAAEMAAABDAAAAQwAA
+        AEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEVmX1eWl4yA/7Wtov/Nw7r/4tnR/+ng2P/w5d//8+ji/+rh
+        2v/k29P/zsW7/7auo/+ZjID/cWlfkwAAABMAAAAA////AP///wD///8AAAAAFYl3YsSWgWr/lYBp/5WA
+        af+VgGn/lYBp/5WAaf+VgGn/lYBp/5WAaf+VgGn/loBo/5GHev/Kw7n/0cnB/9bNxP/c08r/49nR/+ne
+        1//s4dr/5NrT/97UzP/Xz8f/08vD/8vFvP+TiHr/AAAAFgAAAAD///8A////AP///wAAAAAWloFr/9TJ
+        tP/Pw67/zcGs/83BrP/Nwaz/zcGs/83BrP/Nwaz/zcGs/83CrP/QxK7/kIZ5/8vDu//Oxr3/1MvC/9rR
+        yP/h18//59zV/+rf2P/i2NH/3NLK/9XNxP/QyL//zca8/5SKff8AAAAWAAAAAP///wD///8A////AAAA
+        ABaWgWr/08e1/8q9qf///vP/xrik///98v/GuKT///3y/8a4pP///fL/x7mk////9v+QhXn/ycG5/8zE
+        u//SycD/2M/F/9/Vzf/p39j/6d3W/+DWz//a0Mj/08vC/87Gvf/LxLr/l4t//wAAABQAAAAA////AP//
+        /wD///8AAAAAFpeCa//Uyrj/yb2n/8W5ov//+u//w7ag///67//DtqD///rv/8O2oP//+/D/ybyl/5GH
+        ev/Jw7r/497U//Xv6f//+/T//vrz//358v/9+fL//frz///79P/28Oj/5N3W/83Hvf+ZjoH/AAAAEAAA
+        AAD///8A////AP///wAAAAAWmINr/9jOvf/Kvqj///3y/8a6pP//+/D/xrqj///78P/HuqT///zx/8m7
+        pf////T/qp6O//n07v/X0Mj/xr62/761q//Cua//x7y0/8i+tf/DubH/v7as/8e/t//Y0cr/+/fw/4qA
+        drUAAAAQAAAAAP///wD///8A////AAAAABaZhGz/2tHA/8zAq//Lv6n/y7+p/8u+qf/Lv6n/y7+p/9DA
+        q//Xwa7/2MKv/9PDrv+vo5T/o5qQ/7aupP/Iv7b/2M/H/+PZ0f/q3tj/7OHa/+Ta0//a0cn/ysG4/7iv
+        pv+mnpT/jIR4uAAAABQAAAAA////AP///wD///8AAAAAFpiDbf/d08T/zsGt/87Brf/Owa3/zsGt/87B
+        rf/Qwa7/18Ox/wCKOv8Aizr/28az/56Uiv/Kwrr/z8e+/9XMw//a0cj/4dfP/+jc1v/q39j/4tjR/9zS
+        yv/WzsX/0cnA/8zFvP+imIz/AAAAFgAAAAD///8A////AP///wAAAAAWmYRt/9/Wx//Pwq7/0MSw/9DE
+        sf/QxLH/0MSx/9HFsv/VxbT/3ce3/93It//YyLX/oJmM/8jAuP/Mw7r/0si//9jOxf/f1c3/6d7Y/+nd
+        1v/g1s//2s/H/9PLwv/Oxr3/ysO5/6Objv8AAAAWAAAAAP///wD///8A////AAAAABaahW7/4dnL/9HE
+        sf/BqIj/wqqK/8Kqiv/Cqor/wqqK/8Oqi//Eqov/xauM/8ari/+hmo//yMG5/+Hb0v/z7eb//fny//z4
+        8f/79/D/+/fw//z48f/9+PL/9O7m/+Lb0//LxLr/pJyQ/wAAABYAAAAA////AP///wD///8AAAAAFpuG
+        b//j3M7/0cSw/7+mhf+/p4b/v6eG/7+nhv+/p4b/v6eG/7+nhv/Ap4b/wqiH/6Kckf/79vD/7ufe/+Pc
+        0//d1cz/3dXL/93Uy//d1Mv/3dTL/93Vy//j3NP/7ufe//v38P+ln5L/AAAAEwAAAAD///8A////AP//
+        /wAAAAAWnIdw/+fe0v/Rwq//+vn4//n49//5+Pf/+fj3//n49//5+Pf/+fj3//r59//9/Pn/pJ6T/+HX
+        zv/h2M7/39bM/9/Wy//f1cv/39XL/9/Vy//f1cv/39bL/9/WzP/h2M7/4tjP/6qjl/8AAAAKAAAAAP//
+        /wD///8A////AAAAABadiHD/6ODV/9HEr//RxLD/0cSw/9HEsP/RxLD/0cSw/9HEsP/RxLD/0cWx/9TH
+        s//Cuaj/sauh/8/Ivv/g2c7/7+fd/+/m3f/v5t3/7ubd/+7m3f/v593/4trP/9HJvv+0raH/pJ2SeAAA
+        AAIAAAAA////AP///wD///8AAAAAFp2Hcf/q5Nn/08ez/8Cnh//BqIn/wamJ/8Gpif/BqYn/wamJ/8Gp
+        if/BqYn/wqqK/8Oqiv+9qo3/urOl/7Ktof+sp5v/raeb/62nm/+sp5v/rKeb/62nm/+sp5v2qqSZraCa
+        jzoAAAABAAAAAAAAAAD///8A////AP///wAAAAAWnohy/+zl2//UxrP/v6WE/7+mhv+/p4b/v6eG/7+n
+        hv+/p4b/v6eG/7+nhv+/p4b/v6eG/8CmhP/Wx7T/7ubb/5yFbf8AAAAWAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///8A////AAAAABafiXL/7ufe/9PFsf/7+vj/+vn4//r5
+        9//6+ff/+vn3//r59//6+ff/+vn3//r59//6+fj/+/r4/9TFsf/v597/nohx/wAAABYAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AP///wD///8AAAAAFqCKc//w6+H/1cez/9bI
+        tf/WyLX/1si1/9bItf/WyLX/1si1/9bItf/WyLX/1si1/9bItf/WyLX/1cez//Dr4f+finP/AAAAFgAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wAAAAAWoIt0//Ls
+        5P/Xybb/v6eG/8GoiP/BqIn/waiJ/8Goif/BqIn/waiJ/8Goif/BqIn/waiI/7+nhv/Xybb/8uzk/6CL
+        dP8AAAAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///8A////AAAA
+        ABahjHX/9O/o/9jKtv++pYP/v6aF/7+mhv+/pob/v6aG/7+mhv+/pob/v6aG/7+mhv+/poX/vqWD/9jK
+        tv/07+j/oYx1/wAAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AP//
+        /wD///8AAAAAFqGMdv/28Or/18i1//36+v/8+vr//Pr6//z6+v/8+vr//Pr6//z6+v/8+vr//Pr6//z6
+        +v/9+vr/18i1//bw6v+hjHb/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8A////AP///wAAAAAWoo13//f07P/Yybb/2cu4/9nLuP/Zy7j/2cu4/9nLuP/Zy7j/2cu4/9nL
+        uP/Zy7j/2cu4/9nLuP/Yybb/9/Ts/6KNd/8AAAAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP///wD///8A////AAAAABajjnf/+fXw/9rMuf+/poX/wKiI/8Goif/BqIn/waiJ/8Go
+        if/BqIn/waiJ/8Goif/AqIj/v6aF/9rMuf/59fD/o453/wAAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA////AP///wD///8AAAAAFqSPeP/79/L/28y5/76kg/+/poX/v6aG/7+m
+        hv+/pob/v6aG/7+mhv+/pob/v6aG/7+mhf++pIP/28y5//v38v+kj3j/AAAAFgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wAAAAAWpZB4//v49f/ayrb/+/r4//v6
+        +P/7+vj/+/r4//v6+P/7+vj/+/r4//v6+P/7+vj/+/r4//v6+P/ayrb/+/j1/6WQeP8AAAAWAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///8A////AAAAABWlkHr//fr3/9rK
+        tv/aybX/2sm1/9rJtf/aybX/2sm1/9rJtf/aybX/2sm1/9rJtf/aybX/2sm1/9rKtv/9+vf/pZB6/wAA
+        ABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AP///wD///8AAAAADaiT
+        fP////3//fr2//v49f/7+PT/+/j0//v49P/7+PT/+/j0//v49P/7+PT/+/j0//v49P/7+PX//fr2////
+        /f+ok3z/AAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP//
+        /wAAAAAEpZF9s6eRe//Ju6b/zcCr/8y/qf/Mv6n/zL+p/8y/qf/Mv6n/zL+p/8y/qf/Mv6n/zL+p/83A
+        q//Ju6b/p5F7/6WRfbMAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+        /wD///8A////AAAAAAAAAAADppJ+rr+tmP/g08D/39G//9/Rvv/f0b7/39G+/9/Rvv/f0b7/39G+/9/R
+        vv/f0b//4NPA/7+tmP+mkn6uAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA////AP///wD///8AAAAAAAAAAAAAAAAEqZWAsK2Yg/+sl4L/rJeC/6yXgv+sl4L/rJeC/6yX
+        gv+sl4L/rJeC/6yXgv+tmIP/qZWAsAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD///8A//4AB//8AAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AA
+        AAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAfAAAf/wAAH/8AAB//AAAf/wAAH/8AAB//AAAf/wAAH/8AA
+        B//AAAf/wAAH/8AAB//AAAf/4AAP//AAH/8=
+</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Backup/Restore EduXpress Database</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Name" xml:space="preserve">
+    <value>splashScreenManager1</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Type" xml:space="preserve">
+    <value>DevExpress.XtraSplashScreen.SplashScreenManager, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmBackupRestore</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.XtraForm, DevExpress.Utils.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+</root>
