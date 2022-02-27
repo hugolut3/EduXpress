@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnClose.Caption" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="btnNew.Caption" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="btnSave.Caption" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ribbonControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ribbonPageGroupCurrencyConverter.Text" xml:space="preserve">
+    <value>Currency Converter</value>
+  </data>
+  <data name="ribbonPageGroupClose.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ribbonPageFile.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="ribbonControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>748, 158</value>
+  </data>
+  <data name="ribbonStatusBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 503</value>
+  </data>
+  <data name="ribbonStatusBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>748, 24</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Name" xml:space="preserve">
+    <value>ribbonStatusBar1</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonStatusBar, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Name" xml:space="preserve">
+    <value>ribbonControl1</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ribbonPage2.Text" xml:space="preserve">
+    <value>ribbonPage2</value>
+  </data>
+  <data name="cmbSelectCurrency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 21</value>
+  </data>
+  <assembly alias="DevExpress.Utils.v20.2" name="DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="cmbSelectCurrency.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v20.2">
+    <value>Combo</value>
+  </data>
+  <data name="cmbSelectCurrency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 20</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cmbSelectCurrency.TabIndex" type="System.Int32, mscorlib">
+    <value>494</value>
+  </data>
+  <data name="&gt;&gt;cmbSelectCurrency.Name" xml:space="preserve">
+    <value>cmbSelectCurrency</value>
+  </data>
+  <data name="&gt;&gt;cmbSelectCurrency.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.ComboBoxEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;cmbSelectCurrency.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;cmbSelectCurrency.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblLastUpdated.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 116</value>
+  </data>
+  <data name="lblLastUpdated.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 13</value>
+  </data>
+  <data name="lblLastUpdated.TabIndex" type="System.Int32, mscorlib">
+    <value>496</value>
+  </data>
+  <data name="lblLastUpdated.Text" xml:space="preserve">
+    <value>Last Updated: 0H00 000</value>
+  </data>
+  <data name="&gt;&gt;lblLastUpdated.Name" xml:space="preserve">
+    <value>lblLastUpdated</value>
+  </data>
+  <data name="&gt;&gt;lblLastUpdated.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lblLastUpdated.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;lblLastUpdated.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtRate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>330, 64</value>
+  </data>
+  <data name="txtRate.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 15.75pt, style=Bold</value>
+  </data>
+  <data name="txtRate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 32</value>
+  </data>
+  <data name="txtRate.TabIndex" type="System.Int32, mscorlib">
+    <value>495</value>
+  </data>
+  <data name="&gt;&gt;txtRate.Name" xml:space="preserve">
+    <value>txtRate</value>
+  </data>
+  <data name="&gt;&gt;txtRate.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtRate.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;txtRate.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblCurrency.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="lblCurrency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 75</value>
+  </data>
+  <data name="lblCurrency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>197, 19</value>
+  </data>
+  <data name="lblCurrency.TabIndex" type="System.Int32, mscorlib">
+    <value>491</value>
+  </data>
+  <data name="lblCurrency.Text" xml:space="preserve">
+    <value>UNITED STATES DOLLAR   USD</value>
+  </data>
+  <data name="&gt;&gt;lblCurrency.Name" xml:space="preserve">
+    <value>lblCurrency</value>
+  </data>
+  <data name="&gt;&gt;lblCurrency.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lblCurrency.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;lblCurrency.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pictureCurrencyBase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>469, 59</value>
+  </data>
+  <data name="pictureCurrencyBase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="pictureCurrencyBase.TabIndex" type="System.Int32, mscorlib">
+    <value>487</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrencyBase.Name" xml:space="preserve">
+    <value>pictureCurrencyBase</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrencyBase.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.PictureEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrencyBase.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrencyBase.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pictureCurrency.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 62</value>
+  </data>
+  <data name="pictureCurrency.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="pictureCurrency.TabIndex" type="System.Int32, mscorlib">
+    <value>490</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrency.Name" xml:space="preserve">
+    <value>pictureCurrency</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrency.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.PictureEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrency.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;pictureCurrency.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblCurrencyBaseName.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="lblCurrencyBaseName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>515, 72</value>
+  </data>
+  <data name="lblCurrencyBaseName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 19</value>
+  </data>
+  <data name="lblCurrencyBaseName.TabIndex" type="System.Int32, mscorlib">
+    <value>488</value>
+  </data>
+  <data name="lblCurrencyBaseName.Text" xml:space="preserve">
+    <value>CONGOLESE FRANC   CDF</value>
+  </data>
+  <data name="&gt;&gt;lblCurrencyBaseName.Name" xml:space="preserve">
+    <value>lblCurrencyBaseName</value>
+  </data>
+  <data name="&gt;&gt;lblCurrencyBaseName.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lblCurrencyBaseName.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;lblCurrencyBaseName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblConversion.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 15.75pt, style=Bold</value>
+  </data>
+  <assembly alias="DevExpress.XtraEditors.v20.2" name="DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="lblConversion.AutoSizeMode" type="DevExpress.XtraEditors.LabelAutoSizeMode, DevExpress.XtraEditors.v20.2">
+    <value>None</value>
+  </data>
+  <data name="lblConversion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>275, 62</value>
+  </data>
+  <data name="lblConversion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 40</value>
+  </data>
+  <data name="lblConversion.TabIndex" type="System.Int32, mscorlib">
+    <value>489</value>
+  </data>
+  <data name="lblConversion.Text" xml:space="preserve">
+    <value>1 = </value>
+  </data>
+  <data name="&gt;&gt;lblConversion.Name" xml:space="preserve">
+    <value>lblConversion</value>
+  </data>
+  <data name="&gt;&gt;lblConversion.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lblConversion.Parent" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;lblConversion.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="groupControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 24</value>
+  </data>
+  <data name="groupControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>724, 134</value>
+  </data>
+  <data name="groupControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>493</value>
+  </data>
+  <data name="groupControl1.Text" xml:space="preserve">
+    <value>Daily Rates</value>
+  </data>
+  <data name="&gt;&gt;groupControl1.Name" xml:space="preserve">
+    <value>groupControl1</value>
+  </data>
+  <data name="&gt;&gt;groupControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupControl1.Parent" xml:space="preserve">
+    <value>panelControl1</value>
+  </data>
+  <data name="&gt;&gt;groupControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>691, 6</value>
+  </data>
+  <data name="txtID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 22</value>
+  </data>
+  <data name="txtID.TabIndex" type="System.Int32, mscorlib">
+    <value>473</value>
+  </data>
+  <data name="txtID.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txtID.Name" xml:space="preserve">
+    <value>txtID</value>
+  </data>
+  <data name="&gt;&gt;txtID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtID.Parent" xml:space="preserve">
+    <value>panelControl1</value>
+  </data>
+  <data name="&gt;&gt;txtID.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panelControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panelControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 158</value>
+  </data>
+  <data name="panelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>748, 164</value>
+  </data>
+  <data name="panelControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panelControl1.Name" xml:space="preserve">
+    <value>panelControl1</value>
+  </data>
+  <data name="&gt;&gt;panelControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.PanelControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;panelControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelControl1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="svgImageCollection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>194, 17</value>
+  </metadata>
+  <assembly alias="DevExpress.Data.v20.2" name="DevExpress.Data.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="svgImageCollection1.cd" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAL8BAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDgw
+        MCA2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogIDxyZWN0IHg9IjAiIHk9
+        IjAiIHdpZHRoPSI4MDAiIGhlaWdodD0iNjAwIiByeD0iMCIgcnk9IjAiIHN0eWxlPSJmaWxsOiMwMDdm
+        ZmYiIC8+DQogIDxwYXRoIGQ9Im0gMzYsMTIwIDg0LDAgMjYsLTg0IDI2LDg0IDg0LDAgLTY4LDUyIDI2
+        LDg0IC02OCwtNTIgLTY4LDUyIDI2LC04NCAtNjgsLTUyIHogTSA3NTAsMCAwLDQ1MCAwLDYwMCAwLDYw
+        MCA1MCw2MDAgODAwLDE1MCA4MDAsMCA3NTAsMCIgc3R5bGU9ImZpbGw6I2Y3ZDYxOCIgLz4NCiAgPHBh
+        dGggZD0iTSA4MDAsMCAwLDQ4MCAwLDYwMCAwLDYwMCAwLDYwMCA4MDAsMTIwIDgwMCwwIiBzdHlsZT0i
+        ZmlsbDojY2UxMDIxIiAvPg0KPC9zdmc+Cw==
+</value>
+  </data>
+  <data name="svgImageCollection1.us" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAFkEAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDc0
+        MTAgMzkwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0
+        cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI3NDEw
+        IiBoZWlnaHQ9IjM5MDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iI2IyMjIzNCIgLz4NCiAgPHBhdGggZD0i
+        TTAsNDUwSDc0MTBtMCw2MDBIMG0wLDYwMEg3NDEwbTAsNjAwSDBtMCw2MDBINzQxMG0wLDYwMEgwIiBz
+        dHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMzAwcHgiIC8+DQogIDxyZWN0IHg9IjAiIHk9IjAiIHdp
+        ZHRoPSIyOTY0IiBoZWlnaHQ9IjIxMDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iIzNjM2I2ZSIgLz4NCiAg
+        PGcgZmlsbD0iI2ZmZiI+DQogICAgPGcgaWQ9InMxOCI+DQogICAgICA8ZyBpZD0iczkiPg0KICAgICAg
+        ICA8ZyBpZD0iczUiPg0KICAgICAgICAgIDxnIGlkPSJzNCI+DQogICAgICAgICAgICA8cGF0aCBkPSJN
+        MjQ3LDkwIDMxNy41MzQyMzAsMzA3LjA4MjAzOSAxMzIuODczMjE4LDE3Mi45MTc5NjFIMzYxLjEyNjc4
+        MkwxNzYuNDY1NzcwLDMwNy4wODIwMzl6IiBpZD0icyIgLz4NCiAgICAgICAgICAgIDx1c2UgeT0iNDIw
+        cHgiIHhsaW5rOmhyZWY9IiNzIiAvPg0KICAgICAgICAgICAgPHVzZSB5PSI4NDBweCIgeGxpbms6aHJl
+        Zj0iI3MiIC8+DQogICAgICAgICAgICA8dXNlIHk9IjEyNjBweCIgeGxpbms6aHJlZj0iI3MiIC8+DQog
+        ICAgICAgICAgPC9nPg0KICAgICAgICAgIDx1c2UgeT0iMTY4MHB4IiB4bGluazpocmVmPSIjcyIgLz4N
+        CiAgICAgICAgPC9nPg0KICAgICAgICA8dXNlIHg9IjI0N3B4IiB5PSIyMTBweCIgeGxpbms6aHJlZj0i
+        I3M0IiAvPg0KICAgICAgPC9nPg0KICAgICAgPHVzZSB4PSI0OTRweCIgeGxpbms6aHJlZj0iI3M5IiAv
+        Pg0KICAgIDwvZz4NCiAgICA8dXNlIHg9Ijk4OHB4IiB4bGluazpocmVmPSIjczE4IiAvPg0KICAgIDx1
+        c2UgeD0iMTk3NnB4IiB4bGluazpocmVmPSIjczkiIC8+DQogICAgPHVzZSB4PSIyNDcwcHgiIHhsaW5r
+        OmhyZWY9IiNzNSIgLz4NCiAgPC9nPg0KPC9zdmc+Cw==
+</value>
+  </data>
+  <data name="svgImageCollection1.eu" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjEsIFZlcnNpb249MjAuMS40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAABUFAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgdmlld0JveD0iMCAwIDgx
+        MCA1NDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6
+        Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPg0KICA8ZGVmcz4NCiAgICA8ZyBpZD0icyI+DQogICAgICA8
+        ZyBpZD0iYyI+DQogICAgICAgIDxwYXRoIGQ9Ik0wLDB2MWgwLjV6IiBpZD0idCIgdHJhbnNmb3JtPSJ0
+        cmFuc2xhdGUoMCwgLTEpIHJvdGF0ZSgxOCwgMCwgMCkiIC8+DQogICAgICAgIDx1c2UgeGxpbms6aHJl
+        Zj0iI3QiIHRyYW5zZm9ybT0ic2NhbGUoLTEsIDEpIiAvPg0KICAgICAgPC9nPg0KICAgICAgPGcgaWQ9
+        ImEiPg0KICAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNjIiB0cmFuc2Zvcm09InJvdGF0ZSg3MiwgMCwg
+        MCkiIC8+DQogICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2MiIHRyYW5zZm9ybT0icm90YXRlKDE0NCwg
+        MCwgMCkiIC8+DQogICAgICA8L2c+DQogICAgICA8dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09
+        InNjYWxlKC0xLCAxKSIgLz4NCiAgICA8L2c+DQogIDwvZGVmcz4NCiAgPHJlY3QgeD0iMCIgeT0iMCIg
+        d2lkdGg9IjgxMCIgaGVpZ2h0PSI1NDAiIHJ4PSIwIiByeT0iMCIgZmlsbD0iIzAzOSIgLz4NCiAgPGcg
+        ZmlsbD0iI2ZjMCIgdHJhbnNmb3JtPSJzY2FsZSgzMCkgdHJhbnNsYXRlKDEzLjUsIDkpIj4NCiAgICA8
+        dXNlIHk9Ii02cHgiIHhsaW5rOmhyZWY9IiNzIiAvPg0KICAgIDx1c2UgeT0iNnB4IiB4bGluazpocmVm
+        PSIjcyIgLz4NCiAgICA8ZyBpZD0ibCI+DQogICAgICA8dXNlIHg9Ii02cHgiIHhsaW5rOmhyZWY9IiNz
+        IiAvPg0KICAgICAgPHVzZSB4bGluazpocmVmPSIjcyIgdHJhbnNmb3JtPSJyb3RhdGUoMTUwLCAwLCAw
+        KSB0cmFuc2xhdGUoMCwgNikgcm90YXRlKDY2LCAwLCAwKSIgLz4NCiAgICAgIDx1c2UgeGxpbms6aHJl
+        Zj0iI3MiIHRyYW5zZm9ybT0icm90YXRlKDEyMCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJvdGF0ZSgy
+        NCwgMCwgMCkiIC8+DQogICAgICA8dXNlIHhsaW5rOmhyZWY9IiNzIiB0cmFuc2Zvcm09InJvdGF0ZSg2
+        MCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJvdGF0ZSgxMiwgMCwgMCkiIC8+DQogICAgICA8dXNlIHhs
+        aW5rOmhyZWY9IiNzIiB0cmFuc2Zvcm09InJvdGF0ZSgzMCwgMCwgMCkgdHJhbnNsYXRlKDAsIDYpIHJv
+        dGF0ZSg0MiwgMCwgMCkiIC8+DQogICAgPC9nPg0KICAgIDx1c2UgeGxpbms6aHJlZj0iI2wiIHRyYW5z
+        Zm9ybT0ic2NhbGUoLTEsIDEpIiAvPg0KICA8L2c+DQo8L3N2Zz4L
+</value>
+  </data>
+  <data name="gridControlCurrencyConverter.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="gridControlCurrencyConverter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 322</value>
+  </data>
+  <data name="gridControlCurrencyConverter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>748, 181</value>
+  </data>
+  <data name="gridControlCurrencyConverter.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;gridControlCurrencyConverter.Name" xml:space="preserve">
+    <value>gridControlCurrencyConverter</value>
+  </data>
+  <data name="&gt;&gt;gridControlCurrencyConverter.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridControlCurrencyConverter.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gridControlCurrencyConverter.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>fr</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>748, 527</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Currency Converter</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Name" xml:space="preserve">
+    <value>btnClose</value>
+  </data>
+  <data name="&gt;&gt;btnClose.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.BarButtonItem, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnNew.Name" xml:space="preserve">
+    <value>btnNew</value>
+  </data>
+  <data name="&gt;&gt;btnNew.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.BarButtonItem, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Name" xml:space="preserve">
+    <value>btnSave</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.BarButtonItem, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageFile.Name" xml:space="preserve">
+    <value>ribbonPageFile</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageFile.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPage, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupCurrencyConverter.Name" xml:space="preserve">
+    <value>ribbonPageGroupCurrencyConverter</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupCurrencyConverter.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPageGroup, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupClose.Name" xml:space="preserve">
+    <value>ribbonPageGroupClose</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupClose.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPageGroup, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPage2.Name" xml:space="preserve">
+    <value>ribbonPage2</value>
+  </data>
+  <data name="&gt;&gt;ribbonPage2.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPage, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;svgImageCollection1.Name" xml:space="preserve">
+    <value>svgImageCollection1</value>
+  </data>
+  <data name="&gt;&gt;svgImageCollection1.Type" xml:space="preserve">
+    <value>DevExpress.Utils.SvgImageCollection, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridView1.Name" xml:space="preserve">
+    <value>gridView1</value>
+  </data>
+  <data name="&gt;&gt;gridView1.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Name" xml:space="preserve">
+    <value>splashScreenManager1</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Type" xml:space="preserve">
+    <value>DevExpress.XtraSplashScreen.SplashScreenManager, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmCurrencyConverter</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonForm, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+</root>

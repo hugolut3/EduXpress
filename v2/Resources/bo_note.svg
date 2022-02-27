@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 32 32" xml:space="preserve" id="Layer_1">
+  <g id="Note">
+    <path d="M27,2H3C2.5,2,2,2.5,2,3v24c0,0.5,0.5,1,1,1h24c0.5,0,1-0.5,1-1V3C28,2.5,27.5,2,27,2z M22,22H8v-2h14V22z    M22,18H8v-2h14V18z M22,14H8v-2h14V14z M22,10H8V8h14V10z" fill="#FFB115" class="Yellow" />
+  </g>
+</svg>

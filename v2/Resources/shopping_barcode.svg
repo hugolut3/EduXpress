@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 32 32" xml:space="preserve" id="Layer_1">
+  <g id="Barcode_1_">
+    <rect x="2" y="6" width="4" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+    <rect x="8" y="6" width="2" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+    <rect x="18" y="6" width="2" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+    <rect x="26" y="6" width="4" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+    <rect x="22" y="6" width="2" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+    <rect x="12" y="6" width="4" height="20" rx="0" ry="0" fill="#727272" class="Black" />
+  </g>
+</svg>
