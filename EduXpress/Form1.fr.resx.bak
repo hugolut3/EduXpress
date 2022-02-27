@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="barBtnMenuLogin.Caption" xml:space="preserve">
+    <value>Connexion</value>
+  </data>
+  <data name="barBtnMenuLogout.Caption" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="barStaticUser.Caption" xml:space="preserve">
+    <value>Prêt!</value>
+  </data>
+  <data name="btnExitMain.Caption" xml:space="preserve">
+    <value>Quitter</value>
+  </data>
+  <data name="barStaticServer.Caption" xml:space="preserve">
+    <value>Serveur: Vérification de l'état d'exécution du serveur SQL...</value>
+  </data>
+  <data name="btnBinduWebsite.Caption" xml:space="preserve">
+    <value>Site Officiel Bindu</value>
+  </data>
+  <data name="btnAbout.Caption" xml:space="preserve">
+    <value>À propos d'EduXpress</value>
+  </data>
+  <data name="btnContactUs.Caption" xml:space="preserve">
+    <value>Contactez nous</value>
+  </data>
+  <data name="ribbonPageGroupSecurity.Text" xml:space="preserve">
+    <value>S'identifier</value>
+  </data>
+  <data name="ribbonPageGroupExit.Text" xml:space="preserve">
+    <value>Quitter l'application</value>
+  </data>
+  <data name="ribbonPageFile.Text" xml:space="preserve">
+    <value>Fichier</value>
+  </data>
+  <data name="ribbonPageGroupAbout.Text" xml:space="preserve">
+    <value>À propos...</value>
+  </data>
+  <data name="ribbonPageHelp.Text" xml:space="preserve">
+    <value>Aide</value>
+  </data>
+  <data name="navBarGroupStudents.Caption" xml:space="preserve">
+    <value>Élève</value>
+  </data>
+  <data name="navBarStudentsEnrolment.Caption" xml:space="preserve">
+    <value>Inscription</value>
+  </data>
+  <data name="navBarStudentsFees.Caption" xml:space="preserve">
+    <value>Frais Scolaires</value>
+  </data>
+  <data name="navBarItemClassPromotion.Caption" xml:space="preserve">
+    <value>Promotion de classe</value>
+  </data>
+  <data name="navBarItemStudentReports.Caption" xml:space="preserve">
+    <value>Rapports de paiement des frais Scolaires</value>
+  </data>
+  <data name="navBarGroupDashboard.Caption" xml:space="preserve">
+    <value>Tableau de bord</value>
+  </data>
+  <data name="navBarItemTime.Caption" xml:space="preserve">
+    <value>Temps</value>
+  </data>
+  <data name="navBarItemStudents.Caption" xml:space="preserve">
+    <value>Élève</value>
+  </data>
+  <data name="navBarItemFeesCollected.Caption" xml:space="preserve">
+    <value>Frais Perçus</value>
+  </data>
+  <data name="navBarItemWordDocument.Caption" xml:space="preserve">
+    <value>Document Word</value>
+  </data>
+  <data name="navBarItemSpreadsheet.Caption" xml:space="preserve">
+    <value>Document Excel</value>
+  </data>
+  <data name="navBarItemPdfViewer.Caption" xml:space="preserve">
+    <value>Lecteur de documents PDF</value>
+  </data>
+  <data name="navBarItemScheduling.Caption" xml:space="preserve">
+    <value>Planification</value>
+  </data>
+  <data name="navBarGroupEducation.Caption" xml:space="preserve">
+    <value>Enseignement</value>
+  </data>
+  <data name="navBarItemMarkSheet.Caption" xml:space="preserve">
+    <value>Fiche de Cotation</value>
+  </data>
+  <data name="navBarItemSubjects.Caption" xml:space="preserve">
+    <value>Matières scolaires</value>
+  </data>
+  <data name="navBarItemReportCards.Caption" xml:space="preserve">
+    <value>Bulletins</value>
+  </data>
+  <data name="navBarGroupReports.Caption" xml:space="preserve">
+    <value>Rapports</value>
+  </data>
+  <data name="navBarItemLogs.Caption" xml:space="preserve">
+    <value>Journal des événements</value>
+  </data>
+  <assembly alias="DevExpress.Data.v20.2" name="DevExpress.Data.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="navBarItemLogs.ImageOptions.SvgImage" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v20.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjIwLjIsIFZlcnNpb249MjAuMi40
+        LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
+        dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAFsFAAAC77u/
+        PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgeD0iMHB4IiB5PSIwcHgi
+        IHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
+        MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3Bh
+        Y2U9InByZXNlcnZlIiBpZD0iTGluZU51bWJlcmluZyI+DQogIDxwYXRoIGQ9Ik0zMSwySDEzYy0wLjUs
+        MC0xLDAuNS0xLDF2MjZjMCwwLjUsMC41LDEsMSwxaDE4YzAuNSwwLDEtMC41LDEtMVYzQzMyLDIuNSwz
+        MS41LDIsMzEsMnogTTMwLDI4SDE0VjRoMTZWMjh6IiBmaWxsPSIjNzI3MjcyIiBjbGFzcz0iQmxhY2si
+        IC8+DQogIDxwYXRoIGQ9Ik0yNiwxMmgtOHYtMmg4VjEyeiBNMjYsMjJoLTh2LTJoOFYyMnoiIGZpbGw9
+        IiMxMTc3RDciIGNsYXNzPSJCbHVlIiAvPg0KICA8cGF0aCBkPSJNNCw2djhIMlY5LjNsLTIsMFY3Ljds
+        MC4yLDBjMC4yLDAsMC41LDAsMC43LTAuMWMwLjMsMCwwLjUtMC4xLDAuNy0wLjNjMC4yLTAuMSwwLjQt
+        MC4zLDAuNS0wLjUgIGMwLjEtMC4yLDAuMi0wLjQsMC4zLTAuN2wwLTAuMUg0eiBNNiwyNHYtMS42SDIu
+        NkMyLjcsMjIuMiwyLjksMjIuMSwzLDIyYzAuMi0wLjIsMC41LTAuNCwwLjctMC41YzAuMy0wLjIsMC41
+        LTAuMywwLjgtMC41ICBjMC4zLTAuMiwwLjUtMC40LDAuNy0wLjZjMC4yLTAuMiwwLjQtMC41LDAuNS0w
+        LjhjMC4xLTAuMywwLjItMC42LDAuMi0xYzAtMC40LTAuMS0wLjctMC4yLTEuMWMtMC4xLTAuMy0wLjQt
+        MC42LTAuNi0wLjggIGMtMC4zLTAuMi0wLjUtMC40LTAuOS0wLjVjLTAuMy0wLjEtMC43LTAuMi0xLTAu
+        MmMtMC41LDAtMC45LDAuMS0xLjMsMC4yYy0wLjQsMC4yLTAuNywwLjQtMC45LDAuN2MtMC4yLDAuMy0w
+        LjQsMC42LTAuNSwxICBjLTAuMSwwLjQtMC4yLDAuOC0wLjIsMS4zbDAsMC4xaDEuOHYtMC4xYzAtMC4y
+        LDAtMC40LDAuMS0wLjZjMC0wLjIsMC4xLTAuNCwwLjItMC41YzAuMS0wLjEsMC4yLTAuMywwLjMtMC40
+        ICBjMC4xLTAuMSwwLjMtMC4xLDAuNS0wLjFjMC4zLDAsMC41LDAuMSwwLjcsMC4zYzAuMiwwLjIsMC4z
+        LDAuNCwwLjMsMC44YzAsMC4yLDAsMC40LTAuMSwwLjVjLTAuMSwwLjItMC4yLDAuMy0wLjQsMC41ICBj
+        LTAuMSwwLjEtMC4zLDAuMy0wLjUsMC40Yy0wLjIsMC4xLTAuNCwwLjItMC41LDAuNEMyLjMsMjAuNiwy
+        LDIwLjgsMS43LDIxYy0wLjMsMC4yLTAuNiwwLjUtMC44LDAuN2MtMC4yLDAuMy0wLjQsMC42LTAuNSww
+        LjkgIGMtMC4xLDAuMy0wLjIsMC43LTAuMiwxLjJWMjRINnogTTEwLDEwSDh2MmgyVjEweiBNMTAsMjBI
+        OHYyaDJWMjB6IiBmaWxsPSIjRDExQzFDIiBjbGFzcz0iUmVkIiAvPg0KPC9zdmc+Cw==
+</value>
+  </data>
+  <data name="navBarItemListStudents.Caption" xml:space="preserve">
+    <value>Liste des élèves</value>
+  </data>
+  <data name="navBarItemPaymentReports.Caption" xml:space="preserve">
+    <value>Rapports de montant payé</value>
+  </data>
+  <data name="navBarItemSMSReports.Caption" xml:space="preserve">
+    <value>Rapports de SMS envoyés</value>
+  </data>
+  <data name="navBarItemFeeDue.Caption" xml:space="preserve">
+    <value>Rapports de frais à recouvrer</value>
+  </data>
+  <data name="navBarItemEmployeeRegistration.Caption" xml:space="preserve">
+    <value>Inscription des employés</value>
+  </data>
+  <data name="navBarItemSchoolDetails.Caption" xml:space="preserve">
+    <value>Profil de l'école</value>
+  </data>
+  <data name="navBarItemAcademicYear.Caption" xml:space="preserve">
+    <value>Année scolaire</value>
+  </data>
+  <data name="navBarItemClassFeesEntry.Caption" xml:space="preserve">
+    <value>Paramètres frais de classe</value>
+  </data>
+  <data name="navBarItemClassSetting.Caption" xml:space="preserve">
+    <value>Paramètres classes</value>
+  </data>
+  <data name="navBarBackupRestoreDatabase.Caption" xml:space="preserve">
+    <value>Sauvegarder/Restaurer la base de données</value>
+  </data>
+  <data name="navBarGroupSettings.Caption" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="navBarItemPreferences.Caption" xml:space="preserve">
+    <value>Préférences</value>
+  </data>
+  <data name="navBarItemSMS.Caption" xml:space="preserve">
+    <value>Paramètres SMS</value>
+  </data>
+  <data name="navBarItemEmailServer.Caption" xml:space="preserve">
+    <value>Serveur de Email</value>
+  </data>
+  <data name="navBarItemPrinters.Caption" xml:space="preserve">
+    <value>Imprimantes</value>
+  </data>
+  <data name="navBarItemConfigurationWizard.Caption" xml:space="preserve">
+    <value>Assistant de configuration</value>
+  </data>
+  <data name="navBarItemSystemInf.Caption" xml:space="preserve">
+    <value>Informations sur le système</value>
+  </data>
+  <data name="navBarItemDashboardDesigner.Caption" xml:space="preserve">
+    <value>Concepteur de tableau de bord</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Form1.IconOptions.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>EduXpress Système de Gestion Scolaire</value>
+  </data>
+</root>

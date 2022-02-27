@@ -1,0 +1,1000 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ribbonControl1.ExpandCollapseItem.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="ribbonControl1.ExpandCollapseItem.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnSave.Caption" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="btnSave.ImageOptions.ImageIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnSave.ImageOptions.LargeImageIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ribbonControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ribbonPageGroupPreferences.Text" xml:space="preserve">
+    <value>Preferences</value>
+  </data>
+  <data name="ribbonPagePreferences.Text" xml:space="preserve">
+    <value>Preferences</value>
+  </data>
+  <data name="ribbonControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>959, 150</value>
+  </data>
+  <data name="ribbonStatusBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 613</value>
+  </data>
+  <data name="ribbonStatusBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>959, 27</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Name" xml:space="preserve">
+    <value>ribbonStatusBar1</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonStatusBar, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ribbonStatusBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Name" xml:space="preserve">
+    <value>ribbonControl1</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnResetPreferencesSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>472, 398</value>
+  </data>
+  <data name="btnResetPreferencesSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 33</value>
+  </data>
+  <data name="btnResetPreferencesSettings.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="btnResetPreferencesSettings.Text" xml:space="preserve">
+    <value>Reset Preferences and Settings</value>
+  </data>
+  <data name="btnResetPreferencesSettings.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btnResetPreferencesSettings.Name" xml:space="preserve">
+    <value>btnResetPreferencesSettings</value>
+  </data>
+  <data name="&gt;&gt;btnResetPreferencesSettings.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnResetPreferencesSettings.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;btnResetPreferencesSettings.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnLoadPreferences.Location" type="System.Drawing.Point, System.Drawing">
+    <value>408, 5</value>
+  </data>
+  <data name="btnLoadPreferences.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 33</value>
+  </data>
+  <data name="btnLoadPreferences.TabIndex" type="System.Int32, mscorlib">
+    <value>334</value>
+  </data>
+  <data name="btnLoadPreferences.Text" xml:space="preserve">
+    <value>&amp;Load Preferences</value>
+  </data>
+  <data name="&gt;&gt;btnLoadPreferences.Name" xml:space="preserve">
+    <value>btnLoadPreferences</value>
+  </data>
+  <data name="&gt;&gt;btnLoadPreferences.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnLoadPreferences.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;btnLoadPreferences.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 36</value>
+  </data>
+  <data name="labelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 13</value>
+  </data>
+  <data name="labelControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>337</value>
+  </data>
+  <data name="labelControl1.Text" xml:space="preserve">
+    <value>Currency Symbol:</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Name" xml:space="preserve">
+    <value>labelControl1</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Parent" xml:space="preserve">
+    <value>groupCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radioCurrencySymbolAfter.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="radioCurrencySymbolAfter.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioCurrencySymbolAfter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 92</value>
+  </data>
+  <data name="radioCurrencySymbolAfter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>227, 17</value>
+  </data>
+  <data name="radioCurrencySymbolAfter.TabIndex" type="System.Int32, mscorlib">
+    <value>336</value>
+  </data>
+  <data name="radioCurrencySymbolAfter.Text" xml:space="preserve">
+    <value>Currency Symbol Position After Number</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolAfter.Name" xml:space="preserve">
+    <value>radioCurrencySymbolAfter</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolAfter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolAfter.Parent" xml:space="preserve">
+    <value>groupCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolAfter.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 69</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>235, 17</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.TabIndex" type="System.Int32, mscorlib">
+    <value>335</value>
+  </data>
+  <data name="radioCurrencySymbolBefore.Text" xml:space="preserve">
+    <value>Currency Symbol Position Before Number</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolBefore.Name" xml:space="preserve">
+    <value>radioCurrencySymbolBefore</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolBefore.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolBefore.Parent" xml:space="preserve">
+    <value>groupCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;radioCurrencySymbolBefore.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtCurrencySymbol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 30</value>
+  </data>
+  <data name="txtCurrencySymbol.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="txtCurrencySymbol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 24</value>
+  </data>
+  <data name="txtCurrencySymbol.TabIndex" type="System.Int32, mscorlib">
+    <value>334</value>
+  </data>
+  <data name="&gt;&gt;txtCurrencySymbol.Name" xml:space="preserve">
+    <value>txtCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;txtCurrencySymbol.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtCurrencySymbol.Parent" xml:space="preserve">
+    <value>groupCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;txtCurrencySymbol.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupCurrencySymbol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 337</value>
+  </data>
+  <data name="groupCurrencySymbol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 119</value>
+  </data>
+  <data name="groupCurrencySymbol.TabIndex" type="System.Int32, mscorlib">
+    <value>333</value>
+  </data>
+  <data name="groupCurrencySymbol.Text" xml:space="preserve">
+    <value>Currency</value>
+  </data>
+  <data name="groupCurrencySymbol.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupCurrencySymbol.Name" xml:space="preserve">
+    <value>groupCurrencySymbol</value>
+  </data>
+  <data name="&gt;&gt;groupCurrencySymbol.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupCurrencySymbol.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupCurrencySymbol.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtStudentsPhotosDirectory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 34</value>
+  </data>
+  <data name="txtStudentsPhotosDirectory.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="txtStudentsPhotosDirectory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>485, 24</value>
+  </data>
+  <data name="txtStudentsPhotosDirectory.TabIndex" type="System.Int32, mscorlib">
+    <value>326</value>
+  </data>
+  <data name="&gt;&gt;txtStudentsPhotosDirectory.Name" xml:space="preserve">
+    <value>txtStudentsPhotosDirectory</value>
+  </data>
+  <data name="&gt;&gt;txtStudentsPhotosDirectory.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtStudentsPhotosDirectory.Parent" xml:space="preserve">
+    <value>groupPhotoDirectory</value>
+  </data>
+  <data name="&gt;&gt;txtStudentsPhotosDirectory.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnBrowseImage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>373, 75</value>
+  </data>
+  <data name="btnBrowseImage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 35</value>
+  </data>
+  <data name="btnBrowseImage.TabIndex" type="System.Int32, mscorlib">
+    <value>325</value>
+  </data>
+  <data name="btnBrowseImage.Text" xml:space="preserve">
+    <value>&amp;Browse...</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseImage.Name" xml:space="preserve">
+    <value>btnBrowseImage</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseImage.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseImage.Parent" xml:space="preserve">
+    <value>groupPhotoDirectory</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseImage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupPhotoDirectory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>326, 43</value>
+  </data>
+  <data name="groupPhotoDirectory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>538, 152</value>
+  </data>
+  <data name="groupPhotoDirectory.TabIndex" type="System.Int32, mscorlib">
+    <value>333</value>
+  </data>
+  <data name="groupPhotoDirectory.Text" xml:space="preserve">
+    <value>Students Photos Folder:</value>
+  </data>
+  <data name="groupPhotoDirectory.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupPhotoDirectory.Name" xml:space="preserve">
+    <value>groupPhotoDirectory</value>
+  </data>
+  <data name="&gt;&gt;groupPhotoDirectory.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupPhotoDirectory.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupPhotoDirectory.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cmbSkins.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 34</value>
+  </data>
+  <data name="cmbSkins.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <assembly alias="DevExpress.Utils.v20.2" name="DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="cmbSkins.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v20.2">
+    <value>Combo</value>
+  </data>
+  <data name="cmbSkins.Size" type="System.Drawing.Size, System.Drawing">
+    <value>235, 24</value>
+  </data>
+  <data name="cmbSkins.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;cmbSkins.Name" xml:space="preserve">
+    <value>cmbSkins</value>
+  </data>
+  <data name="&gt;&gt;cmbSkins.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.ComboBoxEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;cmbSkins.Parent" xml:space="preserve">
+    <value>groupTheme</value>
+  </data>
+  <data name="&gt;&gt;cmbSkins.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupTheme.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 43</value>
+  </data>
+  <data name="groupTheme.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 74</value>
+  </data>
+  <data name="groupTheme.TabIndex" type="System.Int32, mscorlib">
+    <value>332</value>
+  </data>
+  <data name="groupTheme.Text" xml:space="preserve">
+    <value>Select application theme colour:</value>
+  </data>
+  <data name="groupTheme.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupTheme.Name" xml:space="preserve">
+    <value>groupTheme</value>
+  </data>
+  <data name="&gt;&gt;groupTheme.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupTheme.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupTheme.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="comboLanguage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 27</value>
+  </data>
+  <data name="comboLanguage.Properties.Appearance.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="comboLanguage.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v20.2">
+    <value>Combo</value>
+  </data>
+  <data name="comboLanguage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>235, 24</value>
+  </data>
+  <data name="comboLanguage.TabIndex" type="System.Int32, mscorlib">
+    <value>327</value>
+  </data>
+  <data name="&gt;&gt;comboLanguage.Name" xml:space="preserve">
+    <value>comboLanguage</value>
+  </data>
+  <data name="&gt;&gt;comboLanguage.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.ComboBoxEdit, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;comboLanguage.Parent" xml:space="preserve">
+    <value>groupLanguage</value>
+  </data>
+  <data name="&gt;&gt;comboLanguage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupLanguage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 128</value>
+  </data>
+  <data name="groupLanguage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 67</value>
+  </data>
+  <data name="groupLanguage.TabIndex" type="System.Int32, mscorlib">
+    <value>331</value>
+  </data>
+  <data name="groupLanguage.Text" xml:space="preserve">
+    <value>Select application language:</value>
+  </data>
+  <data name="groupLanguage.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupLanguage.Name" xml:space="preserve">
+    <value>groupLanguage</value>
+  </data>
+  <data name="&gt;&gt;groupLanguage.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupLanguage.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupLanguage.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>881, 95</value>
+  </data>
+  <data name="txtID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 22</value>
+  </data>
+  <data name="txtID.TabIndex" type="System.Int32, mscorlib">
+    <value>330</value>
+  </data>
+  <data name="txtID.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txtID.Name" xml:space="preserve">
+    <value>txtID</value>
+  </data>
+  <data name="&gt;&gt;txtID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtID.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;txtID.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="radioNoLogErrors.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioNoLogErrors.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioNoLogErrors.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 56</value>
+  </data>
+  <data name="radioNoLogErrors.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 17</value>
+  </data>
+  <data name="radioNoLogErrors.TabIndex" type="System.Int32, mscorlib">
+    <value>320</value>
+  </data>
+  <data name="radioNoLogErrors.Text" xml:space="preserve">
+    <value>Don't Log Errors</value>
+  </data>
+  <data name="&gt;&gt;radioNoLogErrors.Name" xml:space="preserve">
+    <value>radioNoLogErrors</value>
+  </data>
+  <data name="&gt;&gt;radioNoLogErrors.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioNoLogErrors.Parent" xml:space="preserve">
+    <value>groupErrorLogging</value>
+  </data>
+  <data name="&gt;&gt;radioNoLogErrors.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radioLogErrors.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioLogErrors.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioLogErrors.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 33</value>
+  </data>
+  <data name="radioLogErrors.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 17</value>
+  </data>
+  <data name="radioLogErrors.TabIndex" type="System.Int32, mscorlib">
+    <value>319</value>
+  </data>
+  <data name="radioLogErrors.Text" xml:space="preserve">
+    <value>Log Errors</value>
+  </data>
+  <data name="&gt;&gt;radioLogErrors.Name" xml:space="preserve">
+    <value>radioLogErrors</value>
+  </data>
+  <data name="&gt;&gt;radioLogErrors.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioLogErrors.Parent" xml:space="preserve">
+    <value>groupErrorLogging</value>
+  </data>
+  <data name="&gt;&gt;radioLogErrors.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupErrorLogging.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 220</value>
+  </data>
+  <data name="groupErrorLogging.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 102</value>
+  </data>
+  <data name="groupErrorLogging.TabIndex" type="System.Int32, mscorlib">
+    <value>329</value>
+  </data>
+  <data name="groupErrorLogging.Text" xml:space="preserve">
+    <value>Enable error logging</value>
+  </data>
+  <data name="groupErrorLogging.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupErrorLogging.Name" xml:space="preserve">
+    <value>groupErrorLogging</value>
+  </data>
+  <data name="&gt;&gt;groupErrorLogging.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupErrorLogging.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupErrorLogging.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>373, 24</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 17</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.TabIndex" type="System.Int32, mscorlib">
+    <value>321</value>
+  </data>
+  <data name="rdSendSMSEmailInvoice.Text" xml:space="preserve">
+    <value>Send Email and SMS</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailInvoice.Name" xml:space="preserve">
+    <value>rdSendSMSEmailInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailInvoice.Parent" xml:space="preserve">
+    <value>groupInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailInvoice.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rdSendEmailInvoice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendEmailInvoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>251, 24</value>
+  </data>
+  <data name="rdSendEmailInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="rdSendEmailInvoice.TabIndex" type="System.Int32, mscorlib">
+    <value>319</value>
+  </data>
+  <data name="rdSendEmailInvoice.Text" xml:space="preserve">
+    <value>Send Email</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailInvoice.Name" xml:space="preserve">
+    <value>rdSendEmailInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailInvoice.Parent" xml:space="preserve">
+    <value>groupInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailInvoice.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rdSendSMSInvoice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendSMSInvoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>146, 24</value>
+  </data>
+  <data name="rdSendSMSInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 17</value>
+  </data>
+  <data name="rdSendSMSInvoice.TabIndex" type="System.Int32, mscorlib">
+    <value>318</value>
+  </data>
+  <data name="rdSendSMSInvoice.Text" xml:space="preserve">
+    <value>Send SMS</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSInvoice.Name" xml:space="preserve">
+    <value>rdSendSMSInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSInvoice.Parent" xml:space="preserve">
+    <value>groupInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSInvoice.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rdNoNotificationInvoice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdNoNotificationInvoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 24</value>
+  </data>
+  <data name="rdNoNotificationInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 17</value>
+  </data>
+  <data name="rdNoNotificationInvoice.TabIndex" type="System.Int32, mscorlib">
+    <value>317</value>
+  </data>
+  <data name="rdNoNotificationInvoice.Text" xml:space="preserve">
+    <value>No Notification</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationInvoice.Name" xml:space="preserve">
+    <value>rdNoNotificationInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationInvoice.Parent" xml:space="preserve">
+    <value>groupInvoice</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationInvoice.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupInvoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>326, 274</value>
+  </data>
+  <data name="groupInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>538, 48</value>
+  </data>
+  <data name="groupInvoice.TabIndex" type="System.Int32, mscorlib">
+    <value>323</value>
+  </data>
+  <data name="groupInvoice.Text" xml:space="preserve">
+    <value>Student Invoice</value>
+  </data>
+  <data name="groupInvoice.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupInvoice.Name" xml:space="preserve">
+    <value>groupInvoice</value>
+  </data>
+  <data name="&gt;&gt;groupInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupInvoice.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupInvoice.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="rdSendSMSEmailUsers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendSMSEmailUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>373, 21</value>
+  </data>
+  <data name="rdSendSMSEmailUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 17</value>
+  </data>
+  <data name="rdSendSMSEmailUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>320</value>
+  </data>
+  <data name="rdSendSMSEmailUsers.Text" xml:space="preserve">
+    <value>Send Email and SMS</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailUsers.Name" xml:space="preserve">
+    <value>rdSendSMSEmailUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailUsers.Parent" xml:space="preserve">
+    <value>groupRegUpDelUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSEmailUsers.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rdSendEmailUsers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendEmailUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>251, 21</value>
+  </data>
+  <data name="rdSendEmailUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="rdSendEmailUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>319</value>
+  </data>
+  <data name="rdSendEmailUsers.Text" xml:space="preserve">
+    <value>Send Email</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailUsers.Name" xml:space="preserve">
+    <value>rdSendEmailUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailUsers.Parent" xml:space="preserve">
+    <value>groupRegUpDelUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendEmailUsers.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rdSendSMSUsers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdSendSMSUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>146, 21</value>
+  </data>
+  <data name="rdSendSMSUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 17</value>
+  </data>
+  <data name="rdSendSMSUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>318</value>
+  </data>
+  <data name="rdSendSMSUsers.Text" xml:space="preserve">
+    <value>Send SMS</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSUsers.Name" xml:space="preserve">
+    <value>rdSendSMSUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSUsers.Parent" xml:space="preserve">
+    <value>groupRegUpDelUsers</value>
+  </data>
+  <data name="&gt;&gt;rdSendSMSUsers.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rdNoNotificationUsers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdNoNotificationUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 21</value>
+  </data>
+  <data name="rdNoNotificationUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 17</value>
+  </data>
+  <data name="rdNoNotificationUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>317</value>
+  </data>
+  <data name="rdNoNotificationUsers.Text" xml:space="preserve">
+    <value>No Notification</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationUsers.Name" xml:space="preserve">
+    <value>rdNoNotificationUsers</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationUsers.Parent" xml:space="preserve">
+    <value>groupRegUpDelUsers</value>
+  </data>
+  <data name="&gt;&gt;rdNoNotificationUsers.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupRegUpDelUsers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>326, 220</value>
+  </data>
+  <data name="groupRegUpDelUsers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>538, 48</value>
+  </data>
+  <data name="groupRegUpDelUsers.TabIndex" type="System.Int32, mscorlib">
+    <value>322</value>
+  </data>
+  <data name="groupRegUpDelUsers.Text" xml:space="preserve">
+    <value>Registration / Update / Delete Student or Employee</value>
+  </data>
+  <data name="groupRegUpDelUsers.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groupRegUpDelUsers.Name" xml:space="preserve">
+    <value>groupRegUpDelUsers</value>
+  </data>
+  <data name="&gt;&gt;groupRegUpDelUsers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupRegUpDelUsers.Parent" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;groupRegUpDelUsers.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="xtraScrollableControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="xtraScrollableControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 150</value>
+  </data>
+  <data name="xtraScrollableControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>959, 463</value>
+  </data>
+  <data name="xtraScrollableControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;xtraScrollableControl1.Name" xml:space="preserve">
+    <value>xtraScrollableControl1</value>
+  </data>
+  <data name="&gt;&gt;xtraScrollableControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.XtraScrollableControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;xtraScrollableControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;xtraScrollableControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>47</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>959, 640</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Name" xml:space="preserve">
+    <value>btnSave</value>
+  </data>
+  <data name="&gt;&gt;btnSave.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.BarButtonItem, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPagePreferences.Name" xml:space="preserve">
+    <value>ribbonPagePreferences</value>
+  </data>
+  <data name="&gt;&gt;ribbonPagePreferences.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPage, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupPreferences.Name" xml:space="preserve">
+    <value>ribbonPageGroupPreferences</value>
+  </data>
+  <data name="&gt;&gt;ribbonPageGroupPreferences.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonPageGroup, DevExpress.XtraBars.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Name" xml:space="preserve">
+    <value>splashScreenManager1</value>
+  </data>
+  <data name="&gt;&gt;splashScreenManager1.Type" xml:space="preserve">
+    <value>DevExpress.XtraSplashScreen.SplashScreenManager, DevExpress.XtraEditors.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>userControlPreferences</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.XtraUserControl, DevExpress.Utils.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+</root>

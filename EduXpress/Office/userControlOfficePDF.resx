@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pdfViewer1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pdfViewer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 150</value>
+  </data>
+  <data name="pdfViewer1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>760, 305</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pdfViewer1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pdfViewer1.Name" xml:space="preserve">
+    <value>pdfViewer1</value>
+  </data>
+  <data name="&gt;&gt;pdfViewer1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.PdfViewer, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfViewer1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pdfViewer1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="repositoryItemPageNumberEdit1.AutoHeight" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="repositoryItemPageNumberEdit1.Mask.EditMask" xml:space="preserve">
+    <value>########;</value>
+  </data>
+  <data name="ribbonControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ribbonControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>760, 150</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Name" xml:space="preserve">
+    <value>ribbonControl1</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ribbonControl1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="pdfBarController1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>760, 455</value>
+  </data>
+  <data name="&gt;&gt;pdfFileOpenBarItem1.Name" xml:space="preserve">
+    <value>pdfFileOpenBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfFileOpenBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFileOpenBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFileSaveAsBarItem1.Name" xml:space="preserve">
+    <value>pdfFileSaveAsBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfFileSaveAsBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFileSaveAsBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFilePrintBarItem1.Name" xml:space="preserve">
+    <value>pdfFilePrintBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfFilePrintBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFilePrintBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFindTextBarItem1.Name" xml:space="preserve">
+    <value>pdfFindTextBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfFindTextBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFindTextBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfPreviousPageBarItem1.Name" xml:space="preserve">
+    <value>pdfPreviousPageBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfPreviousPageBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfPreviousPageBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfNextPageBarItem1.Name" xml:space="preserve">
+    <value>pdfNextPageBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfNextPageBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfNextPageBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfSetPageNumberBarItem1.Name" xml:space="preserve">
+    <value>pdfSetPageNumberBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfSetPageNumberBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfSetPageNumberBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;repositoryItemPageNumberEdit1.Name" xml:space="preserve">
+    <value>repositoryItemPageNumberEdit1</value>
+  </data>
+  <data name="&gt;&gt;repositoryItemPageNumberEdit1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.Repository.RepositoryItemPageNumberEdit, DevExpress.XtraBars.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomOutBarItem1.Name" xml:space="preserve">
+    <value>pdfZoomOutBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomOutBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoomOutBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomInBarItem1.Name" xml:space="preserve">
+    <value>pdfZoomInBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomInBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoomInBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfExactZoomListBarSubItem1.Name" xml:space="preserve">
+    <value>pdfExactZoomListBarSubItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfExactZoomListBarSubItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfExactZoomListBarSubItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom10CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom10CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom10CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom10CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom25CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom25CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom25CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom25CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom50CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom50CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom50CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom50CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom75CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom75CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom75CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom75CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom100CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom100CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom100CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom100CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom125CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom125CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom125CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom125CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom150CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom150CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom150CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom150CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom200CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom200CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom200CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom200CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom400CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom400CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom400CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom400CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom500CheckItem1.Name" xml:space="preserve">
+    <value>pdfZoom500CheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoom500CheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoom500CheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfSetActualSizeZoomModeCheckItem1.Name" xml:space="preserve">
+    <value>pdfSetActualSizeZoomModeCheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfSetActualSizeZoomModeCheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfSetActualSizeZoomModeCheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfSetPageLevelZoomModeCheckItem1.Name" xml:space="preserve">
+    <value>pdfSetPageLevelZoomModeCheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfSetPageLevelZoomModeCheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfSetPageLevelZoomModeCheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfSetFitWidthZoomModeCheckItem1.Name" xml:space="preserve">
+    <value>pdfSetFitWidthZoomModeCheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfSetFitWidthZoomModeCheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfSetFitWidthZoomModeCheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfSetFitVisibleZoomModeCheckItem1.Name" xml:space="preserve">
+    <value>pdfSetFitVisibleZoomModeCheckItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfSetFitVisibleZoomModeCheckItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfSetFitVisibleZoomModeCheckItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfTextHighlightBarItem1.Name" xml:space="preserve">
+    <value>pdfTextHighlightBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfTextHighlightBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfTextHighlightBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfTextStrikethroughBarItem1.Name" xml:space="preserve">
+    <value>pdfTextStrikethroughBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfTextStrikethroughBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfTextStrikethroughBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfTextUnderlineBarItem1.Name" xml:space="preserve">
+    <value>pdfTextUnderlineBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfTextUnderlineBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfTextUnderlineBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfExportFormDataBarItem1.Name" xml:space="preserve">
+    <value>pdfExportFormDataBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfExportFormDataBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfExportFormDataBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfImportFormDataBarItem1.Name" xml:space="preserve">
+    <value>pdfImportFormDataBarItem1</value>
+  </data>
+  <data name="&gt;&gt;pdfImportFormDataBarItem1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfImportFormDataBarItem, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfRibbonPage1.Name" xml:space="preserve">
+    <value>pdfRibbonPage1</value>
+  </data>
+  <data name="&gt;&gt;pdfRibbonPage1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfRibbonPage, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFileRibbonPageGroup1.Name" xml:space="preserve">
+    <value>pdfFileRibbonPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfFileRibbonPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFileRibbonPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFindRibbonPageGroup1.Name" xml:space="preserve">
+    <value>pdfFindRibbonPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfFindRibbonPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFindRibbonPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfNavigationRibbonPageGroup1.Name" xml:space="preserve">
+    <value>pdfNavigationRibbonPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfNavigationRibbonPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfNavigationRibbonPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomRibbonPageGroup1.Name" xml:space="preserve">
+    <value>pdfZoomRibbonPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfZoomRibbonPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfZoomRibbonPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfCommentRibbonPage1.Name" xml:space="preserve">
+    <value>pdfCommentRibbonPage1</value>
+  </data>
+  <data name="&gt;&gt;pdfCommentRibbonPage1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfCommentRibbonPage, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfTextCommentPageGroup1.Name" xml:space="preserve">
+    <value>pdfTextCommentPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfTextCommentPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfTextCommentPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFormDataRibbonPage1.Name" xml:space="preserve">
+    <value>pdfFormDataRibbonPage1</value>
+  </data>
+  <data name="&gt;&gt;pdfFormDataRibbonPage1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFormDataRibbonPage, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfFormDataBarPageGroup1.Name" xml:space="preserve">
+    <value>pdfFormDataBarPageGroup1</value>
+  </data>
+  <data name="&gt;&gt;pdfFormDataBarPageGroup1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfFormDataBarPageGroup, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;pdfBarController1.Name" xml:space="preserve">
+    <value>pdfBarController1</value>
+  </data>
+  <data name="&gt;&gt;pdfBarController1.Type" xml:space="preserve">
+    <value>DevExpress.XtraPdfViewer.Bars.PdfBarController, DevExpress.XtraPdfViewer.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>userControlOfficePDF</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.XtraUserControl, DevExpress.Utils.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+</root>

@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CM.Sms</name>
+    </assembly>
+    <members>
+        <member name="T:CM.Sms.GsmCharacterSet">
+            <summary>
+            This class contains methods for the Gsm characterset.
+            </summary>
+            <remarks>See http://en.wikipedia.org/wiki/GSM_03.38 for more information.</remarks>
+        </member>
+        <member name="M:CM.Sms.GsmCharacterSet.IsValid(System.String)">
+            <summary>
+            Validate that the text only contains Gsm characters.
+            </summary>
+            <param name="text">The text to validate.</param>
+            <returns><b>true</b> when all characters are valid or when the text is null or empty, <b>false</b> otherwise.</returns>
+        </member>
+        <member name="T:CM.Sms.ISmsGatewayClient">
+            <summary>
+            This interface provides methods to send text messages.
+            </summary>
+        </member>
+        <member name="M:CM.Sms.ISmsGatewayClient.SendSms(System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <returns>The response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.ISmsGatewayClient.SendSms(System.String,System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <returns>The response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.ISmsGatewayClient.SendSmsAsync(System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <returns>The task object for the asynchronous opertation. The task's Result property contains the response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.ISmsGatewayClient.SendSmsAsync(System.String,System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <returns>The task object for the asynchronous opertation. The task's Result property contains the response status of the request.</returns>
+        </member>
+        <member name="T:CM.Sms.MessageEncoding">
+            <summary>
+            A message with the GSM encoding can contain only characters in the
+            gsm character set, 1 message can contain up to 160 characters.<br/>
+            An unicode message can contain only contain 80 characters, but can all
+            unicode characters.<br/>
+            Use auto to select unicode automatically when non-gsm characters are in the message.
+            </summary>
+        </member>
+        <member name="F:CM.Sms.MessageEncoding.Gsm">
+            <summary>
+            GSM encoding, messages with the GSM encoding can contain only characters in the
+            gsm character set, 1 message can contain up to 160 characters.
+            </summary>
+        </member>
+        <member name="F:CM.Sms.MessageEncoding.Auto">
+            <summary>
+            Uses Unicode encoding when there are characters which are not in the GSM character set, 
+            otherwise gsm
+            </summary>
+        </member>
+        <member name="T:CM.Sms.MessageOptions">
+            <summary>
+            Contains additional options for sending a message
+            </summary>
+        </member>
+        <member name="P:CM.Sms.MessageOptions.DefaultMessageOptions">
+            <summary>
+            The default options (used when no options are selected)
+            </summary>
+        </member>
+        <member name="P:CM.Sms.MessageOptions.EnableMultipartAndUnicode">
+            <summary>
+            Options to enable multipart and unicode messages
+            </summary>
+        </member>
+        <member name="P:CM.Sms.MessageOptions.Encoding">
+            <summary>
+            The message encoding to use
+            </summary>
+        </member>
+        <member name="P:CM.Sms.MessageOptions.MaximumNumberOfParts">
+            <summary>
+            To send messages longer than 160 characters you need to send them as multipart message (also called concatenated messages). 
+            We will cut the message into more smaller messages and the phone will paste them together again. 
+            <br/>
+            Please note that there are a few limitations to using multipart messages:
+            <ul>
+            <li>Each message part can only contain up to 153 characters.</li>
+            <li>The SMS standard theoretically permits up to 255 message parts.
+             In practice you should try to limit your message to 8 message parts</li>
+            <li>Another note is that not all operators in the world are able to handle multipart messages,
+             so you will need to test for which operators it works.</li>
+            </ul> 
+            </summary>
+        </member>
+        <member name="M:CM.Sms.MessageOptions.#ctor">
+            <summary>
+            Constructs a new MessageOptions instance with default values
+            </summary>
+        </member>
+        <member name="T:CM.Sms.SmsGatewayClient">
+            <summary>
+            This class provides methods to send text messages.
+            </summary>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor">
+            <summary>
+            Initializes a new SmsGatewayClient using the appSettings from the App.config or Web.config.
+            The following settings are read:
+            
+            <example>
+            <code>
+            &lt;appSettings&gt;
+               &lt;add key="cm.smsgateway.url" value="https://secure.cm.nl/smssgateway/cm/gateway.ashx"/&gt; (optional)
+               &lt;add key="cm.smsgateway.producttoken" value="YOUR PRODUCT TOKEN"/&gt; (required)
+               OR
+               &lt;add key="cm.smsgateway.customer" value="YOUR CUSTOMER ID"/&gt; (required)
+               &lt;add key="cm.smsgateway.username" value="YOUR USERNAME"/&gt; (required)
+               &lt;add key="cm.smsgateway.password" value="YOUR PASSWORD"/&gt; (required)
+            &lt;appSettings&gt;
+            </code>
+            </example>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Initializes a new SmsGatewayClient using the given settings.
+            </summary>
+            <param name="settings">
+            The following keys are read from the collection:
+            * <b>cm.smsgateway.url</b> (optional): The http-address to send the sms-request to.
+            * <b>cm.smsgateway.producttoken</b> (required): The product token used for authentication.
+            OR
+            * <b>cm.smsgateway.customer</b> (required): The product token used for authentication.
+            * <b>cm.smsgateway.username</b> (required): The product token used for authentication.
+            * <b>cm.smsgateway.password</b> (required): The product token used for authentication.
+            </param>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor(System.String)">
+            <summary>
+            Initializes a new SmsGatewayClient.
+            </summary>
+            <param name="productToken">The product token used for authentication.</param>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new SmsGatewayClient.
+            </summary>
+            <param name="smsGatewayAddress">The http-address to send the sms-request to.</param>
+            <param name="productToken">The product token used for authentication.</param>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new SmsGatewayClient.
+            </summary>
+            <param name="customer">The customer used for authentication.</param>
+            <param name="username">The username used for authentication.</param>
+            <param name="password">The password used for authentication.</param>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Initializes a new SmsGatewayClient.
+            </summary>
+            <param name="smsGatewayAddress">The http-address to send the sms-request to.</param>
+            <param name="customer">The customer used for authentication.</param>
+            <param name="username">The username used for authentication.</param>
+            <param name="password">The password used for authentication.</param>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSms(System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <returns>The response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSms(System.String,System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <returns>The response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSms(System.String,System.String,System.String,System.String,CM.Sms.MessageOptions)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <param name="options"></param>
+            <returns>The response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSmsAsync(System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <returns>The task object for the asynchronous operation. The task's Result property contains the response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSmsAsync(System.String,System.String,System.String,System.String)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <returns>The task object for the asynchronous operation. The task's Result property contains the response status of the request.</returns>
+        </member>
+        <member name="M:CM.Sms.SmsGatewayClient.SendSmsAsync(System.String,System.String,System.String,System.String,CM.Sms.MessageOptions)">
+            <summary>
+            Send a text message to the given number.
+            </summary>
+            <param name="sender">The originator of the text message. If the value is alphanumeric the maximum length is 11 characters. If numeric, then maximum length is 17 characters. Numeric values (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="number">The recipient to send the text message to. The value (MSISDN’s) must start with 00&lt;country code&gt;, e.g. 0031 for The Netherlands.</param>
+            <param name="message">The message to send.</param>
+            <param name="reference">A custom reference</param>
+            <param name="options">Message options</param>
+            <returns>The task object for the asynchronous operation. The task's Result property contains the response status of the request.</returns>
+        </member>
+        <member name="T:CM.Sms.Exceptions.SmsGatewayException">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.Exceptions.SmsGatewayException.#ctor">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.Exceptions.SmsGatewayException.#ctor(System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.Exceptions.SmsGatewayException.#ctor(System.String,System.Exception)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.Exceptions.SmsGatewayException.#ctor(System.Exception)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:CM.Sms.Exceptions.SmsGatewayException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            </summary>
+        </member>
+    </members>
+</doc>

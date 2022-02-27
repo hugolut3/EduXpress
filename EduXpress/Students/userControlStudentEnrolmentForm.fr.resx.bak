@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnNew.Caption" xml:space="preserve">
+    <value>Nouveau</value>
+  </data>
+  <data name="btnSave.Caption" xml:space="preserve">
+    <value>Sauvegarder</value>
+  </data>
+  <data name="btnUpdate.Caption" xml:space="preserve">
+    <value>Mettre à jour</value>
+  </data>
+  <data name="btnDelete.Caption" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="btnGetData.Caption" xml:space="preserve">
+    <value>Liste des élèves</value>
+  </data>
+  <data name="btnPrintPreview.Caption" xml:space="preserve">
+    <value>Aperçu avant impression</value>
+  </data>
+  <data name="btnPrint.Caption" xml:space="preserve">
+    <value>Imprimer</value>
+  </data>
+  <data name="btnExportPDF.Caption" xml:space="preserve">
+    <value>Exporter au format PDF</value>
+  </data>
+  <data name="btnExportExcel.Caption" xml:space="preserve">
+    <value>Exporter vers Excel</value>
+  </data>
+  <data name="btnExportRTF.Caption" xml:space="preserve">
+    <value>Exporter vers Word</value>
+  </data>
+  <data name="btnExportHTML.Caption" xml:space="preserve">
+    <value>Exporter au format HTML</value>
+  </data>
+  <data name="ribbonPageGroupPrint.Text" xml:space="preserve">
+    <value>Impression</value>
+  </data>
+  <data name="ribbonPageGroupExport.Text" xml:space="preserve">
+    <value>Exporter</value>
+  </data>
+  <data name="ribbonPageEnrolment.Text" xml:space="preserve">
+    <value>Inscription</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ribbonControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1091, 150</value>
+  </data>
+  <data name="ribbonStatusBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1091, 27</value>
+  </data>
+  <data name="labelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 13</value>
+  </data>
+  <data name="labelControl1.Text" xml:space="preserve">
+    <value>Les cases avec  un &lt;color=255, 0, 0&gt;*&lt;/color&gt; sont obligatoires</value>
+  </data>
+  <data name="txtAlternativeEmergencyPhoneNo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>683, 670</value>
+  </data>
+  <data name="txtAlternativeEmergencyPhoneNo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 20</value>
+  </data>
+  <assembly alias="DevExpress.Data.v20.2" name="DevExpress.Data.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="txtEmergencyPhoneNo.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v20.2">
+    <value>True</value>
+  </data>
+  <data name="txtEmergencyPhoneNo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 670</value>
+  </data>
+  <data name="txtEmergencyPhoneNo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="ckMotherNotificationEmail.Properties.Caption" xml:space="preserve">
+    <value>Email notification?</value>
+  </data>
+  <data name="ckMotherNotificationNo.Properties.Caption" xml:space="preserve">
+    <value>No de notification?</value>
+  </data>
+  <data name="ckFatherNotificationEmail.Properties.Caption" xml:space="preserve">
+    <value>Email notification?</value>
+  </data>
+  <data name="ckFatherNotificationNo.Properties.Caption" xml:space="preserve">
+    <value>No de notification?</value>
+  </data>
+  <data name="ckSchoolPhotos.Properties.Caption" xml:space="preserve">
+    <value>Parents autorisent à prendre des photos en excursion/activités scolaire?</value>
+  </data>
+  <data name="ckSchoolActivities.Properties.Caption" xml:space="preserve">
+    <value>Parents autorisent à participer à des excursions/activités scolaires?</value>
+  </data>
+  <data name="btnRemovePicture.Text" xml:space="preserve">
+    <value>Su&amp;pprimer</value>
+  </data>
+  <data name="btnBrowsePicture.Text" xml:space="preserve">
+    <value>&amp;Parcourir...</value>
+  </data>
+  <data name="ckPreviousSchoolDocuments.Properties.Caption" xml:space="preserve">
+    <value>Documents scolaires précédents soumis?</value>
+  </data>
+  <data name="txtPassPercentage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 385</value>
+  </data>
+  <data name="txtPassPercentage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
+  </data>
+  <data name="ckParentIdentityDocuments.Properties.Caption" xml:space="preserve">
+    <value>Cartes d'identité des parents Soumises?</value>
+  </data>
+  <data name="ckBirthCertificate.Properties.Caption" xml:space="preserve">
+    <value>Certificat de naissance soumis?</value>
+  </data>
+  <data name="ckStudentSibling.Properties.Caption" xml:space="preserve">
+    <value>L'élève a des frères et sœurs à l'école?</value>
+  </data>
+  <data name="layoutControlItem1.Text" xml:space="preserve">
+    <value>Numéro d'élève:</value>
+  </data>
+  <data name="layoutControlItem3.Text" xml:space="preserve">
+    <value>Option:</value>
+  </data>
+  <data name="layoutControlItem2.Text" xml:space="preserve">
+    <value>Code-barres:</value>
+  </data>
+  <data name="layoutControlItem4.Text" xml:space="preserve">
+    <value>Classe: *</value>
+  </data>
+  <data name="layoutControlItem26.Text" xml:space="preserve">
+    <value>Année scolaire: *</value>
+  </data>
+  <data name="layoutControlItem27.Text" xml:space="preserve">
+    <value>Section: *</value>
+  </data>
+  <data name="layoutControlItem25.Text" xml:space="preserve">
+    <value>Photo de l'élève *</value>
+  </data>
+  <data name="layoutControlItem9.AppearanceItemCaption.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 8.25pt</value>
+  </data>
+  <data name="layoutControlItem9.Text" xml:space="preserve">
+    <value>Combien?</value>
+  </data>
+  <data name="layoutControlItem14.AppearanceItemCaption.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 8.25pt</value>
+  </data>
+  <data name="layoutControlItem14.Text" xml:space="preserve">
+    <value>Conditions médicales / Allergies:</value>
+  </data>
+  <data name="layoutControlItem13.Text" xml:space="preserve">
+    <value>Langue:</value>
+  </data>
+  <data name="layoutControlItem23.Text" xml:space="preserve">
+    <value>Téléphone élève:</value>
+  </data>
+  <data name="layoutControlItem22.Text" xml:space="preserve">
+    <value>Email élève:</value>
+  </data>
+  <data name="layoutControlItem20.Text" xml:space="preserve">
+    <value>Résultats précédents:</value>
+  </data>
+  <data name="layoutControlItem19.Text" xml:space="preserve">
+    <value>Dernière école fréquentée:</value>
+  </data>
+  <data name="layoutControlItem17.Text" xml:space="preserve">
+    <value>Pays d'origine:</value>
+  </data>
+  <data name="layoutControlItem8.Text" xml:space="preserve">
+    <value>Âge: *</value>
+  </data>
+  <data name="layoutControlItem7.Text" xml:space="preserve">
+    <value>Postnom et Prénoms: *</value>
+  </data>
+  <data name="layoutControlItem6.Text" xml:space="preserve">
+    <value>Nom: *</value>
+  </data>
+  <data name="layoutControlItem12.Text" xml:space="preserve">
+    <value>Sexe: *</value>
+  </data>
+  <data name="layoutControlItem21.Text" xml:space="preserve">
+    <value>Si réussi, alors %</value>
+  </data>
+  <data name="layoutControlTutorName.Text" xml:space="preserve">
+    <value>Nom du tuteur:</value>
+  </data>
+  <data name="layoutControlTutorProfession.Text" xml:space="preserve">
+    <value>Profession du tuteur:</value>
+  </data>
+  <data name="layoutControlItem11.Text" xml:space="preserve">
+    <value>Date de naissance:</value>
+  </data>
+  <data name="layoutControlItem51.Text" xml:space="preserve">
+    <value>Né(e) à:</value>
+  </data>
+  <data name="layoutControlGroupStudentDetails.Text" xml:space="preserve">
+    <value>Détails de l'élève</value>
+  </data>
+  <data name="layoutControlGroupSchoolExcursion.Text" xml:space="preserve">
+    <value>Excursion scolaire / Activités</value>
+  </data>
+  <data name="layoutControlGroupParentGuardian.CustomizationFormText" xml:space="preserve">
+    <value>Parents / Tuteurs</value>
+  </data>
+  <data name="layoutControlItem39.Text" xml:space="preserve">
+    <value>Email Mère:</value>
+  </data>
+  <data name="layoutControlItem38.Text" xml:space="preserve">
+    <value>Téléphone Mère:</value>
+  </data>
+  <data name="layoutControlItem33.Text" xml:space="preserve">
+    <value>Postnom/Prénoms Mère:</value>
+  </data>
+  <data name="layoutControlItem31.Text" xml:space="preserve">
+    <value>Nom de la mère:</value>
+  </data>
+  <data name="layoutControlItem45.Text" xml:space="preserve">
+    <value>Email de notification:</value>
+  </data>
+  <data name="layoutControlItem47.AppearanceItemCaption.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 8.25pt</value>
+  </data>
+  <data name="layoutControlItem47.Text" xml:space="preserve">
+    <value>Téléphone alternatif urgence/maladie/absence: *</value>
+  </data>
+  <data name="layoutControlItem29.Text" xml:space="preserve">
+    <value>Adresse du domicile:</value>
+  </data>
+  <data name="layoutControlItem32.Text" xml:space="preserve">
+    <value>Postnom et Prénoms Père:</value>
+  </data>
+  <data name="layoutControlItem30.Text" xml:space="preserve">
+    <value>Nom du père:</value>
+  </data>
+  <data name="layoutControlItem36.Text" xml:space="preserve">
+    <value>Téléphone Père:</value>
+  </data>
+  <data name="layoutControlItem37.Text" xml:space="preserve">
+    <value>Email Père:</value>
+  </data>
+  <data name="layoutControlItem44.Text" xml:space="preserve">
+    <value>Numéro de notification:</value>
+  </data>
+  <data name="layoutControlItem46.AppearanceItemCaption.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 8.25pt</value>
+  </data>
+  <data name="layoutControlItem46.Text" xml:space="preserve">
+    <value>Téléphone urgence/maladie/absence: *</value>
+  </data>
+  <data name="layoutControlItem49.Text" xml:space="preserve">
+    <value>Profession du Père: </value>
+  </data>
+  <data name="layoutControlItem50.Text" xml:space="preserve">
+    <value>Profession de la Mère: </value>
+  </data>
+  <data name="layoutControlGroupParentGuardian.Text" xml:space="preserve">
+    <value>Parents</value>
+  </data>
+  <data name="layoutControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1091, 591</value>
+  </data>
+  <data name="xtraScrollableControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1091, 591</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1091, 768</value>
+  </data>
+</root>

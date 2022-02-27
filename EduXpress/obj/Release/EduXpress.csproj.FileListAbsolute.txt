@@ -1,0 +1,1413 @@
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Dictionaries\CustomFrenchDictionary.dic
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Charts.Designer.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.1.Web.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.1.Win.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Data.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.DataAccess.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.DataAccess.v19.1.UI.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Diagram.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dialogs.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.AuditTrail.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Chart.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.CloneObject.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.FileAttachment.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.FileAttachment.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Kpi.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Mobile.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Notifications.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Notifications.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Objects.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Office.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.PivotChart.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ScriptRecorder.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Security.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Security.Xpo.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.StateMachine.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Validation.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ViewVariantsModule.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Workflow.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Workflow.Win.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Map.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Mvvm.v19.1.DataModel.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Office.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Pdf.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Persistent.Base.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.PivotGrid.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Printing.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.ReportServer.v19.1.Localization.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.RichEdit.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.1.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Sparkline.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Utils.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Utils.v19.1.UI.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.Resources.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Charts.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Controls.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Core.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Docking.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Gauges.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.NavBar.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.PdfViewer.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Printing.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.PropertyGrid.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.ReportDesigner.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.RichEdit.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Scheduler.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Scheduling.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.SpellChecker.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Spreadsheet.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpo.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraBars.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraCharts.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraEditors.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGauges.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGrid.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraLayout.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraNavBar.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPdfViewer.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPivotGrid.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPrinting.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.1.Web.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraRichEdit.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.1.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.1.Reporting.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraSpellChecker.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraTreeList.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraWizard.v19.1.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Dictionaries\CustomEnglishDictionary.dic
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Language\EduXpressStrings.en.resx
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Language\EduXpressStrings.fr.resx
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Reports\Template\EduXpressData_en.xlsx
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Reports\Template\EduXpressData_fr.xlsx
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\EduXpress.exe.config
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\EduXpress.exe
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\EduXpress.pdb
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fr-FR\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\en\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\de\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\es\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\ja\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\ru\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\fi-FI\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\CM.Sms.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\log4net.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Newtonsoft.Json.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\System.Net.Http.Formatting.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\CM.Sms.pdb
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\CM.Sms.xml
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\log4net.xml
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\Newtonsoft.Json.xml
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\bin\Release\System.Net.Http.Formatting.xml
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Form1.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Properties.Resources.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.SplashScreen1.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr-FR.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.en.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.de.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.es.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ja.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ru.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.en.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fi-FI.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.fr.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.csproj.GenerateResource.cache
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.exe.licenses
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.csproj.CoreCompileInputs.cache
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\fr\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\fr-FR\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\en\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\de\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\es\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\ja\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\ru\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\fi-FI\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.csproj.CopyComplete
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.exe
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.pdb
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.csprojAssemblyReference.cache
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.resources
+G:\Projects\School Management System\code\main application\5 dec\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Dictionaries\CustomFrenchDictionary.dic
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Dictionaries\CustomEnglishDictionary.dic
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Language\EduXpressStrings.en.resx
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Language\EduXpressStrings.fr.resx
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\CM.Sms.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.BonusSkins.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Charts.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.CodeParser.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Dashboard.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Dashboard.v19.2.Win.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Data.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.DataAccess.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.DataAccess.v19.2.UI.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Images.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Map.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Office.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Pdf.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Pdf.v19.2.Drawing.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.PivotGrid.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Printing.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.RichEdit.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.RichEdit.v19.2.Export.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Snap.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Snap.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Sparkline.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.SpellChecker.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Spreadsheet.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.TreeMap.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Utils.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Utils.v19.2.UI.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Xpo.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraBars.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.Extensions.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.UI.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.Wizard.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraDialogs.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraEditors.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Presets.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Win.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGrid.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraLayout.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraMap.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraNavBar.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPdfViewer.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPivotGrid.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPrinting.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraReports.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraReports.v19.2.Extensions.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraRichEdit.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.Extensions.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraSpellChecker.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraSpreadsheet.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraTreeList.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraTreeMap.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraVerticalGrid.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraWizard.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\log4net.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.Smo.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Newtonsoft.Json.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\System.Net.Http.Formatting.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraDiagram.v19.2.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Diagram.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Dialogs.v19.2.Core.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\CM.Sms.pdb
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\CM.Sms.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Dashboard.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Dashboard.v19.2.Win.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Data.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.DataAccess.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.DataAccess.v19.2.UI.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Map.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Office.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Pdf.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Pdf.v19.2.Drawing.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.PivotGrid.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.RichEdit.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Snap.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Snap.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.SpellChecker.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Spreadsheet.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.TreeMap.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Utils.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Sparkline.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Utils.v19.2.UI.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Xpo.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraBars.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.UI.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraCharts.v19.2.Wizard.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraDialogs.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraEditors.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Printing.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Presets.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGauges.v19.2.Win.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraGrid.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraLayout.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraMap.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraNavBar.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPdfViewer.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPivotGrid.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraPrinting.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraReports.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraReports.v19.2.Extensions.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraRichEdit.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraScheduler.v19.2.Extensions.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraSpellChecker.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraSpreadsheet.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraTreeList.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraTreeMap.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraVerticalGrid.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraWizard.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\log4net.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Newtonsoft.Json.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\System.Net.Http.Formatting.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.XtraDiagram.v19.2.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\DevExpress.Diagram.v19.2.Core.xml
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Data.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Data.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Data.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Data.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.DataAccess.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.DataAccess.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.DataAccess.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.DataAccess.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Map.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Map.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Map.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Map.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Office.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Office.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Office.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Office.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Snap.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Snap.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Snap.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Snap.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Snap.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Snap.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Snap.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Snap.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Utils.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Utils.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Utils.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Utils.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Utils.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Utils.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Utils.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Utils.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraBars.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraBars.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraBars.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraBars.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraCharts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraCharts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraCharts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraCharts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraEditors.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraEditors.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraEditors.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraEditors.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Printing.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Printing.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Printing.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Printing.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraLayout.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraLayout.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraLayout.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraLayout.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraReports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraReports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraReports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraReports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.XtraWizard.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.XtraWizard.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.XtraWizard.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.XtraWizard.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.XtraReportFeeDue.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Form1.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Properties.Resources.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.SplashScreen1.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.XtraReportFeeDue.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.SplashScreen1.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr-FR.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.en.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.de.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.es.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ja.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ru.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.en.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fi-FI.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.fr.resources
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.csproj.GenerateResource.cache
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.exe.licenses
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\fr\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\fr-FR\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\en\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\de\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\es\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\ja\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\ru\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\fi-FI\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.csproj.CopyComplete
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.exe
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.pdb
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Blazor.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Charts.Designer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.2.Web.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dashboard.v19.2.Win.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Data.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.DataAccess.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Dialogs.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.AuditTrail.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Chart.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.CloneObject.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Dashboards.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.FileAttachment.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.FileAttachment.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Kpi.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Mobile.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Notifications.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Notifications.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Objects.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Office.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.PivotChart.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Reports.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ReportsV2.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Scheduler.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ScriptRecorder.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Security.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Security.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.StateMachine.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Validation.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Validation.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.ViewVariantsModule.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Workflow.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ExpressApp.Workflow.Win.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Map.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Mvvm.v19.2.DataModel.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Office.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Persistent.Base.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Printing.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.ReportServer.v19.2.Localization.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Snap.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Utils.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Utils.v19.2.UI.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxHtmlEditor.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.ASPxTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.Resources.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Web.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Charts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Controls.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Core.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Docking.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Gantt.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Gauges.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.NavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.PdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Printing.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.ReportDesigner.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.RichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Scheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Scheduling.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.SpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpf.Spreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.Xpo.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraBars.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraCharts.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraEditors.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGantt.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraLayout.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPdfViewer.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraReports.v19.2.Web.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.2.Extensions.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.2.Reporting.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraScheduler.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraSpellChecker.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\DevExpress.XtraWizard.v19.2.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Reports\Template\EduXpressData_en.xlsx
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\Reports\Template\EduXpressData_fr.xlsx
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\EduXpress.exe.config
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\EduXpress.exe
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\EduXpress.pdb
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fr-FR\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\en\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\de\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\es\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ja\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\ru\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\bin\Release\fi-FI\EduXpress.resources.dll
+G:\Projects\School Management System\code\main application\EduXpress\EduXpress\obj\Release\EduXpress.csprojAssemblyReference.cache
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.csprojAssemblyReference.cache
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.XtraReportFeeDue.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Form1.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Properties.Resources.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.SplashScreen1.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.XtraReportFeeDue.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.SplashScreen1.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmListFees.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr-FR.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Form1.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.en.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.de.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.es.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ja.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ru.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClasses.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.en.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmListStudents.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmSection.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fi-FI.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmAbout.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmLogin.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.fr.resources
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.csproj.GenerateResource.cache
+G:\Projects\EduXpress\EduXpress\EduXpress\obj\Release\EduXpress.exe.licenses
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Students\PostalCodes\postalcodesSA.xlsx
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Dictionaries\CustomFrenchDictionary.dic
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Reports\Template\EduXpressData_en.xlsx
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Reports\Template\EduXpressData_fr.xlsx
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Dictionaries\CustomEnglishDictionary.dic
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Language\EduXpressStrings.en.resx
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Language\EduXpressStrings.fr.resx
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\EduXpress.exe.config
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\EduXpress.exe.manifest
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\EduXpress.application
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\EduXpress.exe
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\EduXpress.pdb
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\fo\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\fr\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\fr-FR\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\en\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\fi-FI\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\CM.Sms.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.BonusSkins.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.CodeParser.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Dashboard.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Dashboard.v21.2.Win.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Data.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.DataAccess.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Images.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Map.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Office.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Snap.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Snap.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Utils.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Utils.v21.2.UI.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Xpo.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraBars.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraDialogs.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Presets.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraMap.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPdfViewer.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraReports.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Extensions.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraSpellChecker.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraSpreadsheet.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeMap.v21.2.UI.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraWizard.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\log4net.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Dialogs.v21.2.Core.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\CM.Sms.pdb
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\CM.Sms.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Charts.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Dashboard.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Dashboard.v21.2.Win.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Data.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.DataAccess.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Map.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Office.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Snap.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Snap.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Utils.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Utils.v21.2.UI.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Xpo.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraBars.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraDialogs.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Presets.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGauges.v21.2.Win.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraGrid.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraLayout.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraMap.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPdfViewer.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraReports.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraScheduler.v21.2.Extensions.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraSpellChecker.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraSpreadsheet.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeMap.v21.2.UI.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraWizard.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\log4net.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Dashboard.v21.2.Win.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Dashboard.v21.2.Win.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Dashboard.v21.2.Win.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Dashboard.v21.2.Win.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Snap.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Snap.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Snap.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Snap.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Snap.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraGauges.v21.2.Presets.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraGauges.v21.2.Presets.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraGauges.v21.2.Presets.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraGauges.v21.2.Presets.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraScheduler.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraScheduler.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraScheduler.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraScheduler.v21.2.Extensions.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraSpellChecker.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraSpellChecker.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraSpellChecker.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraSpellChecker.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.XtraWizard.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.XtraWizard.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.XtraWizard.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.XtraWizard.v21.2.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\de\DevExpress.Dialogs.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\es\DevExpress.Dialogs.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ja\DevExpress.Dialogs.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\bin\Release\ru\DevExpress.Dialogs.v21.2.Core.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Bus.userControlBusInformation.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardFeesCollected.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.BulletinsRDC.reportBulletinLIT_1_2.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.BulletinsRDC.reportBulletinVerso.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmApplication.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmAssignSubjectsClasses.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmClassLevel.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmConduct.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmReportAssessmentPeriod.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmReportClassMarkSheet.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmStudentConduct.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.reportAssessmentPeriod.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.reportClassMarksSheet.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.reportSchoolReport.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlBulletins.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlMarkSheet.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlSubjectsDRC.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.frmReportSMS.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.reportFeePayment.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.reportFeeDue.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmListFees.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Form1.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Properties.Resources.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.SplashScreen1.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.CustomCheckComboBoxEditor.MyCheckedComboBoxEdit.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmCurrencyConverter.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmExchangeRates.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListClasses.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListStudents.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmSection.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoice.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportListStudents.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentFormSA.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentFeesReports.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.XtraReportStudentEnrolmentForm.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmAbout.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmLogin.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.fo.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Bus.userControlBusInformation.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardFeesCollected.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmApplication.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmAssignSubjectsClasses.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmClassLevel.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmConduct.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmReportAssessmentPeriod.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmReportClassMarkSheet.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.frmStudentConduct.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlBulletins.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlMarkSheet.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Education.userControlSubjectsDRC.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.frmReportSMS.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmBackupRestore.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.frmUnsupportedCharacters.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.reportFeeDue.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.SplashScreen1.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmListFees.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.frmUserTypeHelp.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlAcademicYear.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlClassFeeEntry.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlClassSetting.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlEmployeeRegistration.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Admin.userControlSchoolDetails.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dashboard.userControlDashboardStudents.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm1.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Dialogs.WaitForm2.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Form1.fr-FR.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Form1.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.en.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Language.EduXpressStrings.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.de.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.es.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ja.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.OutlookAppointmentForm.ru.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeEmail.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficePDF.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeScheduling.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSMS.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeSpreadsheet.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Office.userControlOfficeWord.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlFeePaymentRecord.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlListStudents.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsFeeDue.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsLogs.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Reports.userControlReportsSMS.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlEmailSettings.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlPreferences.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlPrinterSettings.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlSMSsettings.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Settings.userControlSystemInfo.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmCurrencyConverter.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmExchangeRates.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListClasses.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListClassFeePayment.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListStudents.en.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmListStudents.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmSection.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.frmStudentDashboardDesigner.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoice.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoice80mm.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.reportInvoiceSticker40_30mm.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlClassFeePayment.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlClassPromotion.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentDashboard.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fi-FI.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fo.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentForm.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentFormSA.fi-FI.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentFormSA.fo.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentEnrolmentFormSA.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.Students.userControlStudentFeesReports.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.ConfigurationWizard.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmAbout.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmChangePassword.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmLogin.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.UI.frmRecoveryPassword.fr.resources
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.exe.licenses
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\fo\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\fr\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\fr-FR\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\en\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\de\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\es\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\ja\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\ru\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\fi-FI\EduXpress.resources.dll
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.exe.manifest
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.application
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.csproj.CopyComplete
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.exe
+C:\Users\Dell\Documents\version control\v1\EduXpress\obj\Release\EduXpress.pdb

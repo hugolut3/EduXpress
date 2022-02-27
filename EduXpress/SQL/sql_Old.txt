@@ -1,0 +1,593 @@
+﻿CREATE TABLE [dbo].[AcademicYear](
+	[SchoolYear] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_AcademicYear] PRIMARY KEY CLUSTERED 
+(
+	[SchoolYear] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+
+/****** Object:  Table [dbo].[Appointments]    Script Date: 8/2/2019 3:39:15 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Appointments](
+	[UniqueID] [int] IDENTITY(1,1) NOT NULL,
+	[Type] [int] NULL,
+	[StartDate] [smalldatetime] NULL,
+	[EndDate] [smalldatetime] NULL,
+	[AllDay] [bit] NULL,
+	[Subject] [nvarchar](50) NULL,
+	[Location] [nvarchar](50) NULL,
+	[Description] [nvarchar](max) NULL,
+	[Status] [int] NULL,
+	[Label] [int] NULL,
+	[ResourceID] [int] NULL,
+	[ResourceIDs] [nvarchar](max) NULL,
+	[ReminderInfo] [nvarchar](max) NULL,
+	[RecurrenceInfo] [nvarchar](max) NULL,
+	[TimeZoneId] [nvarchar](max) NULL,
+	[CustomField1] [nvarchar](max) NULL,
+ CONSTRAINT [PK_Appointments] PRIMARY KEY CLUSTERED 
+(
+	[UniqueID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Classes]    Script Date: 8/2/2019 3:39:15 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Classes](
+	[ClassName] [nvarchar](60) NOT NULL,
+	[SectionName] [nvarchar](100) NULL,
+	[SectionAbrev] [nvarchar](50) NULL,
+	[Cycle] [nvarchar](60) NULL,
+ CONSTRAINT [PK_Classes] PRIMARY KEY CLUSTERED 
+(
+	[ClassName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[CompanyProfile]    Script Date: 8/2/2019 3:39:15 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[CompanyProfile](
+	[CompanyDetailsID] [int] IDENTITY(1,1) NOT NULL,
+	[SchoolName] [nvarchar](250) NOT NULL,
+	[SchoolMotto] [nvarchar](150) NULL,
+	[OfficePhone] [nvarchar](30) NULL,
+	[OfficeFax] [nvarchar](30) NULL,
+	[Email] [nvarchar](80) NOT NULL,
+	[Cellphone] [nvarchar](30) NOT NULL,
+	[SchoolWebsite] [nvarchar](80) NULL,
+	[AddressStreet] [nvarchar](100) NOT NULL,
+	[AddressSuburb] [nvarchar](100) NOT NULL,
+	[AddressTown] [nvarchar](100) NOT NULL,
+	[Country] [nvarchar](100) NOT NULL,
+	[RegistrationNo] [nvarchar](80) NULL,
+	[TaxNumber] [nvarchar](80) NULL,
+	[VATNumber] [nvarchar](80) NULL,
+	[VATRate] [decimal](19, 2) NULL,
+	[VATRegistered] [bit] NOT NULL,
+	[BankName] [nvarchar](100) NULL,
+	[BankAccName] [nvarchar](100) NULL,
+	[AccountNumber] [nvarchar](80) NULL,
+	[AccountType] [nvarchar](80) NULL,
+	[Branch] [nvarchar](100) NULL,
+	[BranchCode] [nvarchar](60) NULL,
+	[SwiftCode] [nvarchar](70) NULL,
+	[SchoolLogo] [image] NULL,
+ CONSTRAINT [PK_CompanyProfile] PRIMARY KEY CLUSTERED 
+(
+	[CompanyDetailsID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[CourseFee]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[CourseFee](
+	[CourseFeeID] [int] IDENTITY(1,1) NOT NULL,
+	[ClassName] [nvarchar](60) NOT NULL,
+	[FeeName] [nvarchar](100) NOT NULL,
+	[Month] [nvarchar](50) NOT NULL,
+	[Fee] [decimal](18, 2) NOT NULL,
+	[MonthNo] [int] NULL,
+	[feeStructurePerMonth] [bit] NULL,
+ CONSTRAINT [PK_CourseFee] PRIMARY KEY CLUSTERED 
+(
+	[CourseFeeID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[CourseFeePayment]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[CourseFeePayment](
+	[CourseFeePaymentID] [int] NOT NULL,
+	[PaymentID] [nvarchar](50) NOT NULL,
+	[StudentNumber] [nvarchar](50) NOT NULL,
+	[SchoolYear] [nvarchar](50) NOT NULL,
+	[TotalFee] [decimal](18, 2) NOT NULL,
+	[DiscountPer] [decimal](18, 2) NOT NULL,
+	[DiscountAmt] [decimal](18, 2) NOT NULL,
+	[PreviousDue] [decimal](18, 2) NOT NULL,
+	[Fine] [decimal](18, 2) NOT NULL,
+	[GrandTotal] [decimal](18, 2) NOT NULL,
+	[TotalPaid] [decimal](18, 2) NOT NULL,
+	[ModeOfPayment] [nvarchar](100) NOT NULL,
+	[PaymentDate] [date] NOT NULL,
+	[PaymentDue] [decimal](18, 2) NOT NULL,
+	[Student_Class] [nvarchar](50) NULL,
+	[Employee] [nvarchar](60) NULL,
+ CONSTRAINT [PK_CourseFeePayment] PRIMARY KEY CLUSTERED 
+(
+	[CourseFeePaymentID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[CourseFeePayment_Join]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[CourseFeePayment_Join](
+	[CourseFeePayment_J_ID] [int] IDENTITY(1,1) NOT NULL,
+	[C_PaymentID] [int] NOT NULL,
+	[FeeName] [nvarchar](250) NOT NULL,
+	[Fee] [decimal](18, 2) NOT NULL,
+	[Month] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_CourseFeePayment_Join] PRIMARY KEY CLUSTERED 
+(
+	[CourseFeePayment_J_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Dashboards]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Dashboards](
+	[DashboardID] [int] IDENTITY(1,1) NOT NULL,
+	[DashboardStudent] [varbinary](max) NULL,
+	[DashboardFinance] [varbinary](max) NULL,
+	[DashboardFeesPaid] [varbinary](max) NULL,
+ CONSTRAINT [PK_Dashboards] PRIMARY KEY CLUSTERED 
+(
+	[DashboardID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Discount]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Discount](
+	[DiscountID] [int] IDENTITY(1,1) NOT NULL,
+	[StudentID] [int] NOT NULL,
+	[FeeType] [nvarchar](50) NOT NULL,
+	[Discount] [decimal](18, 2) NOT NULL,
+ CONSTRAINT [PK_Discount] PRIMARY KEY CLUSTERED 
+(
+	[DiscountID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[EmailSetting]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[EmailSetting](
+	[EmailSettingID] [int] IDENTITY(1,1) NOT NULL,
+	[ServerName] [nvarchar](50) NULL,
+	[SMTPAddress] [nchar](100) NULL,
+	[SenderName] [nvarchar](50) NULL,
+	[Username] [nvarchar](50) NULL,
+	[Password] [nvarchar](50) NULL,
+	[Port] [int] NULL,
+	[TLS_SSL_Required] [nvarchar](50) NULL,
+	[IsDefault] [nvarchar](50) NULL,
+	[IsActive] [nvarchar](50) NULL,
+ CONSTRAINT [PK_EmailSetting] PRIMARY KEY CLUSTERED 
+(
+	[EmailSettingID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Employees]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Employees](
+	[EmployeeID] [nchar](5) NOT NULL,
+	[Surname] [nvarchar](20) NOT NULL,
+	[FirstName] [nvarchar](10) NOT NULL,
+	[Title] [nvarchar](30) NULL,
+	[TitleOfCourtesy] [nvarchar](25) NULL,
+	[BirthDate] [datetime] NULL,
+	[HireDate] [datetime] NULL,
+	[Address] [nvarchar](60) NULL,
+	[City] [nvarchar](15) NULL,
+	[Province] [nvarchar](15) NULL,
+	[PostalCode] [nvarchar](10) NULL,
+	[Country] [nvarchar](15) NULL,
+	[Phone] [nvarchar](24) NULL,
+	[Email] [nvarchar](24) NULL,
+	[Department] [nvarchar](24) NULL,
+	[ReportsTo] [int] NULL,
+	[Notes] [ntext] NULL,
+	[Photo] [image] NULL,
+ CONSTRAINT [PK_Employees] PRIMARY KEY CLUSTERED 
+(
+	[EmployeeID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[ExchangeRates]    Script Date: 10/28/2020 1:31:22 PM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[ExchangeRates](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[USDCDF] [decimal](18, 2) NULL,
+	[USDEUR] [decimal](18, 2) NULL,
+	[EURCDF] [decimal](18, 2) NULL,
+	[LastUpdated] [datetime2](7) NULL,
+ CONSTRAINT [PK_ExchangeRates] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Fee]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Fee](
+	[FeeName] [nvarchar](100) NOT NULL,
+ CONSTRAINT [PK_Fee] PRIMARY KEY CLUSTERED 
+(
+	[FeeName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[LedgerBook]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[LedgerBook](
+	[LedgerBookID] [int] IDENTITY(1,1) NOT NULL,
+	[Date] [datetime2](7) NOT NULL,
+	[Name] [nvarchar](200) NOT NULL,
+	[LedgerNo] [nvarchar](200) NOT NULL,
+	[Label] [nvarchar](200) NOT NULL,
+	[Debit] [decimal](18, 2) NOT NULL,
+	[Credit] [decimal](18, 2) NOT NULL,
+	[PartyID] [nvarchar](50) NULL,
+ CONSTRAINT [PK_LedgerBook] PRIMARY KEY CLUSTERED 
+(
+	[LedgerBookID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Logs]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Logs](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[UserID] [nvarchar](50) NULL,
+	[Operation] [nvarchar](500) NULL,
+	[Location] [nvarchar](50) NULL,
+	[Date] [datetime2](7) NULL,
+ CONSTRAINT [PK_Logs] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[MarksEntry]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[MarksEntry](
+	[MarksEntryID] [int] NOT NULL,
+	[StudentNumber] [nvarchar](50) NOT NULL,
+	[SchoolYear] [nvarchar](50) NOT NULL,
+	[EntryDate] [datetime] NOT NULL,
+	[Student_Class] [nvarchar](100) NOT NULL,
+	[Result] [nvarchar](50) NULL,
+ CONSTRAINT [PK_MarksEntry] PRIMARY KEY CLUSTERED 
+(
+	[MarksEntryID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Preferences]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Preferences](
+	[PreferencesID] [int] IDENTITY(1,1) NOT NULL,
+	[LanguageAuto] [bit] NULL,
+	[Language] [nvarchar](15) NULL,
+	[NotificationRegUpDel] [tinyint] NULL,
+	[NotificationInvoice] [tinyint] NULL,
+	[CurrencySymbol] [nvarchar](10) NULL,
+	[CurrencySymbolPositionBefore] [bit] NULL,
+ CONSTRAINT [PK_Preferences] PRIMARY KEY CLUSTERED 
+(
+	[PreferencesID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Registration]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Registration](
+	[UserNameID] [int] IDENTITY(1,1) NOT NULL,
+	[UserName] [nvarchar](60) NOT NULL,
+	[UserPassword] [nvarchar](60) NOT NULL,
+	[UserType] [nvarchar](50) NOT NULL,
+	[Name] [nvarchar](60) NULL,
+	[Surname] [nvarchar](60) NULL,
+	[PhoneNumber] [nvarchar](50) NULL,
+	[Email] [nvarchar](50) NULL,
+	[EmployeeNumber] [nvarchar](50) NULL,
+	[Picture] [image] NULL,
+ CONSTRAINT [PK_Registration] PRIMARY KEY CLUSTERED 
+(
+	[UserNameID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Resources]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Resources](
+	[UniqueID] [int] IDENTITY(1,1) NOT NULL,
+	[ResourceID] [int] NOT NULL,
+	[ResourceName] [nvarchar](50) NULL,
+	[Color] [int] NULL,
+	[Image] [image] NULL,
+	[CustomField1] [nvarchar](max) NULL,
+ CONSTRAINT [PK_Resources] PRIMARY KEY CLUSTERED 
+(
+	[UniqueID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Sections]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Sections](
+	[SectionName] [nvarchar](100) NOT NULL,
+	[SectionNameAbbreviation] [nvarchar](50) NULL,
+ CONSTRAINT [PK_Sections] PRIMARY KEY CLUSTERED 
+(
+	[SectionName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[SMSLogs]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[SMSLogs](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[UserID] [nvarchar](50) NULL,
+	[Operation] [nvarchar](200) NULL,
+	[PhoneNumber] [nvarchar](30) NULL,
+	[Date] [datetime2](7) NULL,
+ CONSTRAINT [PK_SMS] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[SMSMessageTemplates]    Script Date: 12/12/2019 5:40:25 PM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[SMSMessageTemplates](
+	[TemplatesID] [int] IDENTITY(1,1) NOT NULL,
+	[TemplateName] [nvarchar](60) NULL,
+	[TemplateMessage] [nvarchar](600) NULL,
+	[MessageHolder] [nvarchar](100) NULL,
+	[MessageID] [int] NULL,
+ CONSTRAINT [PK_SMSMessageTemplates] PRIMARY KEY CLUSTERED 
+(
+	[TemplatesID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[SMSSettings]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[SMSSettings](
+	[SMSSettingsID] [int] IDENTITY(1,1) NOT NULL,
+	[Provider] [nvarchar](100) NULL,
+	[CompanyName] [nvarchar](100) NULL,
+	[Token] [nvarchar](100) NULL,
+	[CountryPhoneDialCode] [nvarchar](50) NOT NULL,
+	[AccountID] [nvarchar](100) NULL,
+	[CostSMS] [decimal](18, 5) NULL,
+	[IsDefault] [nvarchar](50) NULL,
+	[IsEnabled] [nvarchar](50) NULL
+ CONSTRAINT [PK_SMSSettings] PRIMARY KEY CLUSTERED 
+(
+	[SMSSettingsID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+;
+/****** Object:  Table [dbo].[Students]    Script Date: 8/2/2019 3:39:16 AM ******/
+SET ANSI_NULLS ON
+;
+SET QUOTED_IDENTIFIER ON
+;
+CREATE TABLE [dbo].[Students](
+	[StudentID] [int] IDENTITY(1,1) NOT NULL,
+	[StudentNumber] [nvarchar](50) NOT NULL,
+	[Section] [nvarchar](50) NULL,
+	[EnrolmentDate] [date] NOT NULL,
+	[Class] [nvarchar](50) NOT NULL,
+	[StudentSurname] [nvarchar](60) NOT NULL,
+	[StudentFirstNames] [nvarchar](60) NOT NULL,
+	[Gender] [nvarchar](50) NOT NULL,
+	[DateBirth] [date] NULL,
+	[Age] [nvarchar](50) NULL,
+	[Nationality] [nvarchar](50) NULL,
+	[LastSchoolAttended] [nvarchar](50) NULL,
+	[LastSchoolResult] [nvarchar](50) NULL,
+	[PassPercentage] [nvarchar](50) NULL,
+	[StudentEmail] [nvarchar](60) NULL,
+	[StudentPhoneNumber] [nvarchar](50) NULL,
+	[HomeLanguage] [nvarchar](50) NULL,
+	[Religion] [nvarchar](50) NULL,
+	[MedicalAllergies] [nvarchar](60) NULL,
+	[StudentSibling] [nvarchar](50) NULL,
+	[SiblingsNo] [tinyint] NULL,
+	[DocumentSubmitted] [tinyint] NULL,
+	[FatherSurname] [nvarchar](100) NULL,
+	[FatherNames] [nvarchar](100) NULL,
+	[FatherContactNo] [nvarchar](50) NULL,
+	[FatherEmail] [nvarchar](60) NULL,
+	[NotificationNo] [nvarchar](50) NULL,
+	[NotificationEmail] [nvarchar](60) NULL,
+	[MotherSurname] [nvarchar](100) NULL,
+	[MotherNames] [nvarchar](100) NULL,
+	[MotherContactNo] [nvarchar](50) NULL,
+	[MotherEmail] [nvarchar](60) NULL,
+	[HomeAddress] [nvarchar](200) NULL,
+	[EmergencyPhoneNo] [nvarchar](50) NULL,
+	[AbsencePhoneNo] [nvarchar](50) NULL,
+	[SchoolActivities] [nvarchar](50) NULL,
+	[SchoolPhotos] [nvarchar](50) NULL,
+	[SchoolYear] [nvarchar](50) NOT NULL,
+	[Cycle] [nvarchar](50) NOT NULL,
+	[TutorName] [nvarchar](100) NULL,
+	[TutorProfession] [nvarchar](100) NULL,
+	[FatherProfession] [nvarchar](100) NULL,
+	[MotherProfession] [nvarchar](100) NULL,
+	[StudentPicture] [image] NULL,
+ CONSTRAINT [PK_Students] PRIMARY KEY CLUSTERED 
+(
+	[StudentID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY],
+ CONSTRAINT [IX_Students] UNIQUE NONCLUSTERED 
+(
+	[StudentNumber] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+;
+
+
+SET IDENTITY_INSERT [dbo].[Registration] ON 
+
+INSERT [dbo].[Registration] ([UserNameID], [UserName], [UserPassword], [UserType], [Name], [Surname], [PhoneNumber], [Email], [EmployeeNumber], [Picture]) VALUES (1, N'bindu', N'ZnVuZ3VsYQ==', N'Administrator', N'Bindu', N'Technology', N'0027793957155', N'info@bindu.co.za', N'EM-000001', NULL)
+SET IDENTITY_INSERT [dbo].[Registration] OFF
+SET IDENTITY_INSERT [dbo].[SMSMessageTemplates] ON 
+
+INSERT [dbo].[SMSMessageTemplates] ([TemplatesID], [TemplateName], [TemplateMessage], [MessageHolder], [MessageID]) VALUES (1, N'Notification de paiement', N'Bonjour cher parents, élève {0} {1} vient de payer {2}$ des frais scolaire avec succès. Merci bcp pour votre confiance.', N'{0} = Nom, {1} = prénoms, {2} = Total Payé, {3} = Reste à payer', 1)
+INSERT [dbo].[SMSMessageTemplates] ([TemplatesID], [TemplateName], [TemplateMessage], [MessageHolder], [MessageID]) VALUES (2, N'Invitation Parent', N'Cher Parent {0}, Vous etes cordialement invités à rehausser de votre présence à l''école pour un entretien particulier sur l''évolution de notre élève {1} à partir de ---. NB: Vu l''importance, votre présence est obligatoire et le respect de l''heure est rigueur. Franche collaboration.', N'{0} = Nom du Parent, {1} = Nom de l’élève', 2)
+INSERT [dbo].[SMSMessageTemplates] ([TemplatesID], [TemplateName], [TemplateMessage], [MessageHolder], [MessageID]) VALUES (3, N'Demande de paiement frais scolaires', N'Cher Parents, nous vous informons que l''élève qui ne s''acquittera pas de frais scolaire de la --- qu''a partir du --- ne sera pas admis en classe. SVP ignorer si vous etes déjà en règle', N' ', 3)
+INSERT [dbo].[SMSMessageTemplates] ([TemplatesID], [TemplateName], [TemplateMessage], [MessageHolder], [MessageID]) VALUES (4, N'Demande de paiement Cantine', N'Chers parents, nous vous informons que si votre enfant est abonné à la cantine de passer payer la consommation mensuelle avant la fin du mois ---. SVP ignorer si vs etes déjà en règle', N' ', 4)
+INSERT [dbo].[SMSMessageTemplates] ([TemplatesID], [TemplateName], [TemplateMessage], [MessageHolder], [MessageID]) VALUES (5, N'Demande de paiement Bus', N'Chers parents, nous vous informons que l''élève qui ne seras pas en ordre avec le frais d''abonnement du bus n''aura pas accès qu''a partir du ---', N' ', 5)
+SET IDENTITY_INSERT [dbo].[SMSMessageTemplates] OFF
+SET ANSI_PADDING ON
+
+;
+ALTER TABLE [dbo].[CourseFee]  WITH CHECK ADD  CONSTRAINT [FK_CourseFee_Classes] FOREIGN KEY([ClassName])
+REFERENCES [dbo].[Classes] ([ClassName])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+;
+ALTER TABLE [dbo].[CourseFee] CHECK CONSTRAINT [FK_CourseFee_Classes]
+;
+ALTER TABLE [dbo].[CourseFee]  WITH CHECK ADD  CONSTRAINT [FK_CourseFee_Fee] FOREIGN KEY([FeeName])
+REFERENCES [dbo].[Fee] ([FeeName])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+;
+ALTER TABLE [dbo].[CourseFee] CHECK CONSTRAINT [FK_CourseFee_Fee]
+;
+ALTER TABLE [dbo].[CourseFeePayment]  WITH CHECK ADD  CONSTRAINT [FK_CourseFeePayment_Students] FOREIGN KEY([StudentNumber])
+REFERENCES [dbo].[Students] ([StudentNumber])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+;
+ALTER TABLE [dbo].[CourseFeePayment] CHECK CONSTRAINT [FK_CourseFeePayment_Students]
+;
+ALTER TABLE [dbo].[CourseFeePayment_Join]  WITH CHECK ADD  CONSTRAINT [FK_CourseFeePayment_Join_CourseFeePayment] FOREIGN KEY([C_PaymentID])
+REFERENCES [dbo].[CourseFeePayment] ([CourseFeePaymentID])
+ON UPDATE CASCADE
+ON DELETE CASCADE
+;
+ALTER TABLE [dbo].[CourseFeePayment_Join] CHECK CONSTRAINT [FK_CourseFeePayment_Join_CourseFeePayment]
+;
+ALTER TABLE [dbo].[Discount]  WITH CHECK ADD  CONSTRAINT [FK_Discount_Students] FOREIGN KEY([StudentID])
+REFERENCES [dbo].[Students] ([StudentID])
+;
+ALTER TABLE [dbo].[Discount] CHECK CONSTRAINT [FK_Discount_Students]
+;
+ALTER TABLE [dbo].[Students]  WITH CHECK ADD  CONSTRAINT [FK_Students_AcademicYear] FOREIGN KEY([SchoolYear])
+REFERENCES [dbo].[AcademicYear] ([SchoolYear])
+ON UPDATE CASCADE
+;
+ALTER TABLE [dbo].[Students] CHECK CONSTRAINT [FK_Students_AcademicYear]
+;
+USE [master]
+;

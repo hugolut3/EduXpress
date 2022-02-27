@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="welcomeWizardPage1.IntroductionText" xml:space="preserve">
+    <value>Cet assistant vous guidera pour configurer la connexion à la base de données et les informations de profil d'école en une série d'étapes simples.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="welcomeWizardPage1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>460, 253</value>
+  </data>
+  <data name="welcomeWizardPage1.Text" xml:space="preserve">
+    <value>Bienvenue dans l'assistant de connexion à la base de données et de configuration du profil de l'école</value>
+  </data>
+  <data name="btnTestConnection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 25</value>
+  </data>
+  <data name="btnTestConnection.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 37</value>
+  </data>
+  <data name="btnTestConnection.Text" xml:space="preserve">
+    <value>&amp;Tester la connexion</value>
+  </data>
+  <data name="btnCreateDatabase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 68</value>
+  </data>
+  <data name="btnCreateDatabase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 37</value>
+  </data>
+  <data name="btnCreateDatabase.Text" xml:space="preserve">
+    <value>créer la base de données</value>
+  </data>
+  <data name="btnEditDatabaseConnection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 25</value>
+  </data>
+  <data name="btnEditDatabaseConnection.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 37</value>
+  </data>
+  <data name="btnEditDatabaseConnection.Text" xml:space="preserve">
+    <value>&amp;Modifier la connexion</value>
+  </data>
+  <data name="groupControl3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 166</value>
+  </data>
+  <data name="groupControl3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 116</value>
+  </data>
+  <data name="groupControl3.Text" xml:space="preserve">
+    <value>Paramètres de connexion à la base de données</value>
+  </data>
+  <data name="btnExportSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 25</value>
+  </data>
+  <data name="btnExportSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 30</value>
+  </data>
+  <data name="btnExportSettings.Text" xml:space="preserve">
+    <value>&amp;Exporter</value>
+  </data>
+  <data name="btnImportSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>138, 25</value>
+  </data>
+  <data name="btnImportSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 30</value>
+  </data>
+  <data name="btnImportSettings.Text" xml:space="preserve">
+    <value>Im&amp;porter</value>
+  </data>
+  <data name="groupControl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>385, 166</value>
+  </data>
+  <data name="groupControl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>254, 116</value>
+  </data>
+  <data name="groupControl2.Text" xml:space="preserve">
+    <value>Exporter/Importer paramètres de connexion</value>
+  </data>
+  <data name="labelControl5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 57</value>
+  </data>
+  <data name="labelControl5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 15</value>
+  </data>
+  <data name="labelControl5.Text" xml:space="preserve">
+    <value>Nom du service SQL:</value>
+  </data>
+  <data name="comboInstanceName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 54</value>
+  </data>
+  <data name="comboInstanceName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 20</value>
+  </data>
+  <data name="cmbServerName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 26</value>
+  </data>
+  <data name="cmbServerName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 21</value>
+  </data>
+  <data name="btnHelpDatabase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>607, 58</value>
+  </data>
+  <data name="linkSearchSQL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>469, 29</value>
+  </data>
+  <data name="linkSearchSQL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 15</value>
+  </data>
+  <data name="linkSearchSQL.Text" xml:space="preserve">
+    <value>Rechercher des serveurs SQL</value>
+  </data>
+  <data name="labelControl4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 143</value>
+  </data>
+  <data name="labelControl4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 15</value>
+  </data>
+  <data name="labelControl4.Text" xml:space="preserve">
+    <value>Mot de passe du serveur SQL:</value>
+  </data>
+  <data name="labelControl3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 115</value>
+  </data>
+  <data name="labelControl3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 15</value>
+  </data>
+  <data name="labelControl3.Text" xml:space="preserve">
+    <value>Nom d'utilisateur du serveur SQL:</value>
+  </data>
+  <data name="labelControl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>98, 84</value>
+  </data>
+  <data name="labelControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 29</value>
+  </data>
+  <data name="labelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 15</value>
+  </data>
+  <data name="labelControl1.Text" xml:space="preserve">
+    <value>Nom du serveur SQL:</value>
+  </data>
+  <data name="txtPassword.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 138</value>
+  </data>
+  <data name="txtPassword.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 20</value>
+  </data>
+  <data name="txtUserName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 110</value>
+  </data>
+  <data name="txtUserName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 20</value>
+  </data>
+  <data name="cmbAuthentication.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 81</value>
+  </data>
+  <data name="cmbAuthentication.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 20</value>
+  </data>
+  <data name="wizardPageDatabase.DescriptionText" xml:space="preserve">
+    <value>Configurez votre base de données, testez la connexion puis créez vos tables de base de données</value>
+  </data>
+  <data name="wizardPageDatabase.Text" xml:space="preserve">
+    <value>Paramètres du serveur SQL</value>
+  </data>
+  <data name="btnBrowseImage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 32</value>
+  </data>
+  <data name="btnBrowseImage.Text" xml:space="preserve">
+    <value>&amp;Parcourir...</value>
+  </data>
+  <data name="btnRemoveImage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>140, 243</value>
+  </data>
+  <data name="btnRemoveImage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 32</value>
+  </data>
+  <data name="btnRemoveImage.Text" xml:space="preserve">
+    <value>Su&amp;pprimer</value>
+  </data>
+  <assembly alias="DevExpress.Utils.v21.2" name="DevExpress.Utils.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="pictureSchoolLogo.SuperTip" type="DevExpress.Utils.SuperToolTip, DevExpress.Utils.v21.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFpEZXZFeHByZXNzLlV0aWxzLnYxOS4xLCBWZXJzaW9uPTE5LjEu
+        NC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEMAwAAAFlE
+        ZXZFeHByZXNzLkRhdGEudjE5LjEsIFZlcnNpb249MTkuMS40LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVi
+        bGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURldkV4cHJlc3MuVXRpbHMuU3VwZXJUb29s
+        VGlwBwAAAA1BbGxvd0h0bWxUZXh0EUZpeGVkVG9vbFRpcFdpZHRoCkl0ZW1zQ291bnQJaXRlbVR5cGUw
+        BWl0ZW0wCWl0ZW1UeXBlMQVpdGVtMQQAAAQEBAQfRGV2RXhwcmVzcy5VdGlscy5EZWZhdWx0Qm9vbGVh
+        bgMAAAABCCVEZXZFeHByZXNzLlV0aWxzLlN1cGVyVG9vbFRpcEl0ZW1UeXBlAgAAACFEZXZFeHByZXNz
+        LlV0aWxzLlRvb2xUaXBUaXRsZUl0ZW0CAAAAJURldkV4cHJlc3MuVXRpbHMuU3VwZXJUb29sVGlwSXRl
+        bVR5cGUCAAAAHERldkV4cHJlc3MuVXRpbHMuVG9vbFRpcEl0ZW0CAAAAAgAAAAX8////H0RldkV4cHJl
+        c3MuVXRpbHMuRGVmYXVsdEJvb2xlYW4BAAAAB3ZhbHVlX18ACAMAAAACAAAAAAIAAAAF+////yVEZXZF
+        eHByZXNzLlV0aWxzLlN1cGVyVG9vbFRpcEl0ZW1UeXBlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAkGAAAA
+        Afn////7////AAAAAAkIAAAADAkAAABRU3lzdGVtLkRyYXdpbmcsIFZlcnNpb249NC4wLjAuMCwgQ3Vs
+        dHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhBQYAAAAhRGV2RXhwcmVz
+        cy5VdGlscy5Ub29sVGlwVGl0bGVJdGVtBwAAAA1BbGxvd0h0bWxUZXh0BEljb24MSW1hZ2VPcHRpb25z
+        CkxlZnRJbmRlbnQITWF4V2lkdGgST3duZXJBbGxvd0h0bWxUZXh0BFRleHQEBAQAAAABH0RldkV4cHJl
+        c3MuVXRpbHMuRGVmYXVsdEJvb2xlYW4DAAAAE1N5c3RlbS5EcmF3aW5nLkljb24JAAAAKERldkV4cHJl
+        c3MuVXRpbHMuVG9vbFRpcEl0ZW1JbWFnZU9wdGlvbnMCAAAACAgBAgAAAAH2/////P///wIAAAAKCQsA
+        AAAAAAAAPAEAAAAGDAAAAAxDb21wYW55IExvZ28FCAAAABxEZXZFeHByZXNzLlV0aWxzLlRvb2xUaXBJ
+        dGVtBwAAAA1BbGxvd0h0bWxUZXh0BEljb24MSW1hZ2VPcHRpb25zCkxlZnRJbmRlbnQITWF4V2lkdGgS
+        T3duZXJBbGxvd0h0bWxUZXh0BFRleHQEBAQAAAABH0RldkV4cHJlc3MuVXRpbHMuRGVmYXVsdEJvb2xl
+        YW4DAAAAE1N5c3RlbS5EcmF3aW5nLkljb24JAAAAKERldkV4cHJlc3MuVXRpbHMuVG9vbFRpcEl0ZW1J
+        bWFnZU9wdGlvbnMCAAAACAgBAgAAAAHz/////P///wIAAAAKCQ4AAAAGAAAAPAEAAAAGDwAAACtSaWdo
+        dC1DbGljayBhbmQgbG9hZCB0aGUgY29tcGFueSBsb2dvIGltYWdlBQsAAAAoRGV2RXhwcmVzcy5VdGls
+        cy5Ub29sVGlwSXRlbUltYWdlT3B0aW9ucwUAAAAISW1hZ2VVcmkMU3ZnSW1hZ2VTaXplCUFsaWdubWVu
+        dApJbWFnZUluZGV4E0ltYWdlVG9UZXh0RGlzdGFuY2UBBAQAABNTeXN0ZW0uRHJhd2luZy5TaXplCQAA
+        ACZEZXZFeHByZXNzLlV0aWxzLlRvb2xUaXBJbWFnZUFsaWdubWVudAIAAAAICAIAAAAGEAAAAAAF7///
+        /xNTeXN0ZW0uRHJhd2luZy5TaXplAgAAAAV3aWR0aAZoZWlnaHQAAAgICQAAAAAAAAAAAAAABe7///8m
+        RGV2RXhwcmVzcy5VdGlscy5Ub29sVGlwSW1hZ2VBbGlnbm1lbnQBAAAAB3ZhbHVlX18ACAIAAAAAAAAA
+        /////w4AAAABDgAAAAsAAAAJEAAAAAHt////7////wAAAAAAAAAAAez////u////AAAAAP////8OAAAA
+        Cw==
+</value>
+  </data>
+  <data name="label48.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 252</value>
+  </data>
+  <data name="label48.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 15</value>
+  </data>
+  <data name="label48.Text" xml:space="preserve">
+    <value>Pays:</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 227</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 15</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Ville:</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>289, 200</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 15</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Quartier:</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 169</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 15</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Rue:</value>
+  </data>
+  <data name="txtSchoolWebsite.Location" type="System.Drawing.Point, System.Drawing">
+    <value>372, 115</value>
+  </data>
+  <data name="txtSchoolWebsite.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>452, 65</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 15</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Téléphone portable:</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 93</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 15</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Fax:</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 68</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 15</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Téléphone de bureau:</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>290, 120</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 15</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Site Internet:</value>
+  </data>
+  <data name="txtCellphoneNo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 60</value>
+  </data>
+  <data name="txtCellphoneNo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="txtOfficePhone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>373, 63</value>
+  </data>
+  <data name="txtOfficePhone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>629, 92</value>
+  </data>
+  <data name="txtOfficeFax.Location" type="System.Drawing.Point, System.Drawing">
+    <value>372, 89</value>
+  </data>
+  <data name="txtOfficeFax.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 20</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>629, 61</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>457, 91</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 15</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="txtEmailAddress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>524, 88</value>
+  </data>
+  <data name="txtEmailAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 20</value>
+  </data>
+  <data name="txtSchoolMoto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>372, 37</value>
+  </data>
+  <data name="txtSchoolMoto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="label50.Location" type="System.Drawing.Point, System.Drawing">
+    <value>265, 40</value>
+  </data>
+  <data name="label50.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 15</value>
+  </data>
+  <data name="label50.Text" xml:space="preserve">
+    <value>Devise de l'école:</value>
+  </data>
+  <data name="labelControl7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 15</value>
+  </data>
+  <data name="labelControl7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 14</value>
+  </data>
+  <data name="labelControl7.Text" xml:space="preserve">
+    <value>Nom de l'école:</value>
+  </data>
+  <data name="txtSchoolName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>372, 9</value>
+  </data>
+  <data name="txtSchoolName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 20</value>
+  </data>
+  <data name="wizardPageProfile.DescriptionText" xml:space="preserve">
+    <value>Ces informations seront utilisées pour les rapports, les reçus, etc.</value>
+  </data>
+  <data name="wizardPageProfile.Text" xml:space="preserve">
+    <value>Profil de l'école</value>
+  </data>
+  <data name="btnLocate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>269, 60</value>
+  </data>
+  <data name="btnLocate.Text" xml:space="preserve">
+    <value>&amp;Localiser...</value>
+  </data>
+  <data name="LabelLicensePath.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 37</value>
+  </data>
+  <data name="LabelLicensePath.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 13</value>
+  </data>
+  <data name="LabelLicensePath.Text" xml:space="preserve">
+    <value>Localisation actuelle:</value>
+  </data>
+  <data name="LicensePath.Size" type="System.Drawing.Size, System.Drawing">
+    <value>430, 20</value>
+  </data>
+  <data name="groupControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>583, 105</value>
+  </data>
+  <data name="groupControl1.Text" xml:space="preserve">
+    <value>Pour localiser le bon fichier de licence pour cette installation de l'application, cliquez sur le bouton Localiser</value>
+  </data>
+  <data name="LicenseStatusText.Text" xml:space="preserve">
+    <value>Statut de la licence</value>
+  </data>
+  <data name="wizardPageLicense.DescriptionText" xml:space="preserve">
+    <value>Localisez le fichier de licence que vous avez reçu après avoir acheté ce logiciel pour activer votre logiciel afin que vous puissiez avoir accès à toutes les fonctionnalités du logiciel</value>
+  </data>
+  <data name="wizardPageLicense.Text" xml:space="preserve">
+    <value>Localiser le fichier de licence</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICQAAAEAIADHBAAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAJAgGAAAA6Os44gAAAAlw
+        SFlzAAAuIwAALiMBeKU/dgAABHlJREFUWMPFl0tsVFUYx3/nnDszd2Y67XQKRQsUlPBIUFMUoiBEo0Ql
+        4jPBhbrxsfEVTSZhY+JKluxcuSAxMUZkZTTGxwI1JqBGSUNLAANFqaW2tJ3OdGbunbn3HBdzB6av4bY0
+        5Uu+nMU993z/73H+33eEMYZbKRZANpv9FHgJKAMCWCwqAUQBB9gNnGq2+fDhwzUAwL5gjS+RYwlg140A
+        XItAgBrgLeAHoGsRRj0gD3wG3AX4oVMAqGD9Hfgr0MVKLlhDpVHO2GwtdxFKbrHM9FgH67vAs8C/Ic6I
+        BDX0dsj9TQHUC+cR4OEFnvVBGABSGAoVm5ybmA3AklpNuAnybuJLS/oOMBwmAtqIiBJ6ZGW8gJIabcSs
+        TUpoSl6M/0qtbGkfYm9333QAAsNIqVXet+oie7v7juTcxJGwricjLoOFDN8MbEMjUEJPNy41V6bakULz
+        +tYfeXzDH5CcmA6goi1sqfX+TSdYv+7CY5Sse4GJEPYVlmfdreUnZ8bXTPaNdpOJF645BYKLuU62ZIbI
+        bv+a9s5LUG6BfOd0AFor7NiUbo06MJl6k4r9THgC1hB1jkesymmNqOfacrwIV4pp7l81wHu7jhFJTEKu
+        s0bYQZSup0BotBcTvtCQKpyn7I4DA/MbNWAEOMkoRtloWZp0WpiqxvJKJsm78UElNS9uPsnzPd+CVjXj
+        Us99C6LKI+cm1PELO9hdPntwwk0ebMq7WhJTPhtX/IOyKoBgc/sVLucz++9sGzVrWsbZ03WOdavPQyVe
+        0xnGa34YQzabLQpIIMzOCSd5sqKtLiV0BqjMY78iMBvGnNTw1sxg/4cPHkXZJYxW+G4CGS3bMl5Yj1Yp
+        yqkiWg4jzPisU54euR4BA2CEn46VMEZ8BDzXrOeWvIhzezL3wBN39KKsqsSLvizggGUXtqGtLqbaRaOb
+        wGXgz6BZHaMZ9wthvBnENP1WCcPVUvqVV3u+732o56cexjqOo1UaYUDb82HuDrTOsI8C56x5mPGFZvm/
+        Wk7JPWv79b6Nv0EufRQja8bDy2rgc2DboppR1bd0W7wAlrsCL7J6kX2oe65uWA/5x0FZDM6hOmZVfx7K
+        r4RyahLlVZeyG9bjuLIhVHNJV43lwk09CwGgGjrbEaA4u5pMzPWtCSkMqGoSP7KkAOpX53SgswnIKGLK
+        Y+/6Xoi4iqq9vBORpxWpaJnujqEavS7RSFb3/IYFFVNVrpZTnBi4J6BWsyQpqAZvgoPAWaCtyT9pS/rn
+        e0fXHXrKTbhIH7R10wAcoBU4EC5sZiCqvEOAu1S34B3gNWCsYTCdTzo0or/iW40PmpsG8EWgN/ZeaPJu
+        gs2ZIbCnbIpty3cLLKkZmsqwJjXG/k0nwYsCQiwLACEM406SFXaR93ceI56YBKdF3ezjJvTPVd9CGMkb
+        279i1W2XoJgGoceA/kXaPrUgABXfoj2RY23rKBRTNLTfJ4FfFmj8u/rAE/4CCwNGQjUGEafxyziwB+gJ
+        5ogdQavtCLilGOz5G/g1mAPOTJsJb6X8D273mI9mJaZjAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>EduXpress Système de Gestion Scolaire</value>
+  </data>
+</root>
